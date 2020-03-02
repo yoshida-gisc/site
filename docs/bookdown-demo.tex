@@ -24,53 +24,12 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{hyperref}
 \hypersetup{unicode=true,
-            pdftitle={A Minimal Book Example},
-            pdfauthor={Yihui Xie},
+            pdftitle={TAKAHIRO YOSHIDA'S WEBSITE},
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
 \usepackage{natbib}
 \bibliographystyle{apalike}
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\usepackage{framed}
-\definecolor{shadecolor}{RGB}{248,248,248}
-\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs}
 \usepackage{graphicx,grffile}
 \makeatletter
@@ -117,12 +76,11 @@
 
 \setlength{\droptitle}{-2em}
 
-  \title{A Minimal Book Example}
+  \title{TAKAHIRO YOSHIDA'S WEBSITE}
     \pretitle{\vspace{\droptitle}\centering\huge}
   \posttitle{\par}
-    \author{Yihui Xie}
-    \preauthor{\centering\large\emph}
-  \postauthor{\par}
+    \author{}
+    \preauthor{}\postauthor{}
       \predate{\centering\large\emph}
   \postdate{\par}
     \date{2020-03-02}
@@ -143,121 +101,319 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\hypertarget{prerequisites}{%
-\chapter{Prerequisites}\label{prerequisites}}
+\hypertarget{welcome}{%
+\chapter*{Welcome!}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome!}
 
-This is a \emph{sample} book written in \textbf{Markdown}. You can use anything that Pandoc's Markdown supports, e.g., a math equation \(a^2 + b^2 = c^2\).
+\hypertarget{about}{%
+\section*{About}\label{about}}
+\addcontentsline{toc}{section}{About}
 
-The \textbf{bookdown} package can be installed from CRAN or Github:
+\textbf{Takahiro Yoshida} (吉田 崇紘) is a Research Associate of Center for Global Environmental Research, National Institute for Environmental Studies, Japan. He received his Ph.D.~degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS, GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban analysis. (photo: at Mount Tsurugi, Toyama, Japan.)
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\KeywordTok{install.packages}\NormalTok{(}\StringTok{"bookdown"}\NormalTok{)}
-\CommentTok{# or the development version}
-\CommentTok{# devtools::install_github("rstudio/bookdown")}
-\end{Highlighting}
-\end{Shaded}
+\hypertarget{education}{%
+\section*{Education}\label{education}}
+\addcontentsline{toc}{section}{Education}
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading \texttt{\#}.
+\begin{itemize}
+\tightlist
+\item
+  Ph.D.~in Policy and Planning Sciences, University of Tsukuba, March 2018.
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): \url{https://yihui.name/tinytex/}.
+  \begin{itemize}
+  \tightlist
+  \item
+    {[}Dissertation title{]} Methodological developments and socio-economic applications of compositional data analysis for geographical data.
+  \end{itemize}
+\item
+  M.Sc. in Engineering, University of Tsukuba, March 2015.
+\item
+  B.Sc. in Policy and Planning Sciences, University of Tsukuba, March 2013.
+\end{itemize}
 
-\hypertarget{intro}{%
-\chapter{Introduction}\label{intro}}
+\hypertarget{work-experience}{%
+\section*{Work experience}\label{work-experience}}
+\addcontentsline{toc}{section}{Work experience}
 
-You can label chapter and section titles using \texttt{\{\#label\}} after them, e.g., we can reference Chapter \ref{intro}. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \ref{methods}.
+\begin{itemize}
+\tightlist
+\item
+  April 2019 -- present
 
-Figures and tables with captions will be placed in \texttt{figure} and \texttt{table} environments, respectively.
+  \begin{itemize}
+  \tightlist
+  \item
+    Part-Time Lecturer, Department of International Economics, Faculty of Economics, Toyo University, Japan.
+  \end{itemize}
+\item
+  April 2018 -- present
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\KeywordTok{par}\NormalTok{(}\DataTypeTok{mar =} \KeywordTok{c}\NormalTok{(}\DecValTok{4}\NormalTok{, }\DecValTok{4}\NormalTok{, }\FloatTok{.1}\NormalTok{, }\FloatTok{.1}\NormalTok{))}
-\KeywordTok{plot}\NormalTok{(pressure, }\DataTypeTok{type =} \StringTok{'b'}\NormalTok{, }\DataTypeTok{pch =} \DecValTok{19}\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
+  \begin{itemize}
+  \tightlist
+  \item
+    Research Associate, Center for Global Environmental Research,
+    National Institute for Environmental Studies, Japan.
+  \end{itemize}
+\item
+  April 2016 -- March 2018
 
-\begin{figure}
+  \begin{itemize}
+  \tightlist
+  \item
+    Research Fellow (DC2), Japan Society for the Promotion of Science, Japan.
+  \end{itemize}
+\end{itemize}
 
-{\centering \includegraphics[width=0.8\linewidth]{bookdown-demo_files/figure-latex/nice-fig-1} 
+\hypertarget{contact}{%
+\section*{Contact}\label{contact}}
+\addcontentsline{toc}{section}{Contact}
 
-}
+\begin{itemize}
+\tightlist
+\item
+  Phone: +81-29-850-2419
+\item
+  E-mail: yoshida.takahiro \emph{at} nies.go.jp
+\item
+  Address: 16-2 Onogawa, Tsukuba, Ibaraki 305-8506, Japan
+\end{itemize}
 
-\caption{Here is a nice figure!}\label{fig:nice-fig}
-\end{figure}
+\hypertarget{works}{%
+\chapter*{Works}\label{works}}
+\addcontentsline{toc}{chapter}{Works}
 
-Reference a figure by its code chunk label with the \texttt{fig:} prefix, e.g., see Figure \ref{fig:nice-fig}. Similarly, you can reference tables generated from \texttt{knitr::kable()}, e.g., see Table \ref{tab:nice-tab}.
+\hypertarget{in-progress-under-review}{%
+\section*{In progress / under review}\label{in-progress-under-review}}
+\addcontentsline{toc}{section}{In progress / under review}
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{knitr}\OperatorTok{::}\KeywordTok{kable}\NormalTok{(}
-  \KeywordTok{head}\NormalTok{(iris, }\DecValTok{20}\NormalTok{), }\DataTypeTok{caption =} \StringTok{'Here is a nice table!'}\NormalTok{,}
-  \DataTypeTok{booktabs =} \OtherTok{TRUE}
-\NormalTok{)}
-\end{Highlighting}
-\end{Shaded}
+\begin{itemize}
+\item
+  Hajime Seya, Takahiro Yoshida
+  \textbf{Propensity score matching for multiple treatment levels: A CODA-based contribution.}
+  arXiv: 1710.08558 {[}\href{https://arxiv.org/abs/1710.08558}{LINK}{]}
+\item
+  Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi
+  \textbf{A Monte Carlo study: Spatial multinomial discrete choice models.}
+  presented at the Spatial Econometrics Association 2016
+\item
+  Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi
+  \textbf{Spatial seemingly unrelated regression models combined with compositional data analysis approach.}
+  presented at the Spatial Econometrics Association 2019
+\item
+  Takahiro Yoshida, Masato Tomonari, Hajime Seya, Morito Tsutsumi
+  \textbf{On the relationships between amount of zero responses and goodness-of-fits of compositional models.}
+\item
+  Takahiro Yoshida, Daisuke Murakami, Narumasa Tsutsumida, Tomoki Nakaya
+  \textbf{GWRComp: Geographically weighted regression for compositional data.}
+\item
+  Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii, Anna Ebata
+  \textbf{Identification of regional difference of election voting trends: Functional compositional data clustering approach.}
+\item
+  + one paper, two books, and one translation are coming soon.
+\end{itemize}
 
-\begin{table}[t]
+\hypertarget{refereed-papers}{%
+\section*{Refereed papers}\label{refereed-papers}}
+\addcontentsline{toc}{section}{Refereed papers}
 
-\caption{\label{tab:nice-tab}Here is a nice table!}
-\centering
-\begin{tabular}{rrrrl}
-\toprule
-Sepal.Length & Sepal.Width & Petal.Length & Petal.Width & Species\\
-\midrule
-5.1 & 3.5 & 1.4 & 0.2 & setosa\\
-4.9 & 3.0 & 1.4 & 0.2 & setosa\\
-4.7 & 3.2 & 1.3 & 0.2 & setosa\\
-4.6 & 3.1 & 1.5 & 0.2 & setosa\\
-5.0 & 3.6 & 1.4 & 0.2 & setosa\\
-\addlinespace
-5.4 & 3.9 & 1.7 & 0.4 & setosa\\
-4.6 & 3.4 & 1.4 & 0.3 & setosa\\
-5.0 & 3.4 & 1.5 & 0.2 & setosa\\
-4.4 & 2.9 & 1.4 & 0.2 & setosa\\
-4.9 & 3.1 & 1.5 & 0.1 & setosa\\
-\addlinespace
-5.4 & 3.7 & 1.5 & 0.2 & setosa\\
-4.8 & 3.4 & 1.6 & 0.2 & setosa\\
-4.8 & 3.0 & 1.4 & 0.1 & setosa\\
-4.3 & 3.0 & 1.1 & 0.1 & setosa\\
-5.8 & 4.0 & 1.2 & 0.2 & setosa\\
-\addlinespace
-5.7 & 4.4 & 1.5 & 0.4 & setosa\\
-5.4 & 3.9 & 1.3 & 0.4 & setosa\\
-5.1 & 3.5 & 1.4 & 0.3 & setosa\\
-5.7 & 3.8 & 1.7 & 0.3 & setosa\\
-5.1 & 3.8 & 1.5 & 0.3 & setosa\\
-\bottomrule
-\end{tabular}
-\end{table}
+a
 
-You can write citations, too. For example, we are using the \textbf{bookdown} package \citep{R-bookdown} in this sample book, which was built on top of R Markdown and \textbf{knitr} \citep{xie2015}.
+\hypertarget{refereed-full-paper-proceedings}{%
+\section*{Refereed full paper proceedings}\label{refereed-full-paper-proceedings}}
+\addcontentsline{toc}{section}{Refereed full paper proceedings}
 
-\hypertarget{literature}{%
-\chapter{Literature}\label{literature}}
+a
 
-Here is a review of existing methods.
+\hypertarget{book-chapters}{%
+\section*{Book chapters}\label{book-chapters}}
+\addcontentsline{toc}{section}{Book chapters}
 
-\hypertarget{methods}{%
-\chapter{Methods}\label{methods}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Yoshiki Yamagata, Takahiro Yoshida (2020)
+  \textbf{Kyojima smart community studio: Urban systems design.}
+  In Thomas Fisher, Brian Orland, Carl Steinitz (eds.)
+  \emph{The International Geodesign Collaboration: Changing Geography by Design}, in press. Esri Press.
+  {[}\href{https://esripress.esri.com/display/index.cfm?fuseaction=display\&websiteID=388\&moduleID=0}{LINK}{]}
+\item
+  Yoshiki Yamagata, Takahiro Yoshida, Perry P. J. Yang, Helen Chen, Daisuke Murakami, Leena Ilmola (2020)
+  \textbf{Measuring quality of walkable urban environment through experiential modeling.}
+  In Yoshiki Yamagata, Perry P. J. Yang (eds.)
+  \emph{Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,} 373--392. Elsevier.
+  DOI: 10.1016/B978-0-12-816055-8.00012-9 {[}\href{https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8}{LINK}{]}
+\item
+  Takuro Kobashi, Yoshiki Yamagata, Takahiro Yoshida, Soowon Chang, Yasunori Mochizuki, Amanda Ahl, Jelena Aleksejeva (2020)
+  \textbf{Smart city and ICT infrastructure with vehicle to X applications toward urban decarbonization.}
+  In Yoshiki Yamagata, Perry P. J. Yang (eds.)
+  \emph{Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,} 289--333. Elsevier.
+  DOI: 10.1016/B978-0-12-816055-8.00009-9 {[}\href{https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8}{LINK}{]}
+\item
+  Yoshiki Yamagata, Takahiro Yoshida, Soowon Chang, Peraphan Jittrapirom, Sylvia Coleman, John Robinson, Roger Cremades, Dirk Neumann (2020)
+  \textbf{Case studies towards smart communities.}
+  In Yoshiki Yamagata, Perry P. J. Yang (eds.)
+  \emph{Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,} 257--288. Elsevier.
+  DOI: 10.1016/B978-0-12-816055-8.00008-7 {[}\href{https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8}{LINK}{]}
+\item
+  Takahiro Yoshida, Yoshiki Yamagata, Soowon Chang, Vincent de Gooyert, Hajime Seya, Daisuke Murakami, Peraphan Jittrapirom, Gerasimos Voulgaris (2020)
+  \textbf{Spatial modelling and design of smart communities.}
+  In Yoshiki Yamagata, Perry P. J. Yang (eds.)
+  \emph{Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,} 199--255. Elsevier.
+  DOI: 10.1016/B978-0-12-816055-8.00007-5 {[}\href{https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8}{LINK}{]}
+\item
+  Yoshiki Yamagata, Perry P. J. Yang, Soowon Chang, Michael B. Tobey, Robert B. Binder, Pieter J. Fourie, Peraphan Jittrapirom, Takuro Kobashi, Takahiro Yoshida, Jelena Aleksejeva (2020)
+  \textbf{Urban systems and the role of big data.}
+  In Yoshiki Yamagata, Perry P. J. Yang (eds.)
+  \emph{Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era}, 23--58. Elsevier.
+  DOI: 10.1016/B978-0-12-816055-8.00002-6 {[}\href{https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8}{LINK}{]}
+\item
+  Yoshiki Yamagata, Takahiro Yoshida (2019)
+  \textbf{Tokyo smart city studio: An urban systems design approach.}
+  In Sean Nicklin, Ben Cornwell, Leigh Trowbridge (eds.)
+  \emph{A Better World: Sustainable Cities and Communities}, 5, 32--35. Tudor Rose.
+  {[}\href{http://unhabitat.org.mm/publications/a-better-world-volume-5/}{LINK}{]}
+\item
+  Takahiro Yoshida, Yoshiki Yamagata (2019)
+  \textbf{Quasi real time energy use estimation using Google's popular time data.}
+  In Yoshiki Yamagata, Hajime Seya (eds.)
+  \emph{Spatial Analysis Using Big Data: Methods and Urban Applications,} 271--280. Elsevier.
+  DOI: 10.1016/B978-0-12-813127-5.00011-4 {[}\href{https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5}{LINK}{]}
+\item
+  Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019)
+  \textbf{Evaluating walkability using mobile GPS data.}
+  In Yoshiki Yamagata, Hajime Seya (eds.)
+  \emph{Spatial Analysis Using Big Data: Methods and Urban Applications,} 239--257. Elsevier.
+  DOI: 10.1016/B978-0-12-813127-5.00009-6 {[}\href{https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5}{LINK}{]}
+\item
+  Takahiro Yoshida, Daisuke Murakami (2019)
+  \textbf{Implementation with R language.}
+  In Yoshiki Yamagata, Hajime Seya (eds.)
+  \emph{Spatial Analysis Using Big Data: Methods and Urban Applications,} 181--223. Elsevier.
+  DOI: 10.1016/B978-0-12-813127-5.00007-2 {[}\href{https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5}{LINK}{]}
+\item
+  Hajime Seya, Takahiro Yoshida, Yoshiki Yamagata (2019)
+  \textbf{Spatial econometric models.}
+  In Yoshiki Yamagata, Hajime Seya (eds.)
+  \emph{Spatial Analysis Using Big Data: Methods and Urban Applications,} 113--158. Elsevier.
+  DOI: 10.1016/B978-0-12-813127-5.00005-9 {[}\href{https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5}{LINK}{]}
+\item
+  Takahiro Yoshida, Morito Tsutsumi (2017)
+  \textbf{Cluster analysis.}
+  In Committee of Infrastructure Planning and Management (eds.)
+  \emph{Handbook of Infrastructure Planning and Management}, 118--120. Corona Publishing.
+  {[}in Japanese{]} {[}\href{http://www.coronasha.co.jp/doboku-hb.html}{LINK}{]}
+\end{enumerate}
 
-We describe our methods in this chapter.
+\hypertarget{book-translation}{%
+\section*{Book translation}\label{book-translation}}
+\addcontentsline{toc}{section}{Book translation}
 
-\hypertarget{applications}{%
-\chapter{Applications}\label{applications}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Giuseppe Arbia (2014)
+  \textbf{\emph{A Primer for Spatial Econometrics: With Applications in R.}} Palgrave Macmillan.
+  Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, Keisuke Takano, Masato Tomonari (2016) ―. Keiso shobo.
+  {[}in Japanese{]} {[}\href{http://www.keisoshobo.co.jp/book/b222571.html}{LINK}{]}
+\end{enumerate}
 
-Some \emph{significant} applications are demonstrated in this chapter.
+\hypertarget{honors}{%
+\chapter*{Honors}\label{honors}}
+\addcontentsline{toc}{chapter}{Honors}
 
-\hypertarget{example-one}{%
-\section{Example one}\label{example-one}}
+\hypertarget{awards}{%
+\section*{Awards}\label{awards}}
+\addcontentsline{toc}{section}{Awards}
 
-\hypertarget{example-two}{%
-\section{Example two}\label{example-two}}
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Excellent Research Presentation Award}, CSIS DAYS 2018 (Center for Spatial Information Science, The University of Tokyo), November 2018.
+  (with Yoshiki Yamagata, Daisuke Murakami, and Tomoko Matsui)
+\item
+  \textbf{GISA Award: Research Initiative Category}, GIS Association of Japan, October 2018.
+\item
+  \textbf{Poster Session Award}, GIS Association of Japan, October 2018.
+  (with Anna Ebata, Kazuki Tamesue, Hajime Seya, and Morito Tsutsumi)
+\item
+  \textbf{Map Gallery Award (the second place)}, ESRI Japan, Corp., May 2018.
+  (with Anna Ebata)
+\item
+  \textbf{Young Scholar Award}, Environmental Systems Research Institute (ESRI), Inc., July 2017.
+\item
+  \textbf{President's Award}, University of Tsukuba, March 2017.
+  (with Marisa Yamaguchi and Rim Er-Rbib)
+\item
+  \textbf{Poster Session Award}, GIS Association of Japan, October 2016.
+  (with Morito Tsutsumi)
+\item
+  \textbf{Map Gallery Award (the fourth place)}, ESRI Japan, Corp., May 2016.
+  (with Shuhei Adachi, Yoi Kana, and Naoya Yanagisawa)
+\item
+  \textbf{Best Student Award}, Graduate School of Systems and Information Engineering, University of Tsukuba, March 2015.
+\item
+  \textbf{S-PLUS Student Research Encouragement Award (the first place)}, NTT DATA Mathematical Systems, Inc., November 2014.
+\item
+  \textbf{Excellent Presentation Award}, GIS Association of Japan, November 2014.
+\end{itemize}
 
-\hypertarget{final-words}{%
-\chapter{Final Words}\label{final-words}}
+\hypertarget{research-grants}{%
+\section*{Research Grants}\label{research-grants}}
+\addcontentsline{toc}{section}{Research Grants}
 
-We have finished a nice book.
+\textbf{Principal Investigator}
+
+\begin{itemize}
+\tightlist
+\item
+  April 2016 -- March 2018
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Grant-in-Aid for JSPS Fellows,
+    Japan Society for the Promotion of Science.
+  \end{itemize}
+\item
+  October 2015 -- March 2016
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Young Scientist Cultivation Program,
+    Graduate School of Systems and Information Engineering, University of Tsukuba.
+  \end{itemize}
+\end{itemize}
+
+\textbf{Co-Investigator}
+
+\begin{itemize}
+\tightlist
+\item
+  April 2019 -- present
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi),
+    Japan Society for the Promotion of Science.
+  \end{itemize}
+\item
+  June 2018 -- present
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida),
+    Research Organization of Information and Systems.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{note}{%
+\chapter*{Note}\label{note}}
+\addcontentsline{toc}{chapter}{Note}
 
 \bibliography{book.bib,packages.bib}
 
