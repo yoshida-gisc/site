@@ -4,8 +4,6 @@ bookdown::gitbook:
     toc:
       before: |
         <li><a href="./">TAKAHIRO YOSHIDA'S WEBSITE</a></li>
-      after: |
-        <li><a href="http://www.nies.go.jp/index-e.html" target="blank">NIES</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
