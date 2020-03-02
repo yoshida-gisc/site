@@ -72,11 +72,176 @@ presented at the Spatial Econometrics Association 2019
 
 ## Refereed papers  {-}
 
-a
+1. Takuro Kobashi, Kelvin Say, Jiayang Wang, Masaru Yarime, Dong Wang, Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
+**Techno-economic assessment of photovoltaics plus electric vehicles towards household-sector decarbonization in Kyoto and Shenzhen by the year 2030.** <br>
+*Journal of Cleaner Production,* 253, 119933. <br>
+DOI: 10.1016/j.jclepro.2019.119933 [[LINK](https://doi.org/10.1016/j.jclepro.2019.119933)]
+2. Takahiro Yoshida, Rim Er-rbib, Morito Tsutsumi (2019) <br>
+**Which country epitomizes the world? A study from the perspective of demographic composition.** <br>
+*Sustainability,* 11 (22), 6404. <br>
+DOI: 10.3390/su11226404 [[LINK](https://www.mdpi.com/2071-1050/11/22/6404)]
+3. Michael B. Tobey, Robert B. Binder, Soowon Chang, Takahiro Yoshida, Yoshiki Yamagata, Perry P. J. Yang (2019) <br>
+**Urban systems design: A conceptual framework for planning smart communities.** <br>
+*Smart Cities,* 2 (4), 522–537. <br>
+DOI: 10.3390/smartcities2040032 [[LINK](https://www.mdpi.com/2624-6511/2/4/32)]
+4. Michael B. Tobey, Robert B. Binder, Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
+**Urban systems design case study: Tokyo's Sumida ward.** <br>
+*Smart Cities,* 2 (4), 453–470. <br>
+DOI: 10.3390/smartcities2040028 [[LINK](https://www.mdpi.com/2624-6511/2/4/28)]
+5. Yoshiki Yamagata, Takahiro Yoshida, Daisuke Murakami, Tomoko Matsui, Yuki Akiyama (2018) <br>
+**Seasonal urban carbon emission estimation using spatial micro big data.** <br>
+*Sustainability,* 10 (12), 4472. <br>
+DOI: 10.3390/su10124472 [[LINK](https://www.mdpi.com/2071-1050/10/12/4472)]
+6. Takahiro Yoshida, Morito Tsutsumi (2018) <br>
+**On the effects of spatial relationships in spatial compositional multivariate models.** <br>
+*Letters in Spatial and Resource Sciences,* 11 (1), 57–70. <br>
+DOI: 10.1007/s12076-017-0199-5 [[LINK](https://link.springer.com/article/10.1007/s12076-017-0199-5)]
+7. Takahiro Yoshida, Morito Tsutsumi (2017) <br>
+**The epitome of the future Japan from the perspective of demographic composition: Application of compositional data analysis to population studies.** <br>
+*Theory and Applications of GIS,* 25 (2), 79–89. <br>
+DOI: 10.5638/thagis.25.79 [in Japanese] [[LINK](https://www.jstage.jst.go.jp/article/thagis/25/2/25_79/_article/-char/en)]
+8. Daisuke Murakami, Takahiro Yoshida, Hajime Seya, Daniel A. Griffith, Yoshiki Yamagata (2017) <br>
+**A Moran coefficient-based mixed effects approach to investigate spatially varying relationships.** <br>
+*Spatial Statistics,* 19, 68–89. <br>
+DOI: 10.1016/j.spasta.2016.12.001 [[LINK](http://www.sciencedirect.com/science/article/pii/S2211675316301798)]
+9. Hajime Seya, Takahiro Yoshida, Morito Tsutsumi (2016) <br>
+**Ex-post identification of geographical extent of benefited area by a transportation project: Functional data analysis method.** <br>
+*Journal of Transport Geography,* 55, 1–10. <br>
+DOI: 10.1016/j.jtrangeo.2016.07.004 [[LINK](http://www.sciencedirect.com/science/article/pii/S0966692316303763)]
+10. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida, Hajime Seya, Sho Kuroda (2016) <br>
+**Value of urban views in a bay city: Hedonic analysis with the spatial multilevel additive regression (SMAR) model.** <br>
+*Landscape and Urban Planning,* 151, 89–102. <br>
+DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/science/article/pii/S0169204616000232)]
 
 ## Refereed full paper proceedings {-}
 
-a
+1. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
+**Spatially detail urban carbon mapping: Integration of top-down and bottom-up approaches.** <br>
+*Proceedings of the 15th International Conference on Geocomputation,* 7.3. <br>
+DOI: 10.17608/k6.auckland.9848738.v1 [[LINK](https://doi.org/10.17608/k6.auckland.9848738.v1)] <br>
+presented at the 15th International Conference on Geocomputation (Geocomputation2019), Queenstown, New Zealand, September 18–21, 2019.
+2. Yoshiki Yamagata, Takahiro Yoshida, Haruna Matsui, Perry Yang, Chen Helen (2019) <br>
+**Experiential modelling of urban street: a combining approach with neural image assessment and street experiment.** <br>
+*Proceedings of the 15th International Conference on Geocomputation,* 8.6. <br>
+DOI: 10.17608/k6.auckland.9848270.v1 [[LINK](https://doi.org/10.17608/k6.auckland.9848270.v1)] <br>
+presented at the 15th International Conference on Geocomputation (Geocomputation2019), Queenstown, New Zealand, September 18–21, 2019.
+3. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2019) <br>
+**Scalable geographically weighted regression for big data.** <br>
+*Proceedings of the 15th International Conference on Geocomputation,* 6.4. <br>
+DOI: 10.17608/k6.auckland.9850898.v1 [[LINK](https://doi.org/10.17608/k6.auckland.9850898.v1)] <br>
+presented at the 15th International Conference on Geocomputation (Geocomputation2019), Queenstown, New Zealand, September 18–21, 2019.
+4. Narumasa Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2019) <br>
+**Geographically Weighted Non-negative Principal Component Analysis for Exploring Spatial Variation in Multidimensional Composite Index.** <br>
+*Proceedings of the 15th International Conference on Geocomputation,* 6.5. <br>
+DOI: 10.17608/k6.auckland.9850826.v1 [[LINK](https://doi.org/10.17608/k6.auckland.9850826.v1)] <br>
+presented at the 15th International Conference on Geocomputation (Geocomputation2019), Queenstown, New Zealand, September 18–21, 2019.
+5. Takahiro Yoshida, Soowon Chang, Daisuke Murakami, Yoshiki Yamagata (2019) <br>
+**The relationships between energy consumption and surface temperature: A combining multiple-scale observations approach.** <br>
+*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0940. <br>
+presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
+6. Takuro Kobashi, Takahiro Yoshida, Katsuhiko Naito, Stefan Pfenninger, Yoshiki Yamagata (2019) <br>
+**Cost-optimal pathways to decarbonize urban energy systems with PV, batteries, and electric vehicles: A case study for Kyoto, Japan.** <br>
+*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0107. <br>
+presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
+7. Soowon Chang, Takahiro Yoshida, Michael Tobey, Yoshiki Yamagata, Perry Yang (2019) <br>
+**Trandformative model of urban buildings optimizing energy demands, solar harvesting potential, and indoor thermal comfort.** <br>
+*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0355. <br>
+presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
+8. Michael Tobey, Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata (2019) <br>
+**Measuring resiliencce, economy, sustainability, and human well-being in multiple scales for urban diagnostics.** <br>
+*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0904. <br>
+presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
+9. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019) <br>
+**Spatiotemporal heatwave risk evaluation: Considering hazard, exposure, and vulnerability.** <br>
+*Proceedings of the 2019 IEEE Geoscience and Remote Sensing Society Symposium,* 5524–5527. <br>
+DOI: 10.1109/IGARSS.2019.8898442 [[LINK](https://ieeexplore.ieee.org/document/8898442)] <br>
+presented at the 39th annual conference of the the IEEE Geoscience and Remote Sensing Society (IGARSS2019), Yokohama, Japan, July 28–August 2, 2019.
+10. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
+**Spatially detail heat stress evaluation using people flow and ground surface temperature data.** <br>
+*Proceedings of the 2019 IEEE Geoscience and Remote Sensing Society Symposium,* in press. <br>
+DOI: in press [LINK] <br>
+presented at the 39th annual conference of the the IEEE Geoscience and Remote Sensing Society (IGARSS2019), Yokohama, Japan, July 28–August 2, 2019.
+11. Daisuke Murakami, Yoshiki Yamagata, Takahiro Yoshida, Tomoko Matsui (2019) <br>
+**Spatiotemporal heatwave risk modeling combining multiple observations.** <br>
+*Proceedings of the 2019 IEEE Geoscience and Remote Sensing Society Symposium,* 5516–5519. <br>
+DOI: 10.1109/IGARSS.2019.8898761 [[LINK](https://ieeexplore.ieee.org/document/8898761)] <br>
+presented at the 39th annual conference of the the IEEE Geoscience and Remote Sensing Society (IGARSS2019), Yokohama, Japan, July 28–August 2, 2019.
+12. Daisuke Murakami, Tomoko Matsui, Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
+**A GPS-based simple evaluation simulation approach: Case study in Joso, Japan.** <br>
+*Proceedings of the 2019 IEEE Geoscience and Remote Sensing Society Symposium,* 5636–5637. <br>
+DOI: 10.1109/IGARSS.2019.8898041 [[LINK](https://ieeexplore.ieee.org/document/8898041)] <br>
+presented at the 39th annual conference of the the IEEE Geoscience and Remote Sensing Society (IGARSS2019), Yokohama, Japan, July 28–August 2, 2019.
+13. Takahiro Yoshida, Kei Hiroi, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
+**Verification on evaluation of flood disaster by using GPS: Case study in Mabi, Japan 2018.** <br>
+*Proceedings of the 2019 IEEE Geoscience and Remote Sensing Society Symposium,* 5633–5635. <br>
+DOI: 10.1109/IGARSS.2019.8898574 [[LINK](https://ieeexplore.ieee.org/document/8898574)] <br>
+presented at the 39th annual conference of the the IEEE Geoscience and Remote Sensing Society (IGARSS2019), Yokohama, Japan, July 28–August 2, 2019.
+14. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
+**Individual level heat risk evaluation using GPS towards smart navigation system.** <br>
+*Proceedings of the International Cartographic Association,* 2, 152. <br>
+DOI: 10.5194/ica-proc-2-152-2019 [[LINK](https://www.proc-int-cartogr-assoc.net/2/152/2019/)] <br>
+presented at the 29th International Cartographic Conference (ICC2019), Tokyo, Japan, July 15–20, 2019.
+15. Takahiro Yoshida, Michael Tobey, Soowon Chang, Yoshiki Yamagata (2019) <br>
+**Carbon emission intensities of each building typology: Towards a standardized framework.** <br>
+*Proceedings of the 16th International Conference on Computers in Urban Planning and Urban Management* (July 8–12, 2019; Wuhan, China), 799185. <br>
+presented at the 16th International Conference on Computers in Urban Planning and Urban Management (CUPUM2019), Wuhan, China, July 8–12, 2019.
+16. Michael Tobey, Robert Binder, Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
+**Urban systems design applicability case study: Applying urban systems design framework to North Sumida Ward Tokyo.** <br>
+*Proceedings of the 16th International Conference on Computers in Urban Planning and Urban Management* (July 8–12, 2019; Wuhan, China), 798881. <br>
+presented at the 16th International Conference on Computers in Urban Planning and Urban Management (CUPUM2019), Wuhan, China, July 8–12, 2019.
+17. Michael Tobey, Robert Binder, Soowon Chang, Takahiro Yoshida, Yoshiki Yamagata, Perry Yang (2019) <br>
+**Urban systems design conceptual framework: Modeling, design, and emergent iterative smart communities.** <br>
+*Proceedings of the 16th International Conference on Computers in Urban Planning and Urban Management* (July 8–12, 2019; Wuhan, China), 798833. <br>
+presented at the 16th International Conference on Computers in Urban Planning and Urban Management (CUPUM2019), Wuhan, China, July 8–12, 2019.
+18. Takahiro Yoshida, Yoshiki Yamagata, Anna Ebata, Daisuke Murakami, Kanae Matsui (2019) <br>
+**Estimating quasi-real-time building energy demand using occupancy information: A case study in Sumida, Tokyo.** <br>
+*Proceedings of the CIB World Building Congress 2019* (June 17–21, 2019; Hong Kong, China), 130–136. <br>
+[[LINK](https://site.cibworld.nl/dl/publications/WBC19/WBC_Proceedings_June2019_Complete.pdf)] <br>
+presented at International Council for Research and Innovation in Building and Construction World Building Congress (CIBWBC2019), Hong Kong, China, June 17–21, 2019.
+19. Soowon Chang, Takahiro Yoshida, Kanae Matsui, Daniel Castro-Lacouture, Yoshiki Yamagata (2019) <br>
+**A sustainability provision system of energy demands and indoor thermal comfort by integrating building energy models with IoT: Focusing on residential building in Kyojima, Tokyo.** <br>
+*Proceedings of the CIB World Building Congress 2019* (June 17–21, 2019; Hong Kong, China), 137–146. <br>
+[[LINK](https://site.cibworld.nl/dl/publications/WBC19/WBC_Proceedings_June2019_Complete.pdf)] <br>
+presented at International Council for Research and Innovation in Building and Construction World Building Congress (CIBWBC2019), Hong Kong, China, June 17–21, 2019.
+20. Yoshiki Yamagata, Takahiro Yoshida, Daisuke Murakami (2019) <br>
+**Modeling uncertainty in electricity resilient community clustering: a spatial BigData approach.** <br>
+*Proceedings of the CIB World Building Congress 2019* (June 17–21, 2019; Hong Kong, China), 123–129. <br>
+[[LINK](https://site.cibworld.nl/dl/publications/WBC19/WBC_Proceedings_June2019_Complete.pdf)] <br>
+presented at International Council for Research and Innovation in Building and Construction World Building Congress (CIBWBC2019), Hong Kong, China, June 17–21, 2019.
+21. Kei Hiroi, Takahiro Yoshida, Yoshiki Yamagata, Nobuo Kawaguchi (2019) <br>
+**Flood area estimation using personal location data: Case study of Japan floods in 2018.** <br>
+*Proceedings of the 2019 IEEE International Conference on Pervasive Computing and Communications,* 285–291. <br>
+DOI: 10.1109/percomw.2019.8730882 [[LINK](https://ieeexplore.ieee.org/document/8730882)] <br>
+presented at the 4th IEEE International Workshop on Pervasive Context-Aware Smart Cities and Intelligent Transport Systems (PerAwareCity2019) in conjunction with the 17th IEEE Pervasive Computing and Communications (PerCom2019), Kyoto, Japan, March 11–15, 2019.
+22. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
+**Energy demand estimation using quasi-real-time people activity data.** <br>
+*Energy Procedia,* 158, 4172–4177. <br>
+DOI: 10.1016/j.egypro.2019.01.813 [[LINK](https://www.sciencedirect.com/science/article/pii/S1876610219308537)] <br>
+presented at the 10th International Conference on Applied Energy (ICAE2018), Hong Kong, China, August 22–25, 2018.
+23. Daisuke Murakami, Yoshiki Yamagata, Takahiro Yoshida, Tomoko Matsui (2019) <br>
+**Optimization of local microgrid model for energy sharing considering daily variations in supply and demand.** <br>
+*Energy Procedia,* 158, 4109–4114. <br>
+DOI: 10.1016/j.egypro.2019.01.823 [[LINK](https://www.sciencedirect.com/science/article/pii/S187661021930863X)] <br>
+presented at the 10th International Conference on Applied Energy (ICAE2018), Hong Kong, China, August 22–25, 2018.
+24. Yoshiki Yamagata, Daisuke Murakami, Yihan Wu, Perry Pei-Ju Yang, Takahiro Yoshida, Robert Binder (2019) <br>
+**Big-data analysis for carbon emission reduction from cars: Towards walkable green smart community.** <br>
+*Energy Procedia,* 158, 4292–4297. <br>
+DOI: 10.1016/j.egypro.2019.01.795 [[LINK](https://www.sciencedirect.com/science/article/pii/S1876610219308331)] <br>
+presented at the 10th International Conference on Applied Energy (ICAE2018), Hong Kong, China, August 22–25, 2018.
+25. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2018) <br>
+**Dynamic carbon mapping with micro-urban simulations towards urban system design of near zero.** <br>
+*Proceedings of the 2018 Council of Engineering Systems Universities* (June 20–22, 2018; Tokyo, Japan), SU2-1. <br>
+presented at the Council of Engineering Systems Universities 2018 Global Conference (CESUN2018), Tokyo, Japan, June 20–22, 2018.
+26. Ayyoob Sharifi, Yihan Wu, Dararat Khamchiangta, Takahiro Yoshida, Yoshiki Yamagata (2018) <br>
+**Urban carbon mapping: Towards a standardized framework.** <br>
+*Energy Procedia,* 152, 799–808. <br>
+DOI: 10.1016/j.egypro.2018.09.193 [[LINK](https://www.sciencedirect.com/science/article/pii/S1876610218307379)] <br>
+presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2018), Shanghai, China, June 5–7, 2018.
+27. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2017) <br>
+**Dynamic urban carbon mapping with spatial big data.** <br>
+*Energy Procedia,* 142, 2461–2466. <br>
+DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/article/pii/S1876610217359131)] <br>
+presented at the 9th International Conference on Applied Energy (ICAE2017), Cardiff, UK, August 21–24, 2017.
 
 ## Book chapters {-}
 
@@ -173,7 +338,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Research Grants {-}
 
-**Principal Investigator**
+### Principal Investigator
 
 - April 2016 – March 2018
     - Grant-in-Aid for JSPS Fellows, <br>
@@ -182,7 +347,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Young Scientist Cultivation Program, <br>
     Graduate School of Systems and Information Engineering, University of Tsukuba.
 
-**Co-Investigator**
+### Co-Investigator
 
 - April 2019 – present
     - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
