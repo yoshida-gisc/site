@@ -1,6 +1,6 @@
 --- 
 title: "TAKAHIRO YOSHIDA'S WEBSITE"
-author: "Takahiro Yoshida"
+author: ""
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,25 +11,191 @@ link-citations: yes
 description: "This is Takahiro Yoshida's website."
 ---
 
-# Prerequisites
+# Welcome! {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+## About {-}
 
-The **bookdown** package can be installed from CRAN or Github:
+**Takahiro Yoshida** (吉田 崇紘) is a Research Associate of Center for Global Environmental Research, National Institute for Environmental Studies, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS, GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban analysis. (photo: at Mount Tsurugi, Toyama, Japan.)
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+## Education {-}
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
+- Ph.D. in Policy and Planning Sciences, University of Tsukuba, March 2018.
+    - [Dissertation title] Methodological developments and socio-economic applications of compositional data analysis for geographical data.
+- M.Sc. in Engineering, University of Tsukuba, March 2015.
+- B.Sc. in Policy and Planning Sciences, University of Tsukuba, March 2013.
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+## Work experience {-}
+
+- April 2019 – present
+    - Part-Time Lecturer, <br>Department of International Economics, Faculty of Economics, Toyo University, Japan.
+- April 2018 – present
+    - Research Associate, <br>Center for Global Environmental Research,
+    National Institute for Environmental Studies, Japan.
+- April 2016 – March 2018
+    - Research Fellow (DC2), <br>Japan Society for the Promotion of Science, Japan.
+
+
+## Contact {-}
+
+- Phone: +81-29-850-2419 
+- E-mail: yoshida.takahiro *at* nies.go.jp
+- Address: 16-2 Onogawa, Tsukuba, Ibaraki 305-8506, Japan
+
+
+# Works {-}
+
+## In progress / under review {-}
+
+- Hajime Seya, Takahiro Yoshida <br>
+**Propensity score matching for multiple treatment levels: A CODA-based contribution.** <br>
+arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
+
+- Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
+**A Monte Carlo study: Spatial multinomial discrete choice models.** <br>
+presented at the Spatial Econometrics Association 2016
+
+- Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
+**Spatial seemingly unrelated regression models combined with compositional data analysis approach.** <br>
+presented at the Spatial Econometrics Association 2019 
+
+- Takahiro Yoshida, Masato Tomonari, Hajime Seya, Morito Tsutsumi <br>
+**On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
+
+- Takahiro Yoshida, Daisuke Murakami, Narumasa Tsutsumida, Tomoki Nakaya <br>
+**GWRComp: Geographically weighted regression for compositional data.** 
+
+- Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii, Anna Ebata <br>
+**Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
+
+- &#043; one paper, two books, and one translation are coming soon. 
+
+## Refereed papers  {-}
+
+a
+
+## Refereed full paper proceedings {-}
+
+a
+
+## Book chapters {-}
+
+1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br> 
+**Kyojima smart community studio: Urban systems design.** <br> 
+In Thomas Fisher, Brian Orland, Carl Steinitz (eds.) <br> 
+*The International Geodesign Collaboration: Changing Geography by Design*, in press. Esri Press. <br>
+[[LINK](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=388&moduleID=0)]
+2. Yoshiki Yamagata, Takahiro Yoshida, Perry P. J. Yang, Helen Chen, Daisuke Murakami, Leena Ilmola (2020) <br> 
+**Measuring quality of walkable urban environment through experiential modeling.** <br> 
+In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 373–392. Elsevier. <br> 
+DOI: 10.1016/B978-0-12-816055-8.00012-9 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
+3. Takuro Kobashi, Yoshiki Yamagata, Takahiro Yoshida, Soowon Chang, Yasunori Mochizuki, Amanda Ahl, Jelena Aleksejeva (2020) <br> 
+**Smart city and ICT infrastructure with vehicle to X applications toward urban decarbonization.** <br> 
+In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 289–333. Elsevier. <br> 
+DOI: 10.1016/B978-0-12-816055-8.00009-9 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
+4. Yoshiki Yamagata, Takahiro Yoshida, Soowon Chang, Peraphan Jittrapirom, Sylvia Coleman, John Robinson, Roger Cremades, Dirk Neumann (2020) <br> 
+**Case studies towards smart communities.** <br> 
+In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 257–288. Elsevier. <br> 
+DOI: 10.1016/B978-0-12-816055-8.00008-7 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
+5. Takahiro Yoshida, Yoshiki Yamagata, Soowon Chang, Vincent de Gooyert, Hajime Seya, Daisuke Murakami, Peraphan Jittrapirom, Gerasimos Voulgaris (2020) <br> 
+**Spatial modelling and design of smart communities.** <br>
+In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 199–255. Elsevier. <br>
+DOI: 10.1016/B978-0-12-816055-8.00007-5 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
+6. Yoshiki Yamagata, Perry P. J. Yang, Soowon Chang, Michael B. Tobey, Robert B. Binder, Pieter J. Fourie, Peraphan Jittrapirom, Takuro Kobashi, Takahiro Yoshida, Jelena Aleksejeva (2020) <br>
+**Urban systems and the role of big data.** <br>
+In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br>
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era*, 23–58. Elsevier. <br>
+DOI: 10.1016/B978-0-12-816055-8.00002-6 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
+7. Yoshiki Yamagata, Takahiro Yoshida (2019) <br>
+**Tokyo smart city studio: An urban systems design approach.** <br>
+In Sean Nicklin, Ben Cornwell, Leigh Trowbridge (eds.) <br>
+*A Better World: Sustainable Cities and Communities*, 5, 32–35. Tudor Rose. <br>
+[[LINK](http://unhabitat.org.mm/publications/a-better-world-volume-5/)]
+8. Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
+**Quasi real time energy use estimation using Google's popular time data.** <br>
+In Yoshiki Yamagata, Hajime Seya (eds.) <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 271–280. Elsevier. <br>
+DOI: 10.1016/B978-0-12-813127-5.00011-4 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
+9. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019) <br>
+**Evaluating walkability using mobile GPS data.** <br>
+In Yoshiki Yamagata, Hajime Seya (eds.) <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 239–257. Elsevier. <br>
+DOI: 10.1016/B978-0-12-813127-5.00009-6 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
+10. Takahiro Yoshida, Daisuke Murakami (2019) <br>
+**Implementation with R language.** <br>
+In Yoshiki Yamagata, Hajime Seya (eds.) <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 181–223. Elsevier. <br>
+DOI: 10.1016/B978-0-12-813127-5.00007-2 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
+11. Hajime Seya, Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
+**Spatial econometric models.** <br>
+In Yoshiki Yamagata, Hajime Seya (eds.) <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 113–158. Elsevier. <br>
+DOI: 10.1016/B978-0-12-813127-5.00005-9 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
+12. Takahiro Yoshida, Morito Tsutsumi (2017) <br>
+**Cluster analysis.** <br>
+In Committee of Infrastructure Planning and Management (eds.) <br>
+*Handbook of Infrastructure Planning and Management*, 118–120. Corona Publishing. <br>
+[in Japanese] [[LINK](http://www.coronasha.co.jp/doboku-hb.html)]
+
+## Book translation {-}
+
+1. Giuseppe Arbia (2014) <br>
+***A Primer for Spatial Econometrics: With Applications in R.*** Palgrave Macmillan. <br>
+Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, Keisuke Takano, Masato Tomonari (2016) ―. Keiso shobo. <br>
+[in Japanese] [[LINK](http://www.keisoshobo.co.jp/book/b222571.html)]
+
+
+# Honors {-}
+
+## Awards {-}
+
+- **Excellent Research Presentation Award**, CSIS DAYS 2018 (Center for Spatial Information Science, The University of Tokyo), November 2018. <br>
+(with Yoshiki Yamagata, Daisuke Murakami, and Tomoko Matsui) 
+- **GISA Award: Research Initiative Category**, GIS Association of Japan, October 2018.
+- **Poster Session Award**, GIS Association of Japan, October 2018. <br>
+(with Anna Ebata, Kazuki Tamesue, Hajime Seya, and Morito Tsutsumi)
+- **Map Gallery Award (the second place)**, ESRI Japan, Corp., May 2018. <br>
+(with Anna Ebata)
+- **Young Scholar Award**, Environmental Systems Research Institute (ESRI), Inc., July 2017.
+- **President's Award**, University of Tsukuba, March 2017. <br>
+(with Marisa Yamaguchi and Rim Er-Rbib)
+- **Poster Session Award**, GIS Association of Japan, October 2016. <br>
+(with Morito Tsutsumi)
+- **Map Gallery Award (the fourth place)**, ESRI Japan, Corp., May 2016. <br>
+(with Shuhei Adachi, Yoi Kana, and Naoya Yanagisawa)
+- **Best Student Award**, Graduate School of Systems and Information Engineering, University of Tsukuba, March 2015.
+- **S-PLUS Student Research Encouragement Award (the first place)**, NTT DATA Mathematical Systems, Inc., November 2014.
+- **Excellent Presentation Award**, GIS Association of Japan, November 2014.
+
+## Research Grants {-}
+
+**Principal Investigator**
+
+- April 2016 – March 2018
+    - Grant-in-Aid for JSPS Fellows, <br>
+    Japan Society for the Promotion of Science.
+- October 2015 – March 2016
+    - Young Scientist Cultivation Program, <br>
+    Graduate School of Systems and Information Engineering, University of Tsukuba.
+
+**Co-Investigator**
+
+- April 2019 – present
+    - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
+    Japan Society for the Promotion of Science.
+- June 2018 – present
+    - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
+    Research Organization of Information and Systems.
+
+
+# Note {-}
+
+
+`r if (knitr:::is_html_output()) '
+'`
+
+
