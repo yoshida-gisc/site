@@ -45,7 +45,7 @@ description: "This is Takahiro Yoshida's website."
 - Address: 16-2 Onogawa, Tsukuba, Ibaraki 305-8506, Japan
 
 
-# Works {-}
+# Publications {-}
 
 ## In progress / under review {-}
 
@@ -370,6 +370,13 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 
 # Note {-}
+
+- I will post my codes and results here. As an example, I published [a website](https://gcp-tsukuba.github.io/SSP-downscale/) along with my great colleagues. 
+- Tentatively, my code-based weblog is posted in [Qiita](https://qiita.com/3tky) (in Japanese).
+- This website is powered by [bookdown](https://github.com/rstudio/bookdown).
+
+
+
 
 
 `r if (knitr:::is_html_output()) '
