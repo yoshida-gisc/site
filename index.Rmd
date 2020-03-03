@@ -70,7 +70,7 @@ presented at the Spatial Econometrics Association 2019
 
 - &#043; one paper, two books, and one translation are coming soon. 
 
-## Refereed papers  {-}
+## Refereed papers {-}
 
 1. Takuro Kobashi, Kelvin Say, Jiayang Wang, Masaru Yarime, Dong Wang, Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Techno-economic assessment of photovoltaics plus electric vehicles towards household-sector decarbonization in Kyoto and Shenzhen by the year 2030.** <br>
@@ -338,7 +338,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Research Grants {-}
 
-### Principal Investigator
+### Principal Investigator {-}
 
 - April 2016 – March 2018
     - Grant-in-Aid for JSPS Fellows, <br>
@@ -347,7 +347,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Young Scientist Cultivation Program, <br>
     Graduate School of Systems and Information Engineering, University of Tsukuba.
 
-### Co-Investigator
+### Co-Investigator {-}
 
 - April 2019 – present
     - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
