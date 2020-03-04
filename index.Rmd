@@ -371,7 +371,8 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 # Note {-}
 
-- I will post my codes and results here. As an example, I published [a website](https://gcp-tsukuba.github.io/SSP-downscale/) along with my great colleagues. 
+- I will post my codes and results here. As an example, I published the website below along with my great colleagues. 
+    - [Gridded GDP projections compatible with the five SSPs](https://gcp-tsukuba.github.io/SSP-downscale/)
 - Tentatively, my code-based weblog is posted in [Qiita](https://qiita.com/3tky) (in Japanese).
 - This website is powered by [bookdown](https://github.com/rstudio/bookdown).
 
