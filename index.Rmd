@@ -121,6 +121,11 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed full paper proceedings {-}
 
+1. Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata, Daniel Castro-Lacouture (2020) <br>
+**Energy sharing boundaries integrating buildings and vehicles tangled in spatial and temporal changes.** <br>
+DOI: in press [LINK] <br>
+*Proceedings of the ASCE Construction Research Congress 2020,* 484. <br>
+presented at the ASCE Construction Research Congress 2020 (ASCE CRC2020), Tempe, Arizona, United States, March 8–10, 2020.
 1. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
 **Spatially detail urban carbon mapping: Integration of top-down and bottom-up approaches.** <br>
 *Proceedings of the 15th International Conference on Geocomputation,* 7.3. <br>
