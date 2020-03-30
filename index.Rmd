@@ -121,6 +121,12 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed full paper proceedings {-}
 
+1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
+**A Geographically weighted total composite error analysis for soft classification.** <br>
+*Proceedings of the 2020 IEEE Geoscience and Remote Sensing Society Symposium,* in press. <br>
+DOI: in press [LINK]. <br>
+will be presented at the 40th annual conference of the the IEEE Geoscience and Remote Sensing Society (IGARSS2020), Hawaii, USA, Japan, July 19–24, 2020.
+
 1. Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata, Daniel Castro-Lacouture (2020) <br>
 **Energy sharing boundaries integrating buildings and vehicles tangled in spatial and temporal changes.** <br>
 DOI: in press [LINK] <br>
