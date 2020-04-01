@@ -267,7 +267,7 @@ presented at the 9th International Conference on Applied Energy (ICAE2017), Card
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br> 
 **Kyojima smart community studio: Urban systems design.** <br> 
 In Thomas Fisher, Brian Orland, Carl Steinitz (eds.) <br> 
-*The International Geodesign Collaboration: Changing Geography by Design*, in press. Esri Press. <br>
+*The International Geodesign Collaboration: Changing Geography by Design*, 132–133. Esri Press. <br>
 [[LINK](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=388&moduleID=0)]
 1. Yoshiki Yamagata, Takahiro Yoshida, Perry P. J. Yang, Helen Chen, Daisuke Murakami, Leena Ilmola (2020) <br> 
 **Measuring quality of walkable urban environment through experiential modeling.** <br> 
