@@ -154,19 +154,23 @@ DOI: 10.17608/k6.auckland.9850826.v1 [[LINK](https://doi.org/10.17608/k6.aucklan
 presented at the 15th International Conference on Geocomputation (Geocomputation2019), Queenstown, New Zealand, September 18–21, 2019.
 1. Takahiro Yoshida, Soowon Chang, Daisuke Murakami, Yoshiki Yamagata (2019) <br>
 **The relationships between energy consumption and surface temperature: A combining multiple-scale observations approach.** <br>
-*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0940. <br>
+*Proceedings of the 11th International Conference on Applied Energy*, Part 3, ID: 0940. <br>
+[[Link](http://www.energy-proceedings.org/the-relationship-between-energy-consumption-and-surface-temperature-combining-multiple-scale-observations/)] <br>
 presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
 1. Takuro Kobashi, Takahiro Yoshida, Katsuhiko Naito, Stefan Pfenninger, Yoshiki Yamagata (2019) <br>
 **Cost-optimal pathways to decarbonize urban energy systems with PV, batteries, and electric vehicles: A case study for Kyoto, Japan.** <br>
-*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0107. <br>
+*Proceedings of the 11th International Conference on Applied Energy*, Part 2, ID: 0107. <br>
+[[Link](http://www.energy-proceedings.org/cost-optimal-pathways-to-decarbonize-urban-energy-systems-with-pv-batteries-and-electric-vehicles-a-case-study-for-kyoto-japan/)] <br>
 presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
 1. Soowon Chang, Takahiro Yoshida, Michael Tobey, Yoshiki Yamagata, Perry Yang (2019) <br>
 **Trandformative model of urban buildings optimizing energy demands, solar harvesting potential, and indoor thermal comfort.** <br>
-*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0355. <br>
+*Proceedings of the 11th International Conference on Applied Energy*, Part 4: ID: 0355. <br>
+[[Link](http://www.energy-proceedings.org/transformative-model-of-urban-buildings-optimizing-energy-demands-solar-harvesting-potential-and-indoor-thermal-comfort/)] <br>
 presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
 1. Michael Tobey, Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata (2019) <br>
 **Measuring resiliencce, economy, sustainability, and human well-being in multiple scales for urban diagnostics.** <br>
-*Proceedings of the 11th International Conference on Applied Energy* (August 12–15, 2019; Vasteras, Sweden), 0904. <br>
+*Proceedings of the 11th International Conference on Applied Energy*, Part 1, ID: 0904. <br>
+[[Link](http://www.energy-proceedings.org/measuring-resilience-economy-sustainability-and-human-wellbeing-in-multiple-scales-for-urban-diagnostics/)] <br>
 presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.
 1. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019) <br>
 **Spatiotemporal heatwave risk evaluation: Considering hazard, exposure, and vulnerability.** <br>
