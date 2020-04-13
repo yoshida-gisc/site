@@ -67,10 +67,10 @@ presented at the Spatial Econometrics Association 2019
 - Takahiro Yoshida, Daisuke Murakami, Narumasa Tsutsumida, Tomoki Nakaya <br>
 **GWRComp: Geographically weighted regression for compositional data.** 
 
-- Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii, Anna Ebata <br>
+- Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
 
-- &#043; six papers are under review, and one book and one translation are coming soon. 
+- &#043; seven papers are under review, and one book and one translation are coming soon. 
 
 ---
 
