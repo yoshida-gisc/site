@@ -343,12 +343,12 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 - **Excellent Research Presentation Award**, CSIS DAYS 2018 (Center for Spatial Information Science, The University of Tokyo), November 2018. <br>
 (with Yoshiki Yamagata, Daisuke Murakami, and Tomoko Matsui) 
-- **GISA Award: Research Initiative Category**, GIS Association of Japan, October 2018.
+- **GISA Award: Research Initiative Category**, GIS Association of Japan, October 2018. [[LINK](http://www.gisa-japan.org/file/nl108.pdf)]
 - **Poster Session Award**, GIS Association of Japan, October 2018. <br>
 (with Anna Ebata, Kazuki Tamesue, Hajime Seya, and Morito Tsutsumi)
 - **Map Gallery Award (the second place)**, ESRI Japan, Corp., May 2018. <br>
 (with Anna Ebata)
-- **Young Scholar Award**, Environmental Systems Research Institute (ESRI), Inc., July 2017.
+- **Young Scholar Award**, Environmental Systems Research Institute (ESRI), Inc., July 2017. [[LINK](https://www.esrij.com/cgi-bin/wp/wp-content/uploads/2017/01/YSA-Taiken2017.pdf)]
 - **President's Award**, University of Tsukuba, March 2017. <br>
 (with Marisa Yamaguchi and Rim Er-Rbib)
 - **Poster Session Award**, GIS Association of Japan, October 2016. <br>
