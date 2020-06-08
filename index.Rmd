@@ -70,12 +70,15 @@ presented at the Spatial Econometrics Association 2019
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
 
-- &#043; six papers are under review, and one translation book is coming soon. 
+- &#043; five papers are under review, and one translation book is coming soon. 
 
 ---
 
 ## Refereed papers {-}
-
+1. Takuro Kobashi, Takahiro Yoshida, Yoshiki Yamagata, Katsuhiko Naito, Stefan Pfenninger, Kelvin Say, Yasuhiro Takeda, Amanda Ahl, Masaru Yarime, Keishiro Hara (2020) <br>
+**On the potential of PV + EV for deep decarbonization of Kyoto’s power systems: Techno-economic-social considerations.** <br> 
+*Applied Energy*, accepted. <br>
+DOI: in press.
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2020) <br>
 **Scalable GWR: A Linear-time algorithm for large-scale geographically weighted regression with polynomial kernels.** <br> 
 *Annals of the American Association of Geographers*, accepted. <br>
