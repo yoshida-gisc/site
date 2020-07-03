@@ -64,7 +64,7 @@ presented at the Spatial Econometrics Association 2019
 - Takahiro Yoshida, Masato Tomonari, Hajime Seya, Morito Tsutsumi <br>
 **On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
 
-- Takahiro Yoshida, Daisuke Murakami, Narumasa Tsutsumida, Tomoki Nakaya, Hajime Seya, Morito Tsutsumi <br>
+- Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Narumasa Tsutsumida, Tomoki Nakaya, Morito Tsutsumi <br>
 **Geographically weighted regression for compositional data.** 
 
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
