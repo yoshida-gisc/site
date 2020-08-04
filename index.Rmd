@@ -15,7 +15,7 @@ description: "This is Takahiro Yoshida's website."
 
 ## About {-}
 
-**Takahiro Yoshida** (吉田 崇紘) is a Research Associate of Center for Global Environmental Research, National Institute for Environmental Studies, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS, GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban analysis.
+**Takahiro Yoshida** is a Research Associate of Center for Global Environmental Research, National Institute for Environmental Studies, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS, GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban analysis.
 
 <div><img src="Forest.png" align="right" width="23%" height=auto></div>
 
@@ -86,8 +86,8 @@ DOI: in press
 DOI: 10.1016/j.apenergy.2020.115419 [[LINK](https://doi.org/10.1016/j.apenergy.2020.115419)]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2020) <br>
 **Scalable GWR: A Linear-time algorithm for large-scale geographically weighted regression with polynomial kernels.** <br> 
-*Annals of the American Association of Geographers*, accepted. <br>
-DOI: in press.
+*Annals of the American Association of Geographers*, in press. <br>
+DOI: 10.1080/24694452.2020.1774350 [[LINK](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1774350)]
 1. Takuro Kobashi, Kelvin Say, Jiayang Wang, Masaru Yarime, Dong Wang, Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Techno-economic assessment of photovoltaics plus electric vehicles towards household-sector decarbonization in Kyoto and Shenzhen by the year 2030.** <br>
 *Journal of Cleaner Production,* 253, 119933. <br>
