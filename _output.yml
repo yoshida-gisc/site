@@ -5,6 +5,14 @@ bookdown::gitbook:
       before: |
         <li><a href="./">TAKAHIRO YOSHIDA'S WEBSITE</a></li>
     download: ["pdf"]
+    sharing:
+      facebook: no
+      github: yes
+      twitter: no
+      linkedin: no
+      weibo: no
+      instapaper: no
+      vk: no
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
