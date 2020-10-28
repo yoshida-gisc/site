@@ -391,6 +391,20 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
     Research Organization of Information and Systems.
 
+### Research Collaborator {-}
+- (+ one grant will be public soon.)
+- April 2018 – present
+    - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
+    Japan Society for the Promotion of Science.
+- April 2017 – March 2020
+    - Grant-in-Aid for Scientific Research (B) (PI: Tomoko Matsui), <br>
+    Japan Society for the Promotion of Science.
+- April 2016 – March 2019
+    - Grant-in-Aid for Scientific Research (B) (PI: Yoshiki Yamagata), <br>
+    Japan Society for the Promotion of Science.
+- April 2015 – March 2018
+    - Grant-in-Aid for Scientific Research (B) (PI: Morito Tsutsumi), <br>
+    Japan Society for the Promotion of Science.    
 
 # Note {-}
 
