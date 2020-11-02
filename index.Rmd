@@ -133,11 +133,21 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed full paper proceedings {-}
 
+1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
+**Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
+*Proceedings of the 12th International Conference on Applied Energy*, accepted. <br>
+DOI: in press [LINK]
+    - <font size="-1"><font color="gray">This paper will be presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
+1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
+**Urban carbon mapping of roads under the COVID-19 situation: The case of Tokyo 23 wards.** <br>
+*Proceedings of the 12th International Conference on Applied Energy*, accepted. <br>
+DOI: in press [LINK]
+    - <font size="-1"><font color="gray">This paper will be presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
 **A Geographically weighted total composite error analysis for soft classification.** <br>
 *Proceedings of the 2020 IEEE Geoscience and Remote Sensing Society Symposium,* in press. <br>
 DOI: in press [LINK]<br>
-    - <font size="-1"><font color="gray">This paper was presented at the 40th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2020), Hawaii, USA, July 19–24, 2020.</font></font>
+    - <font size="-1"><font color="gray">This paper was presented at the 40th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2020), Online, September 26 – October 2, 2020 (Originally planned: Hawaii, USA, July 19–24, 2020).</font></font>
 1. Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata, Daniel Castro-Lacouture (2020) <br>
 **Energy sharing boundaries integrating buildings and vehicles tangled in spatial and temporal changes.** <br>
 *Proceedings of the ASCE Construction Research Congress 2020,* 484. <br>
