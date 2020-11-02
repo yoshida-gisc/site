@@ -5,6 +5,7 @@ date: "April, 2020"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
+github-repo: "yoshida-gisc"
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
