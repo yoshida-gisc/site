@@ -219,6 +219,11 @@ DOI: 10.1109/IGARSS.2019.8898574 [[LINK](https://ieeexplore.ieee.org/document/88
 *Proceedings of the International Cartographic Association,* 2, 152. <br>
 DOI: 10.5194/ica-proc-2-152-2019 [[LINK](https://www.proc-int-cartogr-assoc.net/2/152/2019/)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 29th International Cartographic Conference (ICC2019), Tokyo, Japan, July 15–20, 2019.</font></font>
+1. Narumasa Tsutsumida, Joseph Percival, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya (2019) <br>
+**Interactive mapping for geographically weighted correlation in big census data.** <br>
+*Abstracts of the International Cartographic Association*, 1, 372. <br>
+DOI: 10.5194/ica-abs-1-372-2019 [[LINK](https://www.abstr-int-cartogr-assoc.net/1/372/2019/)]
+    - <font size="-1"><font color="gray">This paper was presented at the 29th International Cartographic Conference (ICC2019), Tokyo, Japan, July 15–20, 2019.</font></font>
 1. Takahiro Yoshida, Michael Tobey, Soowon Chang, Yoshiki Yamagata (2019) <br>
 **Carbon emission intensities of each building typology: Towards a standardized framework.** <br>
 *Proceedings of the 16th International Conference on Computers in Urban Planning and Urban Management* (July 8–12, 2019; Wuhan, China), 799185. <br>
@@ -280,6 +285,10 @@ DOI: 10.1016/j.egypro.2018.09.193 [[LINK](https://www.sciencedirect.com/science/
 *Energy Procedia,* 142, 2461–2466. <br>
 DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/article/pii/S1876610217359131)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 9th International Conference on Applied Energy (ICAE2017), Cardiff, UK, August 21–24, 2017.</font></font>
+1. Takahiro Yoshida, Morito Tsutsumi (2015) <br>
+**Regression model for compositional data using a spatial econometric approach.**<br>
+*Proceedings of the 6th International Workshop on Compositional Data Analysis*, 305–310.
+    - <font size="-1"><font color="gray">This paper was presented at the 6th International Workshop on Compositional Data Analysis (CoDaWork2015), Girona, Spain, June 1–5, 2015.</font></font>
 
 ---
 
