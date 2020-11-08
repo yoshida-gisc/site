@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA'S WEBSITE"
 author: ""
-date: "April, 2020"
+date: "November, 2020"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -45,6 +45,7 @@ description: "This is Takahiro Yoshida's website."
 - E-mail: yoshida.takahiro *at* nies.go.jp
 - Address: 16-2 Onogawa, Tsukuba, Ibaraki 305-8506, Japan
 
+- [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja) / [Publons](https://publons.com/researcher/2909576/takahiro-yoshida/) / [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5) /  [researchmap](https://researchmap.jp/yoshida.takahiro)
 
 # Publications {-}
 
