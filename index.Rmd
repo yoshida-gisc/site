@@ -152,8 +152,8 @@ DOI: in press [LINK]<br>
     - <font size="-1"><font color="gray">This paper was presented at the 40th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2020), Online, September 26 – October 2, 2020 (Originally planned: Hawaii, USA, July 19–24, 2020).</font></font>
 1. Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata, Daniel Castro-Lacouture (2020) <br>
 **Energy sharing boundaries integrating buildings and vehicles tangled in spatial and temporal changes.** <br>
-*Proceedings of the ASCE Construction Research Congress 2020,* 484. <br>
-DOI: in press [LINK] <br>
+*Proceedings of the ASCE Construction Research Congress 2020,* 434–443. <br>
+DOI: 10.1061/9780784482858.048 [[LINK](https://ascelibrary.org/doi/10.1061/9780784482858.048)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the ASCE Construction Research Congress 2020 (ASCE CRC2020), Tempe, Arizona, USA, March 8–10, 2020.</font></font>
 1. Takahiro Yoshida, Yoshiki Yamagata, Daisuke Murakami (2019) <br>
 **Spatially detail urban carbon mapping: Integration of top-down and bottom-up approaches.** <br>
