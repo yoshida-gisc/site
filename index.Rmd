@@ -78,6 +78,10 @@ presented at the Spatial Econometrics Association 2019
 
 ## Refereed papers {-}
 
+1. Takuro Kobashi, Peraphan Jittrapirom, Takahiro Yoshida, Yujiro Hirano, Yoshiki Yamagata (2021) <br>
+**SolarEV City concept: Building the next urban power and mobility systems.** <br> 
+*Environmental Research Letters*, accepted. <br>
+DOI: in press.
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **A "Smart Lifestyle" for the re-design of the "After Corona" urban forms.** <br> 
 *Environment and Planning B: Urban Analytics and City Science*, 47 (7), 1146–1148. <br>
@@ -414,7 +418,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Research Collaborator {-}
 - November 2020 – present
-    - JST-Mirai Program (PI: Norio Omagari), <br>
+    - JST-Mirai Program (PI: Norio Ohmagari), <br>
     Japan Science and Technology Agency.
 - April 2018 – present
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
