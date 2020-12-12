@@ -72,7 +72,7 @@ presented at the Spatial Econometrics Association 2019
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
 
-- &#043; five papers are under review, and one translation book is coming soon. 
+- &#043; seven papers are under review, and one translation book is coming soon. 
 
 ---
 
@@ -120,8 +120,8 @@ DOI: 10.3390/su10124472 [[LINK](https://www.mdpi.com/2071-1050/10/12/4472)]
 DOI: 10.1007/s12076-017-0199-5 [[LINK](https://link.springer.com/article/10.1007/s12076-017-0199-5)]
 1. Takahiro Yoshida, Morito Tsutsumi (2017) <br>
 **The epitome of the future Japan from the perspective of demographic composition: Application of compositional data analysis to population studies.** <br>
-*Theory and Applications of GIS,* 25 (2), 79–89. <br>
-DOI: 10.5638/thagis.25.79 [in Japanese] [[LINK](https://www.jstage.jst.go.jp/article/thagis/25/2/25_79/_article/-char/en)]
+*Theory and Applications of GIS,* 25 (2), 79–89. [in Japanese]<br>
+DOI: 10.5638/thagis.25.79 [[LINK](https://www.jstage.jst.go.jp/article/thagis/25/2/25_79/_article/-char/en)]
 1. Daisuke Murakami, Takahiro Yoshida, Hajime Seya, Daniel A. Griffith, Yoshiki Yamagata (2017) <br>
 **A Moran coefficient-based mixed effects approach to investigate spatially varying relationships.** <br>
 *Spatial Statistics,* 19, 68–89. <br>
@@ -143,12 +143,12 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 **Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
 *Proceedings of the 12th International Conference on Applied Energy*, accepted. <br>
 DOI: in press [LINK]
-    - <font size="-1"><font color="gray">This paper will be presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
+    - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **Urban carbon mapping of roads under the COVID-19 situation: The case of Tokyo 23 wards.** <br>
 *Proceedings of the 12th International Conference on Applied Energy*, accepted. <br>
 DOI: in press [LINK]
-    - <font size="-1"><font color="gray">This paper will be presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
+    - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
 **A Geographically weighted total composite error analysis for soft classification.** <br>
 *Proceedings of the 2020 IEEE Geoscience and Remote Sensing Society Symposium,* in press. <br>
