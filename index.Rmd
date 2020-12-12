@@ -1,5 +1,5 @@
 --- 
-title: "TAKAHIRO YOSHIDA'S WEBSITE"
+title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
 date: "November, 2020"
 site: bookdown::bookdown_site
