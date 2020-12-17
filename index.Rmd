@@ -80,8 +80,8 @@ presented at the Spatial Econometrics Association 2019
 
 1. Takuro Kobashi, Peraphan Jittrapirom, Takahiro Yoshida, Yujiro Hirano, Yoshiki Yamagata (2021) <br>
 **SolarEV City concept: Building the next urban power and mobility systems.** <br> 
-*Environmental Research Letters*, accepted. <br>
-DOI: in press.
+*Environmental Research Letters*, in press. <br>
+DOI: 10.1088/1748-9326/abd430 [[LINK](https://doi.org/10.1088/1748-9326/abd430)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **A "Smart Lifestyle" for the re-design of the "After Corona" urban forms.** <br> 
 *Environment and Planning B: Urban Analytics and City Science*, 47 (7), 1146–1148. <br>
