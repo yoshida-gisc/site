@@ -86,6 +86,10 @@ DOI: 10.1088/1748-9326/abd430 [[LINK](https://doi.org/10.1088/1748-9326/abd430)]
 **Exploratory spatial data analysis of** ***Furusato Nozei*****: A tax donation program in Japan.** <br>
 *Theory and Applications of GIS,* in press. [in Japanese]<br>
 DOI: in press
+1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2021) <br>
+**Scalable GWR: A Linear-time algorithm for large-scale geographically weighted regression with polynomial kernels.** <br> 
+*Annals of the American Association of Geographers*, 111 (2), 459–480. <br>
+DOI: 10.1080/24694452.2020.1774350 [[LINK](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1774350)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **A "Smart Lifestyle" for the re-design of the "After Corona" urban forms.** <br> 
 *Environment and Planning B: Urban Analytics and City Science*, 47 (7), 1146–1148. <br>
@@ -94,10 +98,6 @@ DOI: 10.1177/2399808320950043 [[LINK](http://dx.doi.org/10.1177/2399808320950043
 **On the potential of “Photovoltaics + Electric Vehicles” for deep decarbonization of Kyoto’s power systems: Techno-economic-social considerations.** <br> 
 *Applied Energy*, 275, 115419. <br>
 DOI: 10.1016/j.apenergy.2020.115419 [[LINK](https://doi.org/10.1016/j.apenergy.2020.115419)]
-1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2020) <br>
-**Scalable GWR: A Linear-time algorithm for large-scale geographically weighted regression with polynomial kernels.** <br> 
-*Annals of the American Association of Geographers*, in press. <br>
-DOI: 10.1080/24694452.2020.1774350 [[LINK](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1774350)]
 1. Takuro Kobashi, Kelvin Say, Jiayang Wang, Masaru Yarime, Dong Wang, Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Techno-economic assessment of photovoltaics plus electric vehicles towards household-sector decarbonization in Kyoto and Shenzhen by the year 2030.** <br>
 *Journal of Cleaner Production,* 253, 119933. <br>
