@@ -80,12 +80,12 @@ presented at the Spatial Econometrics Association 2019
 
 1. Takuro Kobashi, Peraphan Jittrapirom, Takahiro Yoshida, Yujiro Hirano, Yoshiki Yamagata (2021) <br>
 **SolarEV City concept: Building the next urban power and mobility systems.** <br> 
-*Environmental Research Letters*, 16, 024042. <br>
+*Environmental Research Letters*, 16 (2), 024042. <br>
 DOI: 10.1088/1748-9326/abd430 [[LINK](https://doi.org/10.1088/1748-9326/abd430)]
 1. Anna Ebata, Takahiro Yoshida, Kazuki Tamesue, Hajime Seya, Morito Tsutsumi (2021) <br>
 **Exploratory spatial data analysis of** ***Furusato Nozei*****: A tax donation program in Japan.** <br>
-*Theory and Applications of GIS,* in press. [in Japanese]<br>
-DOI: in press
+*Theory and Applications of GIS,* accepted. [in Japanese]<br>
+DOI: in press [LINK]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2021) <br>
 **Scalable GWR: A Linear-time algorithm for large-scale geographically weighted regression with polynomial kernels.** <br> 
 *Annals of the American Association of Geographers*, 111 (2), 459–480. <br>
