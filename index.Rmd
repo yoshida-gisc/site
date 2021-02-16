@@ -29,13 +29,17 @@ description: "This is Takahiro Yoshida's website."
 
 ### Work experience {-}
 
-- April 2019 – present
-    - Part-Time Lecturer, <br>Department of International Economics, Faculty of Economics, Toyo University, Japan.
 - April 2018 – present
     - Research Associate, <br>Center for Global Environmental Research,
     National Institute for Environmental Studies, Japan.
 - April 2016 – March 2018
     - Research Fellow (DC2), <br>Japan Society for the Promotion of Science, Japan.
+
+(Concurrent appointment)
+
+- April 2019 – present
+    - Part-Time Lecturer, <br>Department of International Economics, Faculty of Economics, Toyo University, Japan.
+
 
 ---
 
