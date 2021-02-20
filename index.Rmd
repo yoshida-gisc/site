@@ -159,8 +159,8 @@ DOI: in press [LINK]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
 **A Geographically weighted total composite error analysis for soft classification.** <br>
-*Proceedings of the 2020 IEEE Geoscience and Remote Sensing Society Symposium,* in press. <br>
-DOI: in press [LINK]<br>
+*Proceedings of the 2020 IEEE Geoscience and Remote Sensing Society Symposium,* 874–876. <br>
+DOI: 10.1109/IGARSS39084.2020.9323939 [[LINK](https://ieeexplore.ieee.org/document/9323939)]<br>
     - <font size="-1"><font color="gray">This paper was presented at the 40th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2020), Online, September 26 – October 2, 2020 (Originally planned: Hawaii, USA, July 19–24, 2020).</font></font>
 1. Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata, Daniel Castro-Lacouture (2020) <br>
 **Energy sharing boundaries integrating buildings and vehicles tangled in spatial and temporal changes.** <br>
