@@ -88,8 +88,8 @@ presented at the Spatial Econometrics Association 2019
 DOI: 10.1088/1748-9326/abd430 [[LINK](https://doi.org/10.1088/1748-9326/abd430)]
 1. Anna Ebata, Takahiro Yoshida, Kazuki Tamesue, Hajime Seya, Morito Tsutsumi (2021) <br>
 **Exploratory spatial data analysis of** ***Furusato Nozei*****: A tax donation program in Japan.** <br>
-*Theory and Applications of GIS,* accepted. [in Japanese]<br>
-DOI: in press [LINK]
+*Theory and Applications of GIS,* 29 (1), 1–10. [in Japanese]<br>
+DOI: 10.5638/thagis.29.1 [LINK]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu (2021) <br>
 **Scalable GWR: A Linear-time algorithm for large-scale geographically weighted regression with polynomial kernels.** <br> 
 *Annals of the American Association of Geographers*, 111 (2), 459–480. <br>
@@ -149,13 +149,13 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
-*Proceedings of the 12th International Conference on Applied Energy*, accepted. <br>
-DOI: in press [LINK]
+*Proceedings of the 12th International Conference on Applied Energy*, Part 1: ID: 0579. <br>
+Available at: [[Link](http://www.energy-proceedings.org/change-of-co2-emissions-in-tokyo-under-the-covid-19-situation%3A-urban-carbon-mapping-approach/)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **Urban carbon mapping of roads under the COVID-19 situation: The case of Tokyo 23 wards.** <br>
-*Proceedings of the 12th International Conference on Applied Energy*, accepted. <br>
-DOI: in press [LINK]
+*Proceedings of the 12th International Conference on Applied Energy*, Part 1: ID: 0580. <br>
+Available at: [[Link](http://www.energy-proceedings.org/urban-carbon-mapping-of-roads-under-the-covid-19-situation%3A-the-case-of-tokyo-23-wards/)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
 **A Geographically weighted total composite error analysis for soft classification.** <br>
