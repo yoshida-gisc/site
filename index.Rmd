@@ -38,7 +38,7 @@ description: "This is Takahiro Yoshida's website."
     - Research Fellow (DC2), <br>Japan Society for the Promotion of Science, Japan.
 
 
-(Concurrent appointment)
+(Concurrent appointments)
 
 - April 2021 – present
     - Part-Time Lecturer, <br>Graduate School of System Design and Management, Keio University, Japan.
@@ -55,7 +55,7 @@ description: "This is Takahiro Yoshida's website."
 - Phone: +81-3-5841-6218 
 - E-mail: yoshida.takahiro *at* up.t.u-tokyo.ac.jp
 - Address: 7-3-1 Hongo, Bunkyo-ku, Tokyo 305-8506, Japan
-
+- Laboratory: [Urban Land Use Planning Unit, The University of Tokyo](http://up.t.u-tokyo.ac.jp/index-j.html) 
 - [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja) / [Publons](https://publons.com/researcher/2909576/takahiro-yoshida/) / [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5) /  [researchmap](https://researchmap.jp/yoshida.takahiro)
 
 # Publications {-}
