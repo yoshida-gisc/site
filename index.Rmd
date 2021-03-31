@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "November, 2020"
+date: "April, 2021"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -16,7 +16,7 @@ description: "This is Takahiro Yoshida's website."
 
 ## About {-}
 
-**Takahiro Yoshida** (吉田 崇紘) is a Research Associate of Center for Global Environmental Research, National Institute for Environmental Studies, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS, GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
+**Takahiro Yoshida** (吉田 崇紘) is Project Assistant Professor of Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS or GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
 
 <div><img src="Forest.png" align="right" width="23%" height=auto></div>
 
@@ -29,14 +29,21 @@ description: "This is Takahiro Yoshida's website."
 
 ### Work experience {-}
 
-- April 2018 – present
+- April 2021 – present
+    - Project Assistant Professor, <br>Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
+- April 2018 – March 2021
     - Research Associate, <br>Center for Global Environmental Research,
     National Institute for Environmental Studies, Japan.
 - April 2016 – March 2018
     - Research Fellow (DC2), <br>Japan Society for the Promotion of Science, Japan.
 
+
 (Concurrent appointment)
 
+- April 2021 – present
+    - Part-Time Lecturer, <br>Graduate School of System Design and Management, Keio University, Japan.
+- April 2021 – present
+    - Visiting Researcher, <br>Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
 - April 2019 – present
     - Part-Time Lecturer, <br>Department of International Economics, Faculty of Economics, Toyo University, Japan.
 
@@ -45,9 +52,9 @@ description: "This is Takahiro Yoshida's website."
 
 ## Contact {-}
 
-- Phone: +81-29-850-2567 
-- E-mail: yoshida.takahiro *at* nies.go.jp
-- Address: 16-2 Onogawa, Tsukuba, Ibaraki 305-8506, Japan
+- Phone: +81-3-5841-6218 
+- E-mail: yoshida.takahiro *at* up.t.u-tokyo.ac.jp
+- Address: 7-3-1 Hongo, Bunkyo-ku, Tokyo 305-8506, Japan
 
 - [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja) / [Publons](https://publons.com/researcher/2909576/takahiro-yoshida/) / [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5) /  [researchmap](https://researchmap.jp/yoshida.takahiro)
 
@@ -82,6 +89,10 @@ presented at the Spatial Econometrics Association 2019
 
 ## Refereed papers {-}
 
+1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2021) <br>
+**A review on geographically weighted methods and their future directions.** <br>
+*Theory and Applications of GIS,* accepted. [in Japanese]<br>
+DOI: in press [LINK]
 1. Takuro Kobashi, Peraphan Jittrapirom, Takahiro Yoshida, Yujiro Hirano, Yoshiki Yamagata (2021) <br>
 **SolarEV City concept: Building the next urban power and mobility systems.** <br> 
 *Environmental Research Letters*, 16 (2), 024042. <br>
