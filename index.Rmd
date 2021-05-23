@@ -91,8 +91,8 @@ presented at the Spatial Econometrics Association 2019
 
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2021) <br>
 **A review on geographically weighted methods and their future directions.** <br>
-*Theory and Applications of GIS,* accepted. [in Japanese]<br>
-DOI: in press [LINK]
+*Theory and Applications of GIS,* 29 (1), 11–21. [in Japanese]<br>
+DOI: 10.5638/thagis.29.11 [LINK]
 1. Takuro Kobashi, Peraphan Jittrapirom, Takahiro Yoshida, Yujiro Hirano, Yoshiki Yamagata (2021) <br>
 **SolarEV City concept: Building the next urban power and mobility systems.** <br> 
 *Environmental Research Letters*, 16 (2), 024042. <br>
