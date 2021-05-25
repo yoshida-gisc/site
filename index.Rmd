@@ -431,10 +431,13 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Co-Investigator {-}
 
+- April 2021 – present
+    - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
+    Japan Society for the Promotion of Science.
 - April 2019 – present
     - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science.
-- June 2018 – present
+- June 2018 – March 2021
     - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
     Research Organization of Information and Systems.
 
@@ -442,9 +445,6 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 - November 2020 – present
     - JST-Mirai Program (PI: Norio Ohmagari), <br>
     Japan Science and Technology Agency.
-- April 2018 – present
-    - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
-    Japan Society for the Promotion of Science.
 - April 2017 – March 2020
     - Grant-in-Aid for Scientific Research (B) (PI: Tomoko Matsui), <br>
     Japan Society for the Promotion of Science.
