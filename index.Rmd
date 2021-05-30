@@ -66,6 +66,10 @@ description: "This is Takahiro Yoshida's website."
 **Propensity score matching for multiple treatment levels: A CODA-based contribution.** <br>
 arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
+- Joseph Emile Honour Percival, Narumasa Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya <br>
+**gwpcorMapper: an interactive mapping tool for exploring geographically weighted correlation and partial correlation in high-dimensional geospatial datasets.** <br>
+arXiv: 2101.03491 [[LINK](https://arxiv.org/abs/2101.03491)]
+
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
 **A Monte Carlo study: Spatial multinomial discrete choice models.** <br>
 presented at the Spatial Econometrics Association 2016
@@ -83,7 +87,7 @@ presented at the Spatial Econometrics Association 2019
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
 
-- Eight papers are under review, and one translation book is coming soon. 
+- Six papers are under review, and one translation book is coming soon. 
 
 ---
 
