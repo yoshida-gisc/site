@@ -422,16 +422,18 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ---
 
-## Research Grants {-}
+## Research grants {-}
 
 ### Principal Investigator {-}
 
 - April 2021 – present
     - Grant-in-Aid for Early-Career Scientists, <br>
-    Japan Society for the Promotion of Science.
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 21K13153
 - April 2016 – March 2018
     - Grant-in-Aid for JSPS Fellows, <br>
-    Japan Society for the Promotion of Science.
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 16J02219
 - October 2015 – March 2016
     - Young Scientist Cultivation Program, <br>
     Graduate School of Systems and Information Engineering, University of Tsukuba.
@@ -440,27 +442,34 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 - April 2021 – present
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
-    Japan Society for the Promotion of Science.
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 18H03628
 - April 2019 – present
     - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
-    Japan Society for the Promotion of Science.
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 17K18554
 - June 2018 – March 2021
     - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
-    Research Organization of Information and Systems.
+    Research Organization of Information and Systems. <br>
+    Project Numbers: 006RP2018, 004RP2019, and 003RP2020
 
 ### Research Collaborator {-}
 - November 2020 – present
     - JST-Mirai Program (PI: Norio Ohmagari), <br>
-    Japan Science and Technology Agency.
+    Japan Science and Technology Agency. <br>
+    Project Number: JPMJMI20B2
 - April 2017 – March 2020
     - Grant-in-Aid for Scientific Research (B) (PI: Tomoko Matsui), <br>
-    Japan Society for the Promotion of Science.
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 17H01705
 - April 2016 – March 2019
     - Grant-in-Aid for Scientific Research (B) (PI: Yoshiki Yamagata), <br>
-    Japan Society for the Promotion of Science.
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 16H02910
 - April 2015 – March 2018
     - Grant-in-Aid for Scientific Research (B) (PI: Morito Tsutsumi), <br>
-    Japan Society for the Promotion of Science.    
+    Japan Society for the Promotion of Science. <br>
+    Project Number: 15H04054
 
 # Note {-}
 
