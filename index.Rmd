@@ -93,6 +93,10 @@ presented at the Spatial Econometrics Association 2019
 
 ## Refereed papers {-}
 
+1. Soshiro Ogata, Misa Takegami, Taira Ozaki, Takahiro Nakashima, Daisuke Onozuka, Shunsuke Murata, Yuriko Nakaoku, Koyu Suzuki, Akihito Hagihara, Teruo Noguchi, Koji Iihara, Keiichi Kitazume, Tohru Morioka, Shin Yamazaki, Takahiro Yoshida, Yoshiki Yamagata, Kunihiro Nishimura (2021) <br>
+**Heatstroke predictions by machine learning, weather information, and an all-population registry for 12-hour heatstroke alerts.** <br>
+*Nature Communications*, accepted. <br>
+DOI: in press [LINK]
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2021) <br>
 **A review on geographically weighted methods and their future directions.** <br>
 *Theory and Applications of GIS,* 29 (1), 11–21. [in Japanese]<br>
@@ -111,7 +115,7 @@ DOI: 10.5638/thagis.29.1 [LINK]
 DOI: 10.1080/24694452.2020.1774350 [[LINK](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1774350)]
 1. Soowon Chang, Takahiro Yoshida, Daniel Castro-Lacouture, Yoshiki Yamagata (2021) <br> **Block-level building transformation strategies for energy efficiency, thermal comfort and visibility using Bayesian multilevel modeling.** <br> 
 *Journal of Architectural Engineering*, accepted. <br>
-DOI: in press [LINK]
+DOI: 10.1061/(ASCE)AE.1943-5568.0000491 [LINK]
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **A "Smart Lifestyle" for the re-design of the "After Corona" urban forms.** <br> 
 *Environment and Planning B: Urban Analytics and City Science*, 47 (7), 1146–1148. <br>
