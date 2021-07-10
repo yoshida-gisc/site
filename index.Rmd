@@ -114,8 +114,8 @@ DOI: 10.5638/thagis.29.1 [LINK]
 *Annals of the American Association of Geographers*, 111 (2), 459–480. <br>
 DOI: 10.1080/24694452.2020.1774350 [[LINK](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1774350)]
 1. Soowon Chang, Takahiro Yoshida, Daniel Castro-Lacouture, Yoshiki Yamagata (2021) <br> **Block-level building transformation strategies for energy efficiency, thermal comfort and visibility using Bayesian multilevel modeling.** <br> 
-*Journal of Architectural Engineering*, accepted. <br>
-DOI: 10.1061/(ASCE)AE.1943-5568.0000491 [LINK]
+*Journal of Architectural Engineering*, 27 (3), 05021008. <br>
+DOI: 10.1061/(ASCE)AE.1943-5568.0000491 [[LINK](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29AE.1943-5568.0000491)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **A "Smart Lifestyle" for the re-design of the "After Corona" urban forms.** <br> 
 *Environment and Planning B: Urban Analytics and City Science*, 47 (7), 1146–1148. <br>
