@@ -452,10 +452,10 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 17K18554
-- June 2018 – March 2021
+- June 2018 – present
     - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
     Research Organization of Information and Systems. <br>
-    Project Numbers: 006RP2018, 004RP2019, and 003RP2020
+    Project Numbers: 006RP2018, 004RP2019, 003RP2020, and 005RP2021
 
 ### Research Collaborator {-}
 - November 2020 – present
