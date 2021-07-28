@@ -62,7 +62,7 @@ description: "This is Takahiro Yoshida's website."
 
 ## In progress / under review {-}
 
-- Takahiro Yoshida and Hajime Seya <br>
+- Takahiro Yoshida, Hajime Seya <br>
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 arXiv: 2107.12539  [[LINK](https://arxiv.org/abs/2107.12539)]
 
