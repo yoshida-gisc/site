@@ -342,6 +342,12 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 ---
 
 ## Book chapters {-}
+
+1. Yoshiki Yamagata, Takahiro Yoshida (2021) <br>
+***Urban carbon mapping: Spatio-temporal detail visualization for CO2 emissions***<br>
+In Takuro Kobashi (eds.) <br>
+*Urban Decarbonization*, in press, TAIGA Publishing. <br> 
+[in Japanese] [LINK]
 1. Kazuto Sumita, Motoi Okamoto, Masamune Iwasawa, Yanchun Jin, Yoichi Mizumura, Takahiro Yoshida (2020) <br>
 ***Introduction to Economic Data Analysis with Excel and R***. Ohmsha. <br> 
 [in Japanese] [[LINK](https://www.ohmsha.co.jp/book/9784274225628/)]
