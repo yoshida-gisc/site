@@ -171,8 +171,18 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ---
 
-## Refereed full paper proceedings {-}
+## Refereed proceedings papers {-}
 
+1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Narumasa Tsutsumida, Tomoki Nakaya (2021) <br>
+**Geographically weighted regression for compositional data: An application to the U.S. household income compositions.** <br>
+*Proceedings of the 11th International Conference on Geographic Information Science*, accepted. <br>
+DOI: in press.
+    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience 2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
+1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya (2021) <br>
+**Stable geographically weighted Poisson regression for count data.** <br>
+*Proceedings of the 11th International Conference on Geographic Information Science*, accepted. <br>
+DOI: in press.
+    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience 2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
 *Proceedings of the 12th International Conference on Applied Energy*, Part 1: ID: 0579. <br>
