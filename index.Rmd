@@ -344,72 +344,72 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 ## Book chapters {-}
 
 1. Yoshiki Yamagata, Takahiro Yoshida (2021) <br>
-***Urban carbon mapping: Spatio-temporal detail visualization for CO2 emissions***<br>
+**Urban carbon mapping: Spatio-temporal detail visualization for CO2 emissions**<br>
 In Takuro Kobashi (eds.) <br>
 *Urban Decarbonization*, in press, TAIGA Publishing. <br> 
 [in Japanese] [LINK]
 1. Kazuto Sumita, Motoi Okamoto, Masamune Iwasawa, Yanchun Jin, Yoichi Mizumura, Takahiro Yoshida (2020) <br>
-***Introduction to Economic Data Analysis with Excel and R***. Ohmsha. <br> 
+***Introduction to Economic Data Analysis with Excel and R***, Ohmsha. <br> 
 [in Japanese] [[LINK](https://www.ohmsha.co.jp/book/9784274225628/)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br> 
 **Kyojima smart community studio: Urban systems design.** <br> 
 In Thomas Fisher, Brian Orland, Carl Steinitz (eds.) <br> 
-*The International Geodesign Collaboration: Changing Geography by Design*, 132–133. Esri Press. <br>
+*The International Geodesign Collaboration: Changing Geography by Design*, 132–133, Esri Press. <br>
 [[LINK](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=388&moduleID=0)]
 1. Yoshiki Yamagata, Takahiro Yoshida, Perry P. J. Yang, Helen Chen, Daisuke Murakami, Leena Ilmola (2020) <br> 
 **Measuring quality of walkable urban environment through experiential modeling.** <br> 
 In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
-*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 373–392. Elsevier. <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 373–392, Elsevier. <br> 
 DOI: 10.1016/B978-0-12-816055-8.00012-9 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
 1. Takuro Kobashi, Yoshiki Yamagata, Takahiro Yoshida, Soowon Chang, Yasunori Mochizuki, Amanda Ahl, Jelena Aleksejeva (2020) <br> 
 **Smart city and ICT infrastructure with vehicle to X applications toward urban decarbonization.** <br> 
 In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
-*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 289–333. Elsevier. <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 289–333, Elsevier. <br> 
 DOI: 10.1016/B978-0-12-816055-8.00009-9 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
 1. Yoshiki Yamagata, Takahiro Yoshida, Soowon Chang, Peraphan Jittrapirom, Sylvia Coleman, John Robinson, Roger Cremades, Dirk Neumann (2020) <br> 
 **Case studies towards smart communities.** <br> 
 In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
-*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 257–288. Elsevier. <br> 
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 257–288, Elsevier. <br> 
 DOI: 10.1016/B978-0-12-816055-8.00008-7 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
 1. Takahiro Yoshida, Yoshiki Yamagata, Soowon Chang, Vincent de Gooyert, Hajime Seya, Daisuke Murakami, Peraphan Jittrapirom, Gerasimos Voulgaris (2020) <br> 
 **Spatial modelling and design of smart communities.** <br>
 In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br> 
-*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 199–255. Elsevier. <br>
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era,* 199–255, Elsevier. <br>
 DOI: 10.1016/B978-0-12-816055-8.00007-5 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
 1. Yoshiki Yamagata, Perry P. J. Yang, Soowon Chang, Michael B. Tobey, Robert B. Binder, Pieter J. Fourie, Peraphan Jittrapirom, Takuro Kobashi, Takahiro Yoshida, Jelena Aleksejeva (2020) <br>
 **Urban systems and the role of big data.** <br>
 In Yoshiki Yamagata, Perry P. J. Yang (eds.) <br>
-*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era*, 23–58. Elsevier. <br>
+*Urban Systems Design: Creating Sustainable Smart Cities in the Internet of Things Era*, 23–58, Elsevier. <br>
 DOI: 10.1016/B978-0-12-816055-8.00002-6 [[LINK](https://www.elsevier.com/books/urban-systems-design/yamagata/978-0-12-816055-8)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2019) <br>
 **Tokyo smart city studio: An urban systems design approach.** <br>
 In Sean Nicklin, Ben Cornwell, Leigh Trowbridge (eds.) <br>
-*A Better World: Sustainable Cities and Communities*, 5, 32–35. Tudor Rose. <br>
+*A Better World: Sustainable Cities and Communities*, 5, 32–35, Tudor Rose. <br>
 [[LINK](http://unhabitat.org.mm/publications/a-better-world-volume-5/)]
 1. Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
 **Quasi real time energy use estimation using Google's popular time data.** <br>
 In Yoshiki Yamagata, Hajime Seya (eds.) <br>
-*Spatial Analysis Using Big Data: Methods and Urban Applications,* 271–280. Academic Press. <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 271–280, Academic Press. <br>
 DOI: 10.1016/B978-0-12-813127-5.00011-4 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
 1. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019) <br>
 **Evaluating walkability using mobile GPS data.** <br>
 In Yoshiki Yamagata, Hajime Seya (eds.) <br>
-*Spatial Analysis Using Big Data: Methods and Urban Applications,* 239–257. Academic Press. <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 239–257, Academic Press. <br>
 DOI: 10.1016/B978-0-12-813127-5.00009-6 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
 1. Takahiro Yoshida, Daisuke Murakami (2019) <br>
 **Implementation with R language.** <br>
 In Yoshiki Yamagata, Hajime Seya (eds.) <br>
-*Spatial Analysis Using Big Data: Methods and Urban Applications,* 181–223. Academic Press. <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 181–223, Academic Press. <br>
 DOI: 10.1016/B978-0-12-813127-5.00007-2 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
 1. Hajime Seya, Takahiro Yoshida, Yoshiki Yamagata (2019) <br>
 **Spatial econometric models.** <br>
 In Yoshiki Yamagata, Hajime Seya (eds.) <br>
-*Spatial Analysis Using Big Data: Methods and Urban Applications,* 113–158. Academic Press. <br>
+*Spatial Analysis Using Big Data: Methods and Urban Applications,* 113–158, Academic Press. <br>
 DOI: 10.1016/B978-0-12-813127-5.00005-9 [[LINK](https://www.elsevier.com/books/spatial-analysis-using-big-data/yamagata/978-0-12-813127-5)]
 1. Takahiro Yoshida, Morito Tsutsumi (2017) <br>
 **Cluster analysis.** <br>
 In Committee of Infrastructure Planning and Management (eds.) <br>
-*Handbook of Infrastructure Planning and Management*, 118–120. Corona Publishing. <br>
+*Handbook of Infrastructure Planning and Management*, 118–120, Corona Publishing. <br>
 [in Japanese] [[LINK](http://www.coronasha.co.jp/doboku-hb.html)]
 
 ---
