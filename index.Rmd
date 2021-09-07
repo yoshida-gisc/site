@@ -43,7 +43,7 @@ description: "This is Takahiro Yoshida's website."
 - April 2021 – present
     - Part-Time Lecturer, <br>Graduate School of System Design and Management, Keio University, Japan.
 - April 2021 – present
-    - Visiting Researcher, <br>Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
+    - Visiting Researcher, <br>Earth System Division, National Institute for Environmental Studies, Japan.
 - April 2019 – present
     - Part-Time Lecturer, <br>Department of International Economics, Faculty of Economics, Toyo University, Japan.
 
