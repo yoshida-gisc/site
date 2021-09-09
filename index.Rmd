@@ -95,6 +95,10 @@ DOI: 10.1038/s41467-021-24823-0 [[LINK](https://www.nature.com/articles/s41467-0
 **The need for urban form data in spatial modeling of urban carbon emissions in China: A critical review.** <br>
 *Journal of Cleaner Production*, 319, 128792. <br>
 DOI: 10.1016/j.jclepro.2021.128792 [[LINK](https://doi.org/10.1016/j.jclepro.2021.128792)]
+1. Mai Fukaya, Junya Yamasaki, Ryoichi Nitanai, Rikutaro Manabe, Takahiro Yoshida, Akito Murayama (2021) <br> 
+**Long-term environmental changes in condominium complex and its surrounding neighborhoods: Towards the development of neighborhood sustainability assessment framework.** <br>
+*Journal of the City Planning Institute of Japan*, accepted. [in Japanese] <br>
+DOI: in press [LINK]
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2021) <br>
 **A review on geographically weighted methods and their future directions.** <br>
 *Theory and Applications of GIS,* 29 (1), 11–21. [in Japanese]<br>
