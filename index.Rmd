@@ -29,25 +29,27 @@ url: https://yoshida-gisc.github.io/site/
 
 ## Work experience {-}
 
-- April 2021 – present <br>
-Project Assistant Professor, <br>
-Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
+- April 2021 – present
+    - Project Assistant Professor, <br>
+    Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
 - April 2018 – March 2021 <br>
-Research Associate, <br>
-Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
+    - Research Associate, <br>
+    Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
 - April 2016 – March 2018 <br>
-Research Fellow (DC2), <br>
-Japan Society for the Promotion of Science, Japan.
-
+    - Research Fellow (DC2), <br>
+    Japan Society for the Promotion of Science, Japan.
 
 (Concurrent appointments)
 
-- April 2021 – present <br>
-Part-Time Lecturer, Graduate School of System Design and Management, Keio University, Japan.
-- April 2021 – present <br>
-Visiting Researcher, Earth System Division, National Institute for Environmental Studies, Japan.
-- April 2019 – present <br>
-Part-Time Lecturer, Department of International Economics, Faculty of Economics, Toyo University, Japan.
+- April 2021 – present
+    - Part-Time Lecturer, <br>
+    Graduate School of System Design and Management, Keio University, Japan.
+- April 2021 – present
+    - Visiting Researcher, <br>
+    Earth System Division, National Institute for Environmental Studies, Japan.
+- April 2019 – present
+    - Part-Time Lecturer, <br>
+    Department of International Economics, Faculty of Economics, Toyo University, Japan.
 
 
 ---
