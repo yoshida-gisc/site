@@ -2,6 +2,7 @@ bookdown::gitbook:
   css: style.css
   config:
     toc:
+      scroll_highlight: true
       before: |
         <li><a href="./">TAKAHIRO YOSHIDA'S WEBSITE</a></li>
     download: ["pdf"]
