@@ -6,7 +6,6 @@ site: bookdown::bookdown_site
 output: bookdown::bs4_book
 documentclass: book
 monofontoptions: "Scale=0.7"
-fontsize: 10pt
 github-repo: "yoshida-gisc"
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
