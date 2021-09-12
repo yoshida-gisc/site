@@ -1,51 +1,53 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
-author: ""
-date: "April, 2021"
+author: "Takahiro Yoshida"
+date: "September, 2021"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: bookdown::bs4_book
 documentclass: book
+monofontoptions: "Scale=0.7"
 github-repo: "yoshida-gisc"
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+colorlinks: yes
+graphics: yes
 description: "This is Takahiro Yoshida's website."
+cover-image: "Forest.png"
+url: https://yoshida-gisc.github.io/site/
 ---
 
 # Welcome! {-}
 
-## About {-}
 
-**Takahiro Yoshida** (吉田 崇紘) is Project Assistant Professor of Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS or GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is Project Assistant Professor of Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS or GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
 
-<div><img src="Forest.png" align="right" width="23%" height=auto></div>
 
-### Education {-}
+## Education {-}
 
-- Ph.D. in Policy and Planning Sciences, University of Tsukuba, March 2018.
-    - [Dissertation title] Methodological developments and socio-economic applications of compositional data analysis for geographical data.
+- Ph.D. in Policy and Planning Sciences, University of Tsukuba, March 2018. <br> 
+[Dissertation title] Methodological developments and socio-economic applications of compositional data analysis for geographical data.
 - M.Sc. in Engineering, University of Tsukuba, March 2015.
 - B.Sc. in Policy and Planning Sciences, University of Tsukuba, March 2013.
 
-### Work experience {-}
+## Work experience {-}
 
-- April 2021 – present
-    - Project Assistant Professor, <br>Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
-- April 2018 – March 2021
-    - Research Associate, <br>Center for Global Environmental Research,
-    National Institute for Environmental Studies, Japan.
-- April 2016 – March 2018
-    - Research Fellow (DC2), <br>Japan Society for the Promotion of Science, Japan.
+- April 2021 – present <br>
+Project Assistant Professor, Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
+- April 2018 – March 2021 <br>
+Research Associate, Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
+- April 2016 – March 2018 <br>
+Research Fellow (DC2), Japan Society for the Promotion of Science, Japan.
 
 
 (Concurrent appointments)
 
-- April 2021 – present
-    - Part-Time Lecturer, <br>Graduate School of System Design and Management, Keio University, Japan.
-- April 2021 – present
-    - Visiting Researcher, <br>Earth System Division, National Institute for Environmental Studies, Japan.
-- April 2019 – present
-    - Part-Time Lecturer, <br>Department of International Economics, Faculty of Economics, Toyo University, Japan.
+- April 2021 – present <br>
+Part-Time Lecturer, Graduate School of System Design and Management, Keio University, Japan.
+- April 2021 – present <br>
+Visiting Researcher, Earth System Division, National Institute for Environmental Studies, Japan.
+- April 2019 – present <br>
+Part-Time Lecturer, Department of International Economics, Faculty of Economics, Toyo University, Japan.
 
 
 ---
@@ -72,16 +74,17 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 **gwpcorMapper: an interactive mapping tool for exploring geographically weighted correlation and partial correlation in high-dimensional geospatial datasets.** <br>
 arXiv: 2101.03491 [[LINK](https://arxiv.org/abs/2101.03491)]
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
-**A Monte Carlo study: Spatial multinomial discrete choice models.** <br>
+**A Monte Carlo study: Spatial multinomial discrete choice models.**
     - <font size="-1"><font color="gray"> This paper was presented at the Spatial Econometrics Association 2016.</font></font>
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
-**Spatial seemingly unrelated regression models combined with compositional data analysis approach.** <br>
-    - <font size="-1"><font color="gray">This paper was presented at the Spatial Econometrics Association 2019.</font></font>
+**Spatial seemingly unrelated regression models combined with compositional data analysis approach.** 
+    + <font size="-1"><font color="gray">This paper was presented at the Spatial Econometrics Association 2019.</font></font>
 - Takahiro Yoshida, Masato Tomonari, Hajime Seya, Morito Tsutsumi <br>
 **On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
 - &#043; Four papers are under review, and one translation book is coming soon. 
+
 
 ---
 
@@ -175,12 +178,12 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 **Geographically weighted regression for compositional data: An application to the U.S. household income compositions.** <br>
 *Proceedings of the 11th International Conference on Geographic Information Science*, accepted. <br>
 DOI: in press.
-    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience 2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
+    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2021) <br>
 **Stable geographically weighted Poisson regression for count data.** <br>
 *Proceedings of the 11th International Conference on Geographic Information Science*, accepted. <br>
 DOI: in press.
-    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience 2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
+    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
 *Proceedings of the 12th International Conference on Applied Energy*, Part 1: ID: 0579. <br>
@@ -446,7 +449,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Research grants {-}
 
-### Principal Investigator {-}
+## Principal Investigator {-}
 
 - April 2021 – present
     - Grant-in-Aid for Early-Career Scientists, <br>
@@ -460,7 +463,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Young Scientist Cultivation Program, <br>
     Graduate School of Systems and Information Engineering, University of Tsukuba.
 
-### Co-Investigator {-}
+## Co-Investigator {-}
 
 - April 2021 – present
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
@@ -475,7 +478,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     Research Organization of Information and Systems. <br>
     Project Numbers: 006RP2018, 004RP2019, 003RP2020, and 005RP2021
 
-### Research Collaborator {-}
+## Research Collaborator {-}
 - November 2020 – present
     - JST-Mirai Program (PI: Norio Ohmagari), <br>
     Japan Science and Technology Agency. <br>
