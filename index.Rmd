@@ -1,11 +1,10 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
-author: "Takahiro Yoshida"
+author: ""
 date: "September, 2021"
 site: bookdown::bookdown_site
-output: bookdown::bs4_book
+output: bookdown::gitbook
 documentclass: book
-monofontoptions: "Scale=0.7"
 github-repo: "yoshida-gisc"
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -13,31 +12,32 @@ link-citations: yes
 colorlinks: yes
 graphics: yes
 description: "This is Takahiro Yoshida's website."
-cover-image: "Forest.png"
 url: https://yoshida-gisc.github.io/site/
 ---
 
 # Welcome! {-}
 
-
-<img src="Forest.png" width="30%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is Project Assistant Professor of Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS or GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is Project Assistant Professor of Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS or GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
 
 
 ## Education {-}
 
-- Ph.D. in Policy and Planning Sciences, University of Tsukuba, March 2018. <br> 
-[Dissertation title] Methodological developments and socio-economic applications of compositional data analysis for geographical data.
+- Ph.D. in Policy and Planning Sciences, University of Tsukuba, March 2018.
+    - [Dissertation title] Methodological developments and socio-economic applications of compositional data analysis for geographical data.
 - M.Sc. in Engineering, University of Tsukuba, March 2015.
 - B.Sc. in Policy and Planning Sciences, University of Tsukuba, March 2013.
 
 ## Work experience {-}
 
 - April 2021 – present <br>
-Project Assistant Professor, Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
+Project Assistant Professor, <br>
+Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
 - April 2018 – March 2021 <br>
-Research Associate, Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
+Research Associate, <br>
+Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
 - April 2016 – March 2018 <br>
-Research Fellow (DC2), Japan Society for the Promotion of Science, Japan.
+Research Fellow (DC2), <br>
+Japan Society for the Promotion of Science, Japan.
 
 
 (Concurrent appointments)
@@ -449,7 +449,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Research grants {-}
 
-## Principal Investigator {-}
+### Principal Investigator {-}
 
 - April 2021 – present
     - Grant-in-Aid for Early-Career Scientists, <br>
@@ -463,7 +463,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Young Scientist Cultivation Program, <br>
     Graduate School of Systems and Information Engineering, University of Tsukuba.
 
-## Co-Investigator {-}
+### Co-Investigator {-}
 
 - April 2021 – present
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
@@ -478,7 +478,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     Research Organization of Information and Systems. <br>
     Project Numbers: 006RP2018, 004RP2019, 003RP2020, and 005RP2021
 
-## Research Collaborator {-}
+### Research Collaborator {-}
 - November 2020 – present
     - JST-Mirai Program (PI: Norio Ohmagari), <br>
     Japan Science and Technology Agency. <br>
