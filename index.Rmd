@@ -181,23 +181,23 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Narumasa Tsutsumida, Tomoki Nakaya (2021) <br>
 **Geographically weighted regression for compositional data: An application to the U.S. household income compositions.** <br>
-*Proceedings of the 11th International Conference on Geographic Information Science*, accepted. <br>
+*Proceedings of the 11th International Conference on Geographic Information Science*, paper 55. <br>
 DOI: 10.25436/E2G599 [[LINK](https://escholarship.org/uc/item/62s7n79k)]
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2021) <br>
 **Stable geographically weighted Poisson regression for count data.** <br>
-*Proceedings of the 11th International Conference on Geographic Information Science*, accepted. <br>
+*Proceedings of the 11th International Conference on Geographic Information Science*, paper 47. <br>
 DOI: 10.25436/E2X59B [[LINK](https://escholarship.org/uc/item/8kg664zg)]
-    - <font size="-1"><font color="gray">This paper will be presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
+    - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
-*Proceedings of the 12th International Conference on Applied Energy*, Part 1: ID: 0579. <br>
-Available at: [[Link](http://www.energy-proceedings.org/change-of-co2-emissions-in-tokyo-under-the-covid-19-situation%25252525252525252525252525252525252525253A-urban-carbon-mapping-approach/)]
+*Proceedings of the 12th International Conference on Applied Energy*, Part 1, ID: 0579. <br>
+Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/change-of-co2-emissions-in-tokyo-under-the-covid-19-situation%252525252525252525252525252525252525252525252525252525252525252525253A-urban-carbon-mapping-approach/)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **Urban carbon mapping of roads under the COVID-19 situation: The case of Tokyo 23 wards.** <br>
-*Proceedings of the 12th International Conference on Applied Energy*, Part 1: ID: 0580. <br>
-Available at: [[Link](http://www.energy-proceedings.org/urban-carbon-mapping-of-roads-under-the-covid-19-situation%25252525252525252525252525252525252525253A-the-case-of-tokyo-23-wards/)]
+*Proceedings of the 12th International Conference on Applied Energy*, Part 1, ID: 0580. <br>
+Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/urban-carbon-mapping-of-roads-under-the-covid-19-situation%252525252525252525252525252525252525252525252525252525252525252525253A-the-case-of-tokyo-23-wards/)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
 **A Geographically weighted total composite error analysis for soft classification.** <br>
@@ -232,22 +232,22 @@ DOI: 10.17608/k6.auckland.9850826.v1 [[LINK](https://doi.org/10.17608/k6.aucklan
 1. Takahiro Yoshida, Soowon Chang, Daisuke Murakami, Yoshiki Yamagata (2019) <br>
 **The relationships between energy consumption and surface temperature: A combining multiple-scale observations approach.** <br>
 *Proceedings of the 11th International Conference on Applied Energy*, Part 3, ID: 0940. <br>
-Available at: [[Link](http://www.energy-proceedings.org/the-relationship-between-energy-consumption-and-surface-temperature-combining-multiple-scale-observations/)] <br>
+Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/the-relationship-between-energy-consumption-and-surface-temperature-combining-multiple-scale-observations/)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Takuro Kobashi, Takahiro Yoshida, Katsuhiko Naito, Stefan Pfenninger, Yoshiki Yamagata (2019) <br>
 **Cost-optimal pathways to decarbonize urban energy systems with PV, batteries, and electric vehicles: A case study for Kyoto, Japan.** <br>
 *Proceedings of the 11th International Conference on Applied Energy*, Part 2, ID: 0107. <br>
-Available at: [[Link](http://www.energy-proceedings.org/cost-optimal-pathways-to-decarbonize-urban-energy-systems-with-pv-batteries-and-electric-vehicles-a-case-study-for-kyoto-japan/)] <br>
+Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/cost-optimal-pathways-to-decarbonize-urban-energy-systems-with-pv-batteries-and-electric-vehicles-a-case-study-for-kyoto-japan/)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Soowon Chang, Takahiro Yoshida, Michael Tobey, Yoshiki Yamagata, Perry Yang (2019) <br>
 **Trandformative model of urban buildings optimizing energy demands, solar harvesting potential, and indoor thermal comfort.** <br>
-*Proceedings of the 11th International Conference on Applied Energy*, Part 4: ID: 0355. <br>
-Available at: [[Link](http://www.energy-proceedings.org/transformative-model-of-urban-buildings-optimizing-energy-demands-solar-harvesting-potential-and-indoor-thermal-comfort/)] <br>
+*Proceedings of the 11th International Conference on Applied Energy*, Part 4, ID: 0355. <br>
+Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/transformative-model-of-urban-buildings-optimizing-energy-demands-solar-harvesting-potential-and-indoor-thermal-comfort/)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Michael Tobey, Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata (2019) <br>
 **Measuring resiliencce, economy, sustainability, and human well-being in multiple scales for urban diagnostics.** <br>
 *Proceedings of the 11th International Conference on Applied Energy*, Part 1, ID: 0904. <br>
-Available at: [[Link](http://www.energy-proceedings.org/measuring-resilience-economy-sustainability-and-human-wellbeing-in-multiple-scales-for-urban-diagnostics/)] <br>
+Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/measuring-resilience-economy-sustainability-and-human-wellbeing-in-multiple-scales-for-urban-diagnostics/)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019) <br>
 **Spatiotemporal heatwave risk evaluation: Considering hazard, exposure, and vulnerability.** <br>
