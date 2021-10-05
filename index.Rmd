@@ -97,8 +97,8 @@ arXiv: 2101.03491 [[LINK](https://arxiv.org/abs/2101.03491)]
 DOI: 10.1038/s41467-021-24823-0 [[LINK](https://www.nature.com/articles/s41467-021-24823-0)]
 1. Daisuke Murakami, Takahiro Yoshida, Yoshiki Yamagata (2021) <br>
 **Gridded GDP projections compatible with the five SSPs (shared socioeconomic pathways).** <br>
-*Frontiers in Built Environment*, accepted. <br>
-DOI: in press [LINK] [[Website](https://gcp-tsukuba.github.io/SSP-downscale/)]
+*Frontiers in Built Environment*, in press. <br>
+DOI: 10.3389/fbuil.2021.760306 [[LINK](https://www.frontiersin.org/articles/10.3389/fbuil.2021.760306/abstract)] [[Website](https://gcp-tsukuba.github.io/SSP-downscale/)] [[Data](https://figshare.com/articles/dataset/Gridded_GDP_projections_compatible_with_the_five_SSPs_Shared_Socioeconomic_Pathways_/12016506/1)]
 1. Meng Cai, Yuan Shi, Chao Ren, Takahiro Yoshida, Yoshiki Yamagata, Chao Ding, Nan Zhou (2021) <br>
 **The need for urban form data in spatial modeling of urban carbon emissions in China: A critical review.** <br>
 *Journal of Cleaner Production*, 319, 128792. <br>
