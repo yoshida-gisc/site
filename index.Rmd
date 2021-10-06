@@ -65,6 +65,8 @@ url: https://yoshida-gisc.github.io/site/
 
 ## In progress / under review {-}
 
+- Translating **"[Geocomputation with R](https://geocompr.robinlovelace.net/)"** into Japanese <br> with Shinya Uryu and Narumasa Tsutsumida. 
+
 - Takahiro Yoshida, Hajime Seya <br>
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 arXiv: 2107.12539  [[LINK](https://arxiv.org/abs/2107.12539)]
@@ -84,7 +86,7 @@ arXiv: 2101.03491 [[LINK](https://arxiv.org/abs/2101.03491)]
 **On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
-- &#043; Four papers are under review, and one translation book is coming soon. 
+- &#043; Four papers are under review. 
 
 
 ---
