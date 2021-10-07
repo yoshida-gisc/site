@@ -65,7 +65,9 @@ url: https://yoshida-gisc.github.io/site/
 
 ## In progress / under review {-}
 
-- Translating **"[Geocomputation with R](https://geocompr.robinlovelace.net/)"** into Japanese <br> with Shinya Uryu and Narumasa Tsutsumida. 
+- [Translation] Shinya Uryu, Narumasa Tsutsumida, Takahiro Yoshida. 
+    - Robin Lovelace, Jakub Nowosad, Jannes Muenchow (2019) <br>
+    ***[Geocomputation with R](https://geocompr.robinlovelace.net/)***. Chapman and Hall/CRC Press.
 
 - Takahiro Yoshida, Hajime Seya <br>
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
@@ -476,6 +478,10 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Co-Investigator {-}
 
+- October 2021 – present
+    - Joint Research Grants (PI: Ayyoob Sharifi), <br>
+    The Toyota Fundation. <br>
+    Project Number: D21-R-0040
 - April 2021 – present
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
