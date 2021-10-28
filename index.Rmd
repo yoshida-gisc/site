@@ -114,8 +114,8 @@ DOI: 10.1016/j.jclepro.2021.128792 [[LINK](https://doi.org/10.1016/j.jclepro.202
 DOI: 10.1016/j.jrurstud.2021.09.013 [[LINK](https://www.sciencedirect.com/science/article/abs/pii/S0743016721002771)]
 1. Mai Fukaya, Junya Yamasaki, Ryoichi Nitanai, Rikutaro Manabe, Takahiro Yoshida, Akito Murayama (2021) <br> 
 **Long-term environmental changes in condominium complex and its surrounding neighborhoods: Towards the development of neighborhood sustainability assessment framework.** <br>
-*Journal of the City Planning Institute of Japan*, accepted. [in Japanese] <br>
-DOI: in press [LINK]
+*Journal of the City Planning Institute of Japan*, 56 (3), 905–912. [in Japanese] <br>
+DOI: 10.11361/journalcpij.56.905 [[LINK](https://www.jstage.jst.go.jp/article/journalcpij/56/3/56_905/_article/-char/en)]
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2021) <br>
 **A review on geographically weighted methods and their future directions.** <br>
 *Theory and Applications of GIS,* 29 (1), 11–21. [in Japanese]<br>
