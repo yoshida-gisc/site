@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "September, 2021"
+date: "January, 2022"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -452,6 +452,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 (with Anna Ebata, Kazuki Tamesue, Hajime Seya, and Morito Tsutsumi)
 - **Map Gallery Award (the second place)**, ESRI Japan, Corp., May 2018. <br>
 (with Anna Ebata)
+- **Best Student Award**, Graduate School of Systems and Information Engineering, University of Tsukuba, March 2018.
 - **Young Scholar Award**, Environmental Systems Research Institute (ESRI), Inc., July 2017. [[LINK](https://www.esrij.com/cgi-bin/wp/wp-content/uploads/2017/01/YSA-Taiken2017.pdf)]
 - **President's Award**, University of Tsukuba, March 2017. <br>
 (with Marisa Yamaguchi and Rim Er-Rbib)
