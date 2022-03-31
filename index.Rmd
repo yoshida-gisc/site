@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "January, 2022"
+date: "March, 2022"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -46,7 +46,7 @@ url: https://yoshida-gisc.github.io/site/
 - April 2021 – present
     - Visiting Researcher, <br>
     Earth System Division, National Institute for Environmental Studies, Japan.
-- April 2019 – present
+- April 2019 – March 2022
     - Part-Time Lecturer, <br>
     Department of International Economics, Faculty of Economics, Toyo University, Japan.
 
