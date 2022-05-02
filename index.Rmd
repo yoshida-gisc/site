@@ -50,8 +50,7 @@ url: https://yoshida-gisc.github.io/site/
     - Part-Time Lecturer, <br>
     Department of International Economics, Faculty of Economics, Toyo University, Japan.
 
-
----
+<hr>
 
 ## Contact {-}
 
@@ -69,7 +68,7 @@ url: https://yoshida-gisc.github.io/site/
     - Robin Lovelace, Jakub Nowosad, Jannes Muenchow (2019) <br>
     ***[Geocomputation with R](https://geocompr.robinlovelace.net/)***. Chapman and Hall/CRC Press.
 
-- Takahiro Yoshida, Hajime Seya <br>
+- Takahiro Yoshida, Daisuke Murakami, Hajime Seya <br>
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 arXiv: 2107.12539  [[LINK](https://arxiv.org/abs/2107.12539)]
 - Hajime Seya, Takahiro Yoshida <br>
@@ -91,14 +90,14 @@ arXiv: 2101.03491 [[LINK](https://arxiv.org/abs/2101.03491)]
 - &#043; Four papers are under review. 
 
 
----
+<hr>
 
 ## Refereed papers {-}
 
 1. Tomoki Hosaka, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br>
 **Framework of climate change adaptation measures of urban planning-related sectors in UK and French municipalities: From the analysis of measures in 8 advanced Climate Change Action Plans.** <br>
-*Journal of the City Planning Institute of Japan*, accepted. [in Japanese] <br>
-DOI: in press [LINK]
+*Journal of the City Planning Institute of Japan*, 57 (1), 138–150. [in Japanese] <br>
+DOI: 10.11361/journalcpij.57.138 [[LINK](https://doi.org/10.11361/journalcpij.57.138)]
 1. Daisuke Murakami, Takahiro Yoshida, Yoshiki Yamagata (2021) <br>
 **Gridded GDP projections compatible with the five SSPs (shared socioeconomic pathways).** <br>
 *Frontiers in Built Environment*, 7, 760306. <br>
@@ -188,7 +187,7 @@ DOI: 10.1016/j.jtrangeo.2016.07.004 [[LINK](http://www.sciencedirect.com/science
 *Landscape and Urban Planning,* 151, 89–102. <br>
 DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/science/article/pii/S0169204616000232)]
 
----
+<hr>
 
 ## Refereed proceedings papers {-}
 
@@ -358,7 +357,7 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 *Proceedings of the 6th International Workshop on Compositional Data Analysis*, 305–310.
     - <font size="-1"><font color="gray">This paper was presented at the 6th International Workshop on Compositional Data Analysis (CoDaWork2015), Girona, Spain, June 1–5, 2015.</font></font>
 
----
+<hr>
 
 ## Book chapters {-}
 
@@ -431,7 +430,7 @@ In Committee of Infrastructure Planning and Management (eds.) <br>
 *Handbook of Infrastructure Planning and Management*, 118–120, Corona Publishing. <br>
 [in Japanese] [[LINK](http://www.coronasha.co.jp/doboku-hb.html)]
 
----
+<hr>
 
 ## Book translation {-}
 
@@ -464,7 +463,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 - **S-PLUS Student Research Encouragement Award (the first place)**, NTT DATA Mathematical Systems, Inc., November 2014.
 - **Excellent Presentation Award**, GIS Association of Japan, November 2014.
 
----
+<hr>
 
 ## Research grants {-}
 
