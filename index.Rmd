@@ -71,20 +71,20 @@ url: https://yoshida-gisc.github.io/site/
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya <br>
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 arXiv: 2107.12539  [[LINK](https://arxiv.org/abs/2107.12539)]
+- Takahiro Yoshida, Daisuke Murakami, Hajime Seya <br>
+**Location powered quotient: A compositional data analysis-based approach.**
 - Hajime Seya, Takahiro Yoshida <br>
 **Propensity score matching for multiple treatment levels: A CODA-based contribution.** <br>
 arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
 **A Monte Carlo study: Spatial multinomial discrete choice models.**
-    - <font size="-1"><font color="gray"> This paper was presented at the Spatial Econometrics Association 2016.</font></font>
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Morito Tsutsumi <br>
 **Spatial seemingly unrelated regression models combined with compositional data analysis approach.** 
-    + <font size="-1"><font color="gray">This paper was presented at the Spatial Econometrics Association 2019.</font></font>
 - Takahiro Yoshida, Masato Tomonari, Hajime Seya, Morito Tsutsumi <br>
 **On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
-- &#043; Four papers are under review. 
+- &#043; Three papers are under review. 
 
 
 <hr>
@@ -97,8 +97,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 DOI: 10.11361/journalcpij.57.138 [[LINK](https://doi.org/10.11361/journalcpij.57.138)]
 1. Joseph Emile Honour Percival, Narumasa Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya (2022) <br> 
 **Exploratory spatial data analysis with gwpcorMapper: An interactive mapping tool for geographically weighted correlation and partial correlation.** <br>
-*Journal of Geovisualization and Spatial Analysis*, accepted. <br>
-DOI: in press.
+*Journal of Geovisualization and Spatial Analysis*, 6, 17. <br>
+DOI: 10.1007/s41651-022-00111-3 [[LINK](https://link.springer.com/article/10.1007/s41651-022-00111-3)].
 1. Daisuke Murakami, Takahiro Yoshida, Yoshiki Yamagata (2021) <br>
 **Gridded GDP projections compatible with the five SSPs (shared socioeconomic pathways).** <br>
 *Frontiers in Built Environment*, 7, 760306. <br>
@@ -192,6 +192,14 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed proceedings papers {-}
 
+1. Narumasa	Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris, Alexis Comber (2022) <br>
+**A comparison of geographically weighted principal components analysis methodologies.** <br> 
+accepted. DOI: in press.<br>
+    - <font size="-1"><font color="gray">This paper will be presented at the 15th International Conference on Spatial Information Theory (COSIT2022), Kobe, Japan, September 5–9, 2022.</font></font>
+1. Daisuke Murakami, Narumasa	Tsutsumida, Takahiro Yoshida, Tomoki Nakaya (2022) <br>
+**Large-scale spatial prediction by scalable geographically weighted regression: Comparative study.** <br> 
+accepted. DOI: in press.<br>
+    - <font size="-1"><font color="gray">This paper will be presented at the 15th International Conference on Spatial Information Theory (COSIT2022), Kobe, Japan, September 5–9, 2022.</font></font>
 1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Narumasa Tsutsumida, Tomoki Nakaya (2021) <br>
 **Geographically weighted regression for compositional data: An application to the U.S. household income compositions.** <br>
 *Proceedings of the 11th International Conference on Geographic Information Science*, paper 55. <br>
