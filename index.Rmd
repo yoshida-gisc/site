@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "March, 2022"
+date: "September, 2022"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -16,19 +16,26 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is Project Assistant Professor of Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. His research interests include: geographical information sciences (GIS or GISc), remote sensing, spatial econometrics, spatial statistics, compositional data analysis, and urban big data analysis.
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at the Center for Spatial Information Science, the University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
 
+(1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
+(2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
 
-## Education {-}
+Very welcome you who are interested in either. Very very welcome you who are interested in both. In most cases, it is either.
+
+## Educational background {-}
 
 - Ph.D. in Policy and Planning Sciences, University of Tsukuba, March 2018.
     - [Dissertation title] Methodological developments and socio-economic applications of compositional data analysis for geographical data.
 - M.Sc. in Engineering, University of Tsukuba, March 2015.
 - B.Sc. in Policy and Planning Sciences, University of Tsukuba, March 2013.
 
-## Work experience {-}
+## Academic experience {-}
 
-- April 2021 – present
+- September 2022 – present <br>
+    - Assistant Professor, <br>
+    Division of Spatial Information Analysis, Center for Spatial Information Science, The University of Tokyo, Japan.
+- April 2021 – August 2022 <br>
     - Project Assistant Professor, <br>
     Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
 - April 2018 – March 2021 <br>
@@ -49,16 +56,17 @@ url: https://yoshida-gisc.github.io/site/
 - April 2019 – March 2022
     - Part-Time Lecturer, <br>
     Department of International Economics, Faculty of Economics, Toyo University, Japan.
+- September 2013 – September 2013
+    - Intern, <br>
+    Geographic Information Analysis Research Division, Geography and Crustal Dynamics Research Center, Geospatial Information Authority of Japan, Japan.
 
 <hr>
 
 ## Contact {-}
 
-- Phone: +81-3-5841-6218 
-- E-mail: yoshida.takahiro *at* up.t.u-tokyo.ac.jp
-- Address: 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan
-- Laboratory: [Urban Land Use Planning Unit, The University of Tokyo](http://up.t.u-tokyo.ac.jp/index-j.html)
-- [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja) / [Publons](https://publons.com/researcher/2909576/takahiro-yoshida/) / [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5) /  [researchmap](https://researchmap.jp/yoshida.takahiro) / [ORCID](https://orcid.org/0000-0001-8741-5345)
+- E-mail: yoshida *at* csis.u-tokyo.ac.jp
+- Address: 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8568, JAPAN
+- Links: [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja); [Web of Science](https://www.webofscience.com/wos/author/record/847593); [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5);  [researchmap](https://researchmap.jp/yoshida.takahiro); [ORCID](https://orcid.org/0000-0001-8741-5345)
 
 # Publications {-}
 
@@ -89,8 +97,12 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 <hr>
 
-## Refereed papers {-}
+## Refereed journal papers {-}
 
+1. Chaomin Chen, Hasi Bagan, Takahiro Yoshida, Habura Borjigin, Jun Gao (2022) <br>
+**Quantitative analysis of the building-level relationship between building form and land surface temperature using airborne LiDAR and thermal infrared data.** <br>
+*Urban Climate*, 45, 101248. <br>
+DOI: 10.1016/j.uclim.2022.101248 [[LINK](https://doi.org/10.1016/j.uclim.2022.101248)]
 1. Tomoki Hosaka, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br>
 **Framework of climate change adaptation measures of urban planning-related sectors in UK and French municipalities: From the analysis of measures in 8 advanced Climate Change Action Plans.** <br>
 *Journal of the City Planning Institute of Japan*, 57 (1), 138–150. [in Japanese] <br>
@@ -194,12 +206,19 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 1. Narumasa	Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris, Alexis Comber (2022) <br>
 **A comparison of geographically weighted principal components analysis methodologies.** <br> 
-accepted. DOI: in press.<br>
+*Proceedings of the 15th International Conference on Spatial Information Theory*, 21:1–21:6. <br> 
+DOI: 10.4230/LIPIcs.COSIT.2022.21 [[LINK](https://doi.org/10.4230/LIPIcs.COSIT.2022.21)]<br>
     - <font size="-1"><font color="gray">This paper will be presented at the 15th International Conference on Spatial Information Theory (COSIT2022), Kobe, Japan, September 5–9, 2022.</font></font>
 1. Daisuke Murakami, Narumasa	Tsutsumida, Takahiro Yoshida, Tomoki Nakaya (2022) <br>
 **Large-scale spatial prediction by scalable geographically weighted regression: Comparative study.** <br> 
-accepted. DOI: in press.<br>
+*Proceedings of the 15th International Conference on Spatial Information Theory*, 12:1–12:5. <br>
+DOI: 10.4230/LIPIcs.COSIT.2022.12 [[LINK](https://doi.org/10.4230/LIPIcs.COSIT.2022.12)] <br>
     - <font size="-1"><font color="gray">This paper will be presented at the 15th International Conference on Spatial Information Theory (COSIT2022), Kobe, Japan, September 5–9, 2022.</font></font>
+1. Perry Pei-Ju Yang, Takahiro Yoshida, Akito Murayama, Soowon Chang, Yoshiki Yamagata (2021) <br>
+**Green recovery planning from COVID for a low energy urban district using urban digital platform: A case study of Tokyo Shinagawa.** <br>
+*Energy Proceedings*, 22, 870. <br>
+DOI: 10.46855/energy-proceedings-9395 [[Link](https://doi.org/10.46855/energy-proceedings-9395)] <br>
+    - <font size="-1"><font color="gray">This paper was presented at the 13th International Conference on Applied Energy (ICAE2021), Online and Bangkok, Thailand, November 29 – December 5, 2021.</font></font>
 1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya, Narumasa Tsutsumida, Tomoki Nakaya (2021) <br>
 **Geographically weighted regression for compositional data: An application to the U.S. household income compositions.** <br>
 *Proceedings of the 11th International Conference on Geographic Information Science*, paper 55. <br>
@@ -212,13 +231,13 @@ DOI: 10.25436/E2X59B [[LINK](https://escholarship.org/uc/item/8kg664zg)]
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
 **Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
-*Proceedings of the 12th International Conference on Applied Energy*, Part 1, ID: 0579. <br>
-Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/change-of-co2-emissions-in-tokyo-under-the-covid-19-situation%252525252525252525252525252525252525252525252525252525252525252525253A-urban-carbon-mapping-approach/)]
+*Energy Proceedings*, 9, 0579. <br>
+DOI: 10.46855/energy-proceedings-7117 [[Link](https://doi.org/10.46855/energy-proceedings-7117)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Yoshiki Yamagata, Takahiro Yoshida (2020) <br>
 **Urban carbon mapping of roads under the COVID-19 situation: The case of Tokyo 23 wards.** <br>
-*Proceedings of the 12th International Conference on Applied Energy*, Part 1, ID: 0580. <br>
-Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/urban-carbon-mapping-of-roads-under-the-covid-19-situation%252525252525252525252525252525252525252525252525252525252525252525253A-the-case-of-tokyo-23-wards/)]
+*Energy Proceedings*, 9, 0580. <br>
+DOI: 10.46855/energy-proceedings-7116 [[Link](https://doi.org/10.46855/energy-proceedings-7116)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
 1. Narumasa Tsutsumida, Takahiro Yoshida, Daisuke Murakami, Tomoki Nakaya (2020) <br>
 **A Geographically weighted total composite error analysis for soft classification.** <br>
@@ -250,25 +269,25 @@ DOI: 10.17608/k6.auckland.9850898.v1 [[LINK](https://doi.org/10.17608/k6.aucklan
 *Proceedings of the 15th International Conference on Geocomputation,* 6.5. <br>
 DOI: 10.17608/k6.auckland.9850826.v1 [[LINK](https://doi.org/10.17608/k6.auckland.9850826.v1)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 15th International Conference on Geocomputation (Geocomputation2019), Queenstown, New Zealand, September 18–21, 2019.</font></font>
+1. Soowon Chang, Takahiro Yoshida, Michael Tobey, Yoshiki Yamagata, Perry Yang (2019) <br>
+**Trandformative model of urban buildings optimizing energy demands, solar harvesting potential, and indoor thermal comfort.** <br>
+*Energy Proceedings*, 5, 0355. <br>
+DOI: 10.46855/energy-proceedings-4271 [[Link](https://doi.org/10.46855/energy-proceedings-4271)] <br>
+    - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Takahiro Yoshida, Soowon Chang, Daisuke Murakami, Yoshiki Yamagata (2019) <br>
 **The relationships between energy consumption and surface temperature: A combining multiple-scale observations approach.** <br>
-*Proceedings of the 11th International Conference on Applied Energy*, Part 3, ID: 0940. <br>
-Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/the-relationship-between-energy-consumption-and-surface-temperature-combining-multiple-scale-observations/)] <br>
+*Energy Proceedings*, 3, 0940. <br>
+DOI: 10.46855/energy-proceedings-1809 [[Link](https://doi.org/10.46855/energy-proceedings-1809)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Takuro Kobashi, Takahiro Yoshida, Katsuhiko Naito, Stefan Pfenninger, Yoshiki Yamagata (2019) <br>
 **Cost-optimal pathways to decarbonize urban energy systems with PV, batteries, and electric vehicles: A case study for Kyoto, Japan.** <br>
-*Proceedings of the 11th International Conference on Applied Energy*, Part 2, ID: 0107. <br>
-Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/cost-optimal-pathways-to-decarbonize-urban-energy-systems-with-pv-batteries-and-electric-vehicles-a-case-study-for-kyoto-japan/)] <br>
-    - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
-1. Soowon Chang, Takahiro Yoshida, Michael Tobey, Yoshiki Yamagata, Perry Yang (2019) <br>
-**Trandformative model of urban buildings optimizing energy demands, solar harvesting potential, and indoor thermal comfort.** <br>
-*Proceedings of the 11th International Conference on Applied Energy*, Part 4, ID: 0355. <br>
-Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/transformative-model-of-urban-buildings-optimizing-energy-demands-solar-harvesting-potential-and-indoor-thermal-comfort/)] <br>
+*Energy Proceedings*, 3, 0107. <br>
+DOI: 10.46855/energy-proceedings-1795 [[Link](https://doi.org/10.46855/energy-proceedings-1795)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Michael Tobey, Soowon Chang, Takahiro Yoshida, Robert Binder, Yoshiki Yamagata (2019) <br>
 **Measuring resiliencce, economy, sustainability, and human well-being in multiple scales for urban diagnostics.** <br>
-*Proceedings of the 11th International Conference on Applied Energy*, Part 1, ID: 0904. <br>
-Available at: *Energy Proceedings* [[Link](https://www.energy-proceedings.org/measuring-resilience-economy-sustainability-and-human-wellbeing-in-multiple-scales-for-urban-diagnostics/)] <br>
+*Energy Proceedings*, 2, 0904. <br>
+DOI: 10.46855/energy-proceedings-1416 [[Link](https://doi.org/10.46855/energy-proceedings-1416)] <br>
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Applied Energy (ICAE2019), Vasteras, Sweden, August 12–15, 2019.</font></font>
 1. Yoshiki Yamagata, Daisuke Murakami, Takahiro Yoshida (2019) <br>
 **Spatiotemporal heatwave risk evaluation: Considering hazard, exposure, and vulnerability.** <br>
@@ -453,6 +472,8 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Awards {-}
 
+- **Map Gallery Award (the first place)**, ESRI Japan, Corp., May 2022. <br>
+(with Kazushi Matsuo, Yujiro Hirano, Akito Murayama)
 - **Excellent Research Presentation Award**, CSIS DAYS 2018 (Center for Spatial Information Science, The University of Tokyo), November 2018. <br>
 (with Yoshiki Yamagata, Daisuke Murakami, and Tomoko Matsui) 
 - **GISA Award: Research Initiative Category**, GIS Association of Japan, October 2018. [[LINK](http://www.gisa-japan.org/file/nl108.pdf)]
@@ -492,10 +513,6 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Co-Investigator {-}
 
-- October 2021 – present
-    - Joint Research Grants (PI: Ayyoob Sharifi), <br>
-    The Toyota Fundation. <br>
-    Project Number: D21-R-0040
 - April 2021 – present
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
@@ -527,13 +544,14 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     Japan Society for the Promotion of Science. <br>
     Project Number: 15H04054
 
-# Note {-}
+# Notes: R and Python {-}
 
-- I will post my codes and results here. As an example, I published the website below along with my great colleagues. 
-    - [Gridded GDP projections compatible with the five SSPs](https://gcp-tsukuba.github.io/SSP-downscale/)
-- Tentatively, my code-based weblog is posted in [Qiita](https://qiita.com/3tky) (in Japanese).
-- This website is powered by [bookdown](https://github.com/rstudio/bookdown).
-
+- Under construction ... .
+    - This page will summarize how to run spatial analysis and spatial data analysis using R or Python. 
+    
+- Translation in progress ... . 
+    - Robin Lovelace, Jakub Nowosad, Jannes Muenchow (2019) ***[Geocomputation with R](https://geocompr.robinlovelace.net/)***. Chapman and Hall/CRC Press.
+    - Translators: Shinya Uryu, Narumasa Tsutsumida, Takahiro Yoshida.
 
 
 
