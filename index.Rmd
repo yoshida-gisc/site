@@ -16,12 +16,13 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at the Center for Spatial Information Science, the University of Tokyo, Japan. He received his Ph.D. degree in Policy and Planning Sciences from University of Tsukuba, 2018. The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at [the Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. He is also serving as a member of [Urban Land Use Planning Unit](https://up.t.u-tokyo.ac.jp/) (Department of Urban Engineering, School of Engineering) and [Mitsui Fudosan UTokyo Laboratory](https://mfut-lab.ducr.u-tokyo.ac.jp/). The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
 
 (1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
 (2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
 
-Very welcome you who are interested in either. Very very welcome you who are interested in both. In most cases, it is either.
+Very welcome you who are interested in either. Very very welcome you who are interested in both. In most cases, it is either. 
+
 
 ## Educational background {-}
 
@@ -66,7 +67,6 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 - E-mail: yoshida *at* csis.u-tokyo.ac.jp
 - Address: 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8568, JAPAN
-- Laboratory: [Urban Land Use Planning Unit](https://up.t.u-tokyo.ac.jp/) (Department of Urban Engineering, School of Engineering); [Mitsui Fudosan UTokyo Laboratory](https://mfut-lab.ducr.u-tokyo.ac.jp/)
 - Links: [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja); [Web of Science](https://www.webofscience.com/wos/author/record/847593); [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5);  [researchmap](https://researchmap.jp/yoshida.takahiro); [ORCID](https://orcid.org/0000-0001-8741-5345)
 
 # Publications {-}
