@@ -109,9 +109,9 @@ DOI: 10.1016/j.uclim.2022.101248 [[LINK](https://doi.org/10.1016/j.uclim.2022.10
 *Journal of Geovisualization and Spatial Analysis*, 6, 17. <br>
 DOI: 10.1007/s41651-022-00111-3 [[LINK](https://link.springer.com/article/10.1007/s41651-022-00111-3)].
 1. Junya Yamasaki, Masahiro Masubuchi, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br> 
-**Thermal environment simulation for future images based on SSP/RCP in urban center neighborhood under climate change: Focusing on the Nishiki 2 district, Nagoya City.** <br> 
-*Journal of the City Planning Institute of Japan*, 57 (3), accepted. [in Japanese] <br> 
-DOI: in press [LINK]
+**Thermal Environment Simulation for Future Images Based on SSP/RCP in Urban Center Neighborhood under Climate Change: Focusing on the Nishiki 2 District, Nagoya City.** <br> 
+*Journal of the City Planning Institute of Japan*, 57 (3), 949–956. [in Japanese] <br> 
+DOI: 10.11361/journalcpij.57.949 [[LINK](https://doi.org/10.11361/journalcpij.57.949)]
 1. Tomoki Hosaka, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br>
 **Framework of climate change adaptation measures of urban planning-related sectors in UK and French municipalities: From the analysis of measures in 8 advanced Climate Change Action Plans.** <br>
 *Journal of the City Planning Institute of Japan*, 57 (1), 138–150. [in Japanese] <br>

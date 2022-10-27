@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,6 +33,13 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -68,18 +75,11 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
-\hypersetup{
-  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
 
 \title{TAKAHIRO YOSHIDA's WEBSITE}
 \author{}
@@ -294,9 +294,9 @@ Very welcome you who are interested in either. Very very welcome you who are int
   DOI: 10.1007/s41651-022-00111-3 {[}\href{https://link.springer.com/article/10.1007/s41651-022-00111-3}{LINK}{]}.
 \item
   Junya Yamasaki, Masahiro Masubuchi, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022)
-  \textbf{Thermal environment simulation for future images based on SSP/RCP in urban center neighborhood under climate change: Focusing on the Nishiki 2 district, Nagoya City.}
-  \emph{Journal of the City Planning Institute of Japan}, 57 (3), accepted. {[}in Japanese{]}
-  DOI: in press {[}LINK{]}
+  \textbf{Thermal Environment Simulation for Future Images Based on SSP/RCP in Urban Center Neighborhood under Climate Change: Focusing on the Nishiki 2 District, Nagoya City.}
+  \emph{Journal of the City Planning Institute of Japan}, 57 (3), 949--956. {[}in Japanese{]}
+  DOI: 10.11361/journalcpij.57.949 {[}\href{https://doi.org/10.11361/journalcpij.57.949}{LINK}{]}
 \item
   Tomoki Hosaka, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022)
   \textbf{Framework of climate change adaptation measures of urban planning-related sectors in UK and French municipalities: From the analysis of measures in 8 advanced Climate Change Action Plans.}
