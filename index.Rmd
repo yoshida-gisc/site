@@ -78,9 +78,6 @@ Very welcome you who are interested in either. Very very welcome you who are int
     ***[Geocomputation with R](https://geocompr.robinlovelace.net/)***. Chapman and Hall/CRC Press.
 
 - Takahiro Yoshida, Daisuke Murakami, Hajime Seya <br>
-**Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
-arXiv: 2107.12539  [[LINK](https://arxiv.org/abs/2107.12539)]
-- Takahiro Yoshida, Daisuke Murakami, Hajime Seya <br>
 **Location powered quotient: A compositional data analysis-based approach.**
 - Hajime Seya, Takahiro Yoshida <br>
 **Propensity score matching for multiple treatment levels: A CODA-based contribution.** <br>
@@ -100,6 +97,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 ## Refereed journal papers {-}
 
+1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya (202X) <br> 
+**Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
+*Journal of Real Estate Finance and Economics*, accepted. <br>
+DOI: in press [LINK] [[arXiv](https://arxiv.org/abs/2107.12539)]
 1. Chaomin Chen, Hasi Bagan, Takahiro Yoshida, Habura Borjigin, Jun Gao (2022) <br>
 **Quantitative analysis of the building-level relationship between building form and land surface temperature using airborne LiDAR and thermal infrared data.** <br>
 *Urban Climate*, 45, 101248. <br>
