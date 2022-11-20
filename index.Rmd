@@ -478,6 +478,8 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Awards {-}
 
+- **Excellent Joint Research Presentation Award**, CSIS DAYS 2022 (Center for Spatial Information Science, The University of Tokyo), November 2022. <br>
+(with Narumasa Tsutsumida, Joseph Percival, Daisuke Murakami, and Tomoki Nakaya) 
 - **Map Gallery Award (the first place)**, ESRI Japan, Corp., May 2022. <br>
 (with Kazushi Matsuo, Yujiro Hirano, Akito Murayama)
 - **Excellent Research Presentation Award**, CSIS DAYS 2018 (Center for Spatial Information Science, The University of Tokyo), November 2018. <br>

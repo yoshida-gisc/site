@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,13 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -75,11 +68,18 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{TAKAHIRO YOSHIDA's WEBSITE}
 \author{}
@@ -250,10 +250,6 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \end{itemize}
 \item
   Takahiro Yoshida, Daisuke Murakami, Hajime Seya
-  \textbf{Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.}
-  arXiv: 2107.12539 {[}\href{https://arxiv.org/abs/2107.12539}{LINK}{]}
-\item
-  Takahiro Yoshida, Daisuke Murakami, Hajime Seya
   \textbf{Location powered quotient: A compositional data analysis-based approach.}
 \item
   Hajime Seya, Takahiro Yoshida
@@ -282,6 +278,11 @@ Very welcome you who are interested in either. Very very welcome you who are int
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
+\item
+  Takahiro Yoshida, Daisuke Murakami, Hajime Seya (202X)
+  \textbf{Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.}
+  \emph{Journal of Real Estate Finance and Economics}, accepted.
+  DOI: in press {[}LINK{]} {[}\href{https://arxiv.org/abs/2107.12539}{arXiv}{]}
 \item
   Chaomin Chen, Hasi Bagan, Takahiro Yoshida, Habura Borjigin, Jun Gao (2022)
   \textbf{Quantitative analysis of the building-level relationship between building form and land surface temperature using airborne LiDAR and thermal infrared data.}
@@ -940,6 +941,9 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 \begin{itemize}
 \tightlist
+\item
+  \textbf{Excellent Joint Research Presentation Award}, CSIS DAYS 2022 (Center for Spatial Information Science, The University of Tokyo), November 2022.
+  (with Narumasa Tsutsumida, Joseph Percival, Daisuke Murakami, and Tomoki Nakaya)
 \item
   \textbf{Map Gallery Award (the first place)}, ESRI Japan, Corp., May 2022.
   (with Kazushi Matsuo, Yujiro Hirano, Akito Murayama)
