@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,6 +33,13 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -68,18 +75,11 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
-\hypersetup{
-  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
 
 \title{TAKAHIRO YOSHIDA's WEBSITE}
 \author{}
@@ -281,8 +281,8 @@ Very welcome you who are interested in either. Very very welcome you who are int
 \item
   Takahiro Yoshida, Daisuke Murakami, Hajime Seya (202X)
   \textbf{Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.}
-  \emph{Journal of Real Estate Finance and Economics}, accepted.
-  DOI: in press {[}LINK{]} {[}\href{https://arxiv.org/abs/2107.12539}{arXiv}{]}
+  \emph{Journal of Real Estate Finance and Economics}, in press.
+  DOI: 10.1007/s11146-022-09929-6 {[}\href{https://link.springer.com/article/10.1007/s11146-022-09929-6}{LINK}{]} {[}\href{https://arxiv.org/abs/2107.12539}{arXiv}{]}
 \item
   Chaomin Chen, Hasi Bagan, Takahiro Yoshida, Habura Borjigin, Jun Gao (2022)
   \textbf{Quantitative analysis of the building-level relationship between building form and land surface temperature using airborne LiDAR and thermal infrared data.}
@@ -292,7 +292,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   Joseph Emile Honour Percival, Narumasa Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya (2022)
   \textbf{Exploratory spatial data analysis with gwpcorMapper: An interactive mapping tool for geographically weighted correlation and partial correlation.}
   \emph{Journal of Geovisualization and Spatial Analysis}, 6, 17.
-  DOI: 10.1007/s41651-022-00111-3 {[}\href{https://link.springer.com/article/10.1007/s41651-022-00111-3}{LINK}{]}.
+  DOI: 10.1007/s41651-022-00111-3 {[}\href{https://link.springer.com/article/10.1007/s41651-022-00111-3}{LINK}{]}
 \item
   Junya Yamasaki, Masahiro Masubuchi, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022)
   \textbf{Thermal Environment Simulation for Future Images Based on SSP/RCP in Urban Center Neighborhood under Climate Change: Focusing on the Nishiki 2 District, Nagoya City.}
