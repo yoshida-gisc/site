@@ -556,6 +556,13 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 - Under construction ... .
     - This page will summarize how to run spatial analysis and spatial data analysis using R or Python. 
+    - Currently, some tech-blogs in Japanese are being posted to [Qiita](https://qiita.com/3tky). Recent posts are:
+        - [[Microsoft Bing Maps] 世界の個別建物フットプリントを R で取得する](https://qiita.com/3tky/items/8eb2aaa81d283edbacfd)
+        - [QGIS で PLATEAUのLOD2 建物を（ともかく）表示する](https://qiita.com/3tky/items/3704c70910d83b8739ca)
+        - [都道府県庁間の距離行列（単位：m）](https://qiita.com/3tky/items/1be8841454beee03c5c6)
+        - [ MODIS のデータを R で扱ってみる（地表面温度 LST）](https://qiita.com/3tky/items/ef0cc4b96332b7175f42)
+        - [[R] gdb に格納されたGISデータをsfクラスとして読み込む](https://qiita.com/3tky/items/23c6cebd6a20bf118c8c)
+    
     
 - Translation in progress ... . 
     - Robin Lovelace, Jakub Nowosad, Jannes Muenchow (2019) ***[Geocomputation with R](https://geocompr.robinlovelace.net/)***. Chapman and Hall/CRC Press.

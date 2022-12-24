@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,13 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -75,11 +68,18 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{TAKAHIRO YOSHIDA's WEBSITE}
 \author{}
@@ -1119,6 +1119,22 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \tightlist
   \item
     This page will summarize how to run spatial analysis and spatial data analysis using R or Python.
+  \item
+    Currently, some tech-blogs in Japanese are being posted to \href{https://qiita.com/3tky}{Qiita}. Recent posts are:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      \href{https://qiita.com/3tky/items/8eb2aaa81d283edbacfd}{{[}Microsoft Bing Maps{]} 世界の個別建物フットプリントを R で取得する}
+    \item
+      \href{https://qiita.com/3tky/items/3704c70910d83b8739ca}{QGIS で PLATEAUのLOD2 建物を（ともかく）表示する}
+    \item
+      \href{https://qiita.com/3tky/items/1be8841454beee03c5c6}{都道府県庁間の距離行列（単位：m）}
+    \item
+      \href{https://qiita.com/3tky/items/ef0cc4b96332b7175f42}{MODIS のデータを R で扱ってみる（地表面温度 LST）}
+    \item
+      \href{https://qiita.com/3tky/items/23c6cebd6a20bf118c8c}{{[}R{]} gdb に格納されたGISデータをsfクラスとして読み込む}
+    \end{itemize}
   \end{itemize}
 \item
   Translation in progress \ldots{} .
