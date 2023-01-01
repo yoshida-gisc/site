@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "September, 2022"
+date: "January, 2023"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -100,7 +100,7 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya (202X) <br> 
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 *Journal of Real Estate Finance and Economics*, in press. <br>
-DOI: 10.1007/s11146-022-09929-6 [[LINK](https://link.springer.com/article/10.1007/s11146-022-09929-6)] [[arXiv](https://arxiv.org/abs/2107.12539)]
+DOI: 10.1007/s11146-022-09929-6 [[LINK](https://link.springer.com/article/10.1007/s11146-022-09929-6)]
 1. Chaomin Chen, Hasi Bagan, Takahiro Yoshida, Habura Borjigin, Jun Gao (2022) <br>
 **Quantitative analysis of the building-level relationship between building form and land surface temperature using airborne LiDAR and thermal infrared data.** <br>
 *Urban Climate*, 45, 101248. <br>
@@ -109,8 +109,12 @@ DOI: 10.1016/j.uclim.2022.101248 [[LINK](https://doi.org/10.1016/j.uclim.2022.10
 **Exploratory spatial data analysis with gwpcorMapper: An interactive mapping tool for geographically weighted correlation and partial correlation.** <br>
 *Journal of Geovisualization and Spatial Analysis*, 6, 17. <br>
 DOI: 10.1007/s41651-022-00111-3 [[LINK](https://link.springer.com/article/10.1007/s41651-022-00111-3)]
+1. Junya Yamasaki, Masahiro Masubuchi, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br> 
+**Thermal environment simulation for urban center neighborhood by Using 3D city model of Project PLATEAU: Toward heat adaptation in community planning.** <br> 
+*Papers on Environmental Information Science*, 36, 238–243. [in Japanese] <br> 
+DOI: 10.11492/ceispapers.ceis36.0_238 [[LINK](https://doi.org/10.11492/ceispapers.ceis36.0_238)]
 1. Junya Yamasaki, Masahiro Masubuchi, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br> 
-**Thermal Environment Simulation for Future Images Based on SSP/RCP in Urban Center Neighborhood under Climate Change: Focusing on the Nishiki 2 District, Nagoya City.** <br> 
+**Thermal environment simulation for future images based on SSP/RCP in urban center neighborhood under climate change: focusing on the Nishiki 2 district, Nagoya city.** <br> 
 *Journal of the City Planning Institute of Japan*, 57 (3), 949–956. [in Japanese] <br> 
 DOI: 10.11361/journalcpij.57.949 [[LINK](https://doi.org/10.11361/journalcpij.57.949)]
 1. Tomoki Hosaka, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2022) <br>
@@ -562,8 +566,6 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
         - [都道府県庁間の距離行列（単位：m）](https://qiita.com/3tky/items/1be8841454beee03c5c6)
         - [ MODIS のデータを R で扱ってみる（地表面温度 LST）](https://qiita.com/3tky/items/ef0cc4b96332b7175f42)
         - [[R] gdb に格納されたGISデータをsfクラスとして読み込む](https://qiita.com/3tky/items/23c6cebd6a20bf118c8c)
-    
-    
 - Translation in progress ... . 
     - Robin Lovelace, Jakub Nowosad, Jannes Muenchow (2019) ***[Geocomputation with R](https://geocompr.robinlovelace.net/)***. Chapman and Hall/CRC Press.
     - Translators: Shinya Uryu, Narumasa Tsutsumida, Takahiro Yoshida.
