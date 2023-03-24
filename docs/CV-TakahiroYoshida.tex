@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -33,6 +33,13 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -68,18 +75,11 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
-\hypersetup{
-  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
 
 \title{TAKAHIRO YOSHIDA's WEBSITE}
 \author{}
@@ -279,7 +279,12 @@ Very welcome you who are interested in either. Very very welcome you who are int
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Takahiro Yoshida, Daisuke Murakami, Hajime Seya (202X)
+  Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023)
+  \textbf{On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.}
+  \emph{Energies}, accepted.
+  DOI: in press. {[}LINK{]}
+\item
+  Takahiro Yoshida, Daisuke Murakami, Hajime Seya (2022)
   \textbf{Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.}
   \emph{Journal of Real Estate Finance and Economics}, in press.
   DOI: 10.1007/s11146-022-09929-6 {[}\href{https://link.springer.com/article/10.1007/s11146-022-09929-6}{LINK}{]}

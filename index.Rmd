@@ -97,7 +97,11 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 ## Refereed journal papers {-}
 
-1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya (202X) <br> 
+1. Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023) <br> 
+**On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
+*Energies*, accepted. <br>
+DOI: in press. [LINK]
+1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya (2022) <br> 
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 *Journal of Real Estate Finance and Economics*, in press. <br>
 DOI: 10.1007/s11146-022-09929-6 [[LINK](https://link.springer.com/article/10.1007/s11146-022-09929-6)]
