@@ -99,8 +99,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 1. Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023) <br> 
 **On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
-*Energies*, accepted. <br>
-DOI: in press. [LINK]
+*Energies*, 16 (7), 3011. <br>
+DOI: 10.3390/en16073011 [[LINK](https://www.mdpi.com/1996-1073/16/7/3011)]
 1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya (2022) <br> 
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 *Journal of Real Estate Finance and Economics*, in press. <br>
