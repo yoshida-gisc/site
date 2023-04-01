@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "January, 2023"
+date: "April, 2023"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -16,7 +16,7 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at [the Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. He is also serving as a member of [Urban Land Use Planning Unit](https://up.t.u-tokyo.ac.jp/) (Department of Urban Engineering, School of Engineering) and [Mitsui Fudosan UTokyo Laboratory](https://mfut-lab.ducr.u-tokyo.ac.jp/). The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at [the Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
 
 (1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
 (2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
@@ -48,10 +48,16 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 (Concurrent appointments)
 
+- April 2023 – present
+    - Assistant Professor, <br>
+    Collaborative Research Organization for Future Regional Society, The University of Tokyo, Japan.
+- April 2023 – present
+    - Visiting Researcher, <br>
+    Social System Division, National Institute for Environmental Studies, Japan.
 - April 2021 – present
     - Part-Time Lecturer, <br>
     Graduate School of System Design and Management, Keio University, Japan.
-- April 2021 – present
+- April 2021 – March 2023
     - Visiting Researcher, <br>
     Earth System Division, National Institute for Environmental Studies, Japan.
 - April 2019 – March 2022
