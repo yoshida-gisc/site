@@ -224,6 +224,12 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed proceedings papers {-}
 
+
+1. Xi Chen, Hasi Bagan, Takahiro Yoshida (2023) <br>
+**Analysis of spatial variation factors of urban surface temperature combining remote sensing, GIS and population data in Tokyo.** <br>
+*Proceedings of the 2023 IEEE Geoscience and Remote Sensing Society Symposium,* accepted. <br>
+DOI: in press [LINK]<br>
+    - <font size="-1"><font color="gray">This paper will be presented at the 43th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2023), Pasadena, CA, USA, July 16–21, 2023).</font></font>
 1. Narumasa	Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris, Alexis Comber (2022) <br>
 **A comparison of geographically weighted principal components analysis methodologies.** <br> 
 *Proceedings of the 15th International Conference on Spatial Information Theory*, 21:1–21:6. <br> 
