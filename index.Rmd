@@ -96,13 +96,22 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 **On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
-- &#043; Three papers are under review. 
+- &#043; five papers are under review. 
 
 
 <hr>
 
 ## Refereed journal papers {-}
 
+
+1. Chaomin Chen, Hasi Bagan, Takahiro Yoshida (2023) <br>
+**Multi-scale mapping of local climate zones in Tokyo using airborne LiDAR data, GIS vectors, and Sentinel-2 imagery.** <br>
+*GIScience & Remote Sensing*, accepted. <br>
+DOI: in press [LINK]
+1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2023) <br> 
+**A linearization for stable and faster geographically weighted Poisson regression.** <br> 
+*International Journal of Geographical Information Science*, accepted. <br>
+DOI: in press [LINK]
 1. Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023) <br> 
 **On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
 *Energies*, 16 (7), 3011. <br>
@@ -228,7 +237,7 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 1. Xi Chen, Hasi Bagan, Takahiro Yoshida (2023) <br>
 **Analysis of spatial variation factors of urban surface temperature combining remote sensing, GIS and population data in Tokyo.** <br>
 *Proceedings of the 2023 IEEE Geoscience and Remote Sensing Society Symposium,* accepted. <br>
-DOI: in press [LINK]<br>
+DOI: in press [LINK] <br>
     - <font size="-1"><font color="gray">This paper will be presented at the 43th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2023), Pasadena, CA, USA, July 16–21, 2023).</font></font>
 1. Narumasa	Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris, Alexis Comber (2022) <br>
 **A comparison of geographically weighted principal components analysis methodologies.** <br> 
