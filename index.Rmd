@@ -110,8 +110,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 DOI: in press [LINK]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2023) <br> 
 **A linearization for stable and faster geographically weighted Poisson regression.** <br> 
-*International Journal of Geographical Information Science*, accepted. <br>
-DOI: in press [LINK]
+*International Journal of Geographical Information Science*, in press. <br>
+DOI: 10.1080/13658816.2023.2209811 [[LINK](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2209811)]
 1. Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023) <br> 
 **On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
 *Energies*, 16 (7), 3011. <br>
