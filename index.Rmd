@@ -106,8 +106,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 1. Chaomin Chen, Hasi Bagan, Takahiro Yoshida (2023) <br>
 **Multi-scale mapping of local climate zones in Tokyo using airborne LiDAR data, GIS vectors, and Sentinel-2 imagery.** <br>
-*GIScience & Remote Sensing*, accepted. <br>
-DOI: in press [LINK]
+*GIScience & Remote Sensing*, 60 (1), 2209970. <br>
+DOI: 10.1080/15481603.2023.2209970 [[LINK](https://www.tandfonline.com/doi/full/10.1080/15481603.2023.2209970)]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2023) <br> 
 **A linearization for stable and faster geographically weighted Poisson regression.** <br> 
 *International Journal of Geographical Information Science*, in press. <br>
