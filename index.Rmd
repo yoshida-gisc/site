@@ -117,6 +117,11 @@ DOI: 10.1080/13658816.2023.2209811 [[LINK](https://www.tandfonline.com/doi/full/
 **On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
 *Energies*, 16 (7), 3011. <br>
 DOI: 10.3390/en16073011 [[LINK](https://www.mdpi.com/1996-1073/16/7/3011)]
+1. Xinyan Hou, Xuan Xie, Hasi Bagan, Chaomin Chen, Qinxue Wang,
+Takahiro Yoshida (2023) <br>
+**Exploring spatiotemporal variations in land surface temperature based on local climate zones in Shanghai from 2008 to 2020.** <br>
+*Remote Sensing*, accepted. <br>
+DOI: in press [LINK]
 1. Takahiro Yoshida, Daisuke Murakami, Hajime Seya (2022) <br> 
 **Spatial prediction of apartment rent using regression-based and machine learning-based approaches with a large dataset.** <br>
 *Journal of Real Estate Finance and Economics*, in press. <br>
