@@ -111,8 +111,16 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 DOI: 10.1080/15481603.2023.2209970 [[LINK](https://www.tandfonline.com/doi/full/10.1080/15481603.2023.2209970)]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2023) <br> 
 **A linearization for stable and faster geographically weighted Poisson regression.** <br> 
-*International Journal of Geographical Information Science*, in press. <br>
+*International Journal of Geographical Information Science*, 37 (8), 1818–1839. <br>
 DOI: 10.1080/13658816.2023.2209811 [[LINK](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2209811)]
+1. Junya Yamasaki, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2023) <br>
+**Diurnal change of summer thermal environment in urban area based on SSP/RCP future images under climate change: Using an analysis model compared with actual measurement results.** <br>
+*Journal of the City Planning Institute of Japan*, in press. [in Japanese]<br>
+DOI: in press
+1. Mai Fukaya, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2023) <br>
+**Realities and prospects of area-based management activities aimed at solving social issues: Through a survey of advanced cases in Japan.** <br>
+*Journal of the City Planning Institute of Japan*, in press. [in Japanese]<br>
+DOI: in press
 1. Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023) <br> 
 **On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
 *Energies*, 16 (7), 3011. <br>
