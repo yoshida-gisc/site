@@ -117,13 +117,13 @@ DOI: 10.1080/15481603.2023.2209970 [[LINK](https://www.tandfonline.com/doi/full/
 *Sustainability Science*, accepted. <br>
 DOI: in press. [LINK]
 1. Junya Yamasaki, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2023) <br>
-**Diurnal change of summer thermal environment in urban area based on SSP/RCP future images under climate change: Using an analysis model compared with actual measurement results.** <br>
-*Journal of the City Planning Institute of Japan*, in press. [in Japanese]<br>
-DOI: in press
+**Diurnal change of summer temperature distribution in urban area based on SSP/RCP images under climate change: Using an analysis model compared with actual measurement results.** <br>
+*Journal of the City Planning Institute of Japan*, 58 (3), 835–842. [in Japanese]<br>
+DOI: 10.11361/journalcpij.58.835 [[LINK](https://doi.org/10.11361/journalcpij.58.835)]
 1. Mai Fukaya, Junya Yamasaki, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2023) <br>
 **Realities and prospects of area-based management activities aimed at solving social issues: Through a survey of advanced cases in Japan.** <br>
-*Journal of the City Planning Institute of Japan*, in press. [in Japanese]<br>
-DOI: in press
+*Journal of the City Planning Institute of Japan*, 58 (3), 1320–1327. [in Japanese]<br>
+DOI: 10.11361/journalcpij.58.1320 [[LINK](https://doi.org/10.11361/journalcpij.58.1320)]
 1. Thiti Jittayasotorn, Muthiah Sadidah, Takahiro Yoshida, Takuro Kobashi (2023) <br> 
 **On the adoption of rooftop photovoltaics integrated with electric vehicles toward sustainable Bangkok City, Thailand.** <br>
 *Energies*, 16 (7), 3011. <br>
@@ -528,10 +528,12 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ## Awards {-}
 
+- **Poster Session Award**, GIS Association of Japan, October 2023. <br>
+(with Daisuke Murakami and Hajime Seya)
 - **Excellent Joint Research Presentation Award**, CSIS DAYS 2022 (Center for Spatial Information Science, The University of Tokyo), November 2022. <br>
 (with Narumasa Tsutsumida, Joseph Percival, Daisuke Murakami, and Tomoki Nakaya) 
 - **Map Gallery Award (the first place)**, ESRI Japan, Corp., May 2022. <br>
-(with Kazushi Matsuo, Yujiro Hirano, Akito Murayama)
+(with Kazushi Matsuo, Yujiro Hirano, and Akito Murayama)
 - **Excellent Research Presentation Award**, CSIS DAYS 2018 (Center for Spatial Information Science, The University of Tokyo), November 2018. <br>
 (with Yoshiki Yamagata, Daisuke Murakami, and Tomoko Matsui) 
 - **GISA Award: Research Initiative Category**, GIS Association of Japan, October 2018. [[LINK](http://www.gisa-japan.org/file/nl108.pdf)]
