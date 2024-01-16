@@ -16,7 +16,7 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at [the Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
 
 (1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
 (2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
@@ -104,6 +104,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 ## Refereed journal papers {-}
 
+1. Yasuo Takahashi, Takahiro Yoshida, Sawako Shigeto, Hiroyuki Kubota, Brian Johnson, Yoshiki Yamagata (2024) <br>
+**Spatial exploration of rural capital contributing to quality of life and urban-to-rural migration decisions: a case study of Hokuto City, Japan.** <br>
+*Sustainability Science*, in press. <br>
+DOI: 10.1007/s11625-023-01427-9 [[LINK](https://link.springer.com/article/10.1007/s11625-023-01427-9)]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2023) <br> 
 **A linearization for stable and faster geographically weighted Poisson regression.** <br> 
 *International Journal of Geographical Information Science*, 37 (8), 1818–1839. <br>
@@ -112,10 +116,6 @@ DOI: 10.1080/13658816.2023.2209811 [[LINK](https://www.tandfonline.com/doi/full/
 **Multi-scale mapping of local climate zones in Tokyo using airborne LiDAR data, GIS vectors, and Sentinel-2 imagery.** <br>
 *GIScience & Remote Sensing*, 60 (1), 2209970. <br>
 DOI: 10.1080/15481603.2023.2209970 [[LINK](https://www.tandfonline.com/doi/full/10.1080/15481603.2023.2209970)]
-1. Yasuo Takahashi, Takahiro Yoshida, Sawako Shigeto, Hiroyuki Kubota, Brian Johnson, Yoshiki Yamagata (2023) <br>
-**Spatial exploration of rural capitals contributing to quality of life and urban-to-rural migration decisions: A case study of Hokuto City, Japan.** <br>
-*Sustainability Science*, accepted. <br>
-DOI: in press. [LINK]
 1. Junya Yamasaki, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2023) <br>
 **Diurnal change of summer temperature distribution in urban area based on SSP/RCP images under climate change: Using an analysis model compared with actual measurement results.** <br>
 *Journal of the City Planning Institute of Japan*, 58 (3), 835–842. [in Japanese]<br>
