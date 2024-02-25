@@ -106,7 +106,7 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 1. Yasuo Takahashi, Takahiro Yoshida, Sawako Shigeto, Hiroyuki Kubota, Brian Johnson, Yoshiki Yamagata (2024) <br>
 **Spatial exploration of rural capital contributing to quality of life and urban-to-rural migration decisions: a case study of Hokuto City, Japan.** <br>
-*Sustainability Science*, in press. <br>
+*Sustainability Science*, 19, 489–506. <br>
 DOI: 10.1007/s11625-023-01427-9 [[LINK](https://link.springer.com/article/10.1007/s11625-023-01427-9)]
 1. Daisuke Murakami, Narumasa Tsutsumida, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris (2023) <br> 
 **A linearization for stable and faster geographically weighted Poisson regression.** <br> 
