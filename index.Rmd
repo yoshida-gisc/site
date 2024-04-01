@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "April, 2023"
+date: "April, 2024"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -16,7 +16,7 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science (GIS or GISc). His more specific interests are: 
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor (*Kōshi*) at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science. His more specific interests are: 
 
 (1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
 (2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
@@ -34,7 +34,10 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 ## Academic experience {-}
 
-- September 2022 – present <br>
+- April 2024 – present <br>
+    - Assistant Professor (*Kōshi*), <br>
+    Division of Spatial Information Analysis, Center for Spatial Information Science, The University of Tokyo, Japan.
+- September 2022 – March 2024 <br>
     - Assistant Professor, <br>
     Division of Spatial Information Analysis, Center for Spatial Information Science, The University of Tokyo, Japan.
 - April 2021 – August 2022 <br>
@@ -49,12 +52,21 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 (Concurrent appointments)
 
-- April 2023 – present
-    - Assistant Professor, <br>
+- April 2024 – present
+    - Assistant Professor (*Kōshi*), <br>
+    Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences, The University of Tokyo, Japan.
+- April 2024 – present
+    - Assistant Professor (*Kōshi*), <br>
+    Collaborative Research Organization for the Digital Spatial Society, The University of Tokyo, Japan.
+- April 2024 – present
+    - Assistant Professor (*Kōshi*), <br>
     Collaborative Research Organization for Future Regional Society, The University of Tokyo, Japan.
 - April 2023 – present
     - Visiting Researcher, <br>
     Social System Division, National Institute for Environmental Studies, Japan.
+- April 2023 – March 2024
+    - Assistant Professor, <br>
+    Collaborative Research Organization for Future Regional Society, The University of Tokyo, Japan.
 - April 2021 – present
     - Part-Time Lecturer, <br>
     Graduate School of System Design and Management, Keio University, Japan.
@@ -72,7 +84,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 ## Contact {-}
 
-- E-mail: yoshida *at* csis.u-tokyo.ac.jp / yoshida3 *at* g.ecc.u-tokyo.ac.jp
+- E-mail: yoshida *at* csis.u-tokyo.ac.jp
 - Address: 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8568, JAPAN
 - Links: [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja); [Web of Science](https://www.webofscience.com/wos/author/record/847593); [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5);  [researchmap](https://researchmap.jp/yoshida.takahiro); [ORCID](https://orcid.org/0000-0001-8741-5345)
 
@@ -573,10 +585,18 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Co-Investigator {-}
 
-- April 2023 – present
-    - Environment Research and Technology Development Fund (SII-11-1(2)) (PI: Hajime Seya), <br>
-    Environmental Restoration and Conservation Agency. <br>
+- April 2024 – present
+    - Grant-in-Aid for Scientific Research (B) (PI: Ryo Inoue), <br>
+    Japan Society for the Promotion of Science. <br>
     Project Number: in press
+- April 2024 – present
+    - Grant-in-Aid for Scientific Research (B) (PI: Wataru Nakanishi), <br>
+    Japan Society for the Promotion of Science. <br>
+    Project Number: in press
+- April 2024 – present
+    - Environment Research and Technology Development Fund (1RA-2402) (PI: Daisuke Murakami), <br>
+    Environmental Restoration and Conservation Agency. <br>
+    Project Number: JPMEERF20241RA2
 - April 2023 – present
     - Grant-in-Aid for Scientific Research (B) (PI: Akito Murayama), <br>
     Japan Society for the Promotion of Science. <br>
@@ -585,6 +605,14 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Grant-in-Aid for Scientific Research (B) (PI: Yujiro Hirano), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 23H01546
+- April 2023 – present
+    - Environment Research and Technology Development Fund (S-21-5) (PI: Takehito Yoshida), <br>
+    Environmental Restoration and Conservation Agency. <br>
+    Project Number: JPMEERF23S12150
+- April 2023 – present
+    - Environment Research and Technology Development Fund (SII-11-1) (PI: Taikan Oki), <br>
+    Environmental Restoration and Conservation Agency. <br>
+    Project Number: JPMEERF23S21110
 - April 2021 – March 2023
     - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
