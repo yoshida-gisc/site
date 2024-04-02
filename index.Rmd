@@ -21,7 +21,7 @@ url: https://yoshida-gisc.github.io/site/
 (1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
 (2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
 
-Very welcome you who are interested in either. Very very welcome you who are interested in both. In most cases, it is either.
+Very welcome you who are interested in either. Very very welcome you who are interested in both. In most cases, it is either. Admission information can be found in a webpage of [Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences](https://sbk.k.u-tokyo.ac.jp/index_e.html).
 
 日本語のページ：[researchmap](https://researchmap.jp/yoshida.takahiro)
 
@@ -36,13 +36,13 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 - April 2024 – present <br>
     - Assistant Professor (*Kōshi*), <br>
-    Division of Spatial Information Analysis, Center for Spatial Information Science, The University of Tokyo, Japan.
+    Division of Spatial Information Analysis, Center for Spatial Information Science, the University of Tokyo, Japan.
 - September 2022 – March 2024 <br>
     - Assistant Professor, <br>
-    Division of Spatial Information Analysis, Center for Spatial Information Science, The University of Tokyo, Japan.
+    Division of Spatial Information Analysis, Center for Spatial Information Science, the University of Tokyo, Japan.
 - April 2021 – August 2022 <br>
     - Project Assistant Professor, <br>
-    Department of Urban Engineering, School of Engineering, The University of Tokyo, Japan.
+    Department of Urban Engineering, School of Engineering, the University of Tokyo, Japan.
 - April 2018 – March 2021 <br>
     - Research Associate, <br>
     Center for Global Environmental Research, National Institute for Environmental Studies, Japan.
@@ -54,19 +54,19 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 - April 2024 – present
     - Assistant Professor (*Kōshi*), <br>
-    Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences, The University of Tokyo, Japan.
+    Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences, the University of Tokyo, Japan.
 - April 2024 – present
     - Assistant Professor (*Kōshi*), <br>
-    Collaborative Research Organization for the Digital Spatial Society, The University of Tokyo, Japan.
+    Collaborative Research Organization for the Digital Spatial Society, the University of Tokyo, Japan.
 - April 2024 – present
     - Assistant Professor (*Kōshi*), <br>
-    Collaborative Research Organization for Future Regional Society, The University of Tokyo, Japan.
+    Collaborative Research Organization for Future Regional Society, the University of Tokyo, Japan.
 - April 2023 – present
     - Visiting Researcher, <br>
     Social System Division, National Institute for Environmental Studies, Japan.
 - April 2023 – March 2024
     - Assistant Professor, <br>
-    Collaborative Research Organization for Future Regional Society, The University of Tokyo, Japan.
+    Collaborative Research Organization for Future Regional Society, the University of Tokyo, Japan.
 - April 2021 – present
     - Part-Time Lecturer, <br>
     Graduate School of System Design and Management, Keio University, Japan.
