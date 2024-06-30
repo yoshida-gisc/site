@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -33,13 +36,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -75,11 +71,18 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={TAKAHIRO YOSHIDA's WEBSITE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{TAKAHIRO YOSHIDA's WEBSITE}
 \author{}
@@ -92,8 +95,7 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\hypertarget{welcome}{%
-\chapter*{Welcome!}\label{welcome}}
+\chapter*{Welcome!}\label{welcome}
 \addcontentsline{toc}{chapter}{Welcome!}
 
 \textbf{Takahiro Yoshida} (吉田 崇紘) is an Assistant Professor (\emph{Kōshi}) at \href{https://www.csis.u-tokyo.ac.jp/en/}{Center for Spatial Information Science}, the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science. His more specific interests are:
@@ -111,8 +113,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 日本語のページ：\href{https://researchmap.jp/yoshida.takahiro}{researchmap}
 
-\hypertarget{educational-background}{%
-\section*{Educational background}\label{educational-background}}
+\section*{Educational background}\label{educational-background}
 \addcontentsline{toc}{section}{Educational background}
 
 \begin{itemize}
@@ -131,8 +132,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   Bachelor of Policy and Planning Sciences, University of Tsukuba, March 2013.
 \end{itemize}
 
-\hypertarget{academic-experience}{%
-\section*{Academic experience}\label{academic-experience}}
+\section*{Academic experience}\label{academic-experience}
 \addcontentsline{toc}{section}{Academic experience}
 
 \begin{itemize}
@@ -271,8 +271,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \end{itemize}
 \end{itemize}
 
-\hypertarget{contact}{%
-\section*{Contact}\label{contact}}
+\section*{Contact}\label{contact}
 \addcontentsline{toc}{section}{Contact}
 
 \begin{itemize}
@@ -282,15 +281,13 @@ Very welcome you who are interested in either. Very very welcome you who are int
 \item
   Address: 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8568, JAPAN
 \item
-  Links: \href{https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ\&hl=ja}{Google Scholar}; \href{https://www.webofscience.com/wos/author/record/847593}{Web of Science}; \href{https://www.researchgate.net/profile/Takahiro_Yoshida5}{ResearchGate}; \href{https://researchmap.jp/yoshida.takahiro}{researchmap}; \href{https://orcid.org/0000-0001-8741-5345}{ORCID}
+  Links: \href{https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja}{Google Scholar}; \href{https://www.webofscience.com/wos/author/record/847593}{Web of Science}; \href{https://www.researchgate.net/profile/Takahiro_Yoshida5}{ResearchGate}; \href{https://researchmap.jp/yoshida.takahiro}{researchmap}; \href{https://orcid.org/0000-0001-8741-5345}{ORCID}
 \end{itemize}
 
-\hypertarget{publications}{%
-\chapter*{Publications}\label{publications}}
+\chapter*{Publications}\label{publications}
 \addcontentsline{toc}{chapter}{Publications}
 
-\hypertarget{in-progress-under-review}{%
-\section*{In progress / under review}\label{in-progress-under-review}}
+\section*{In progress / under review}\label{in-progress-under-review}
 \addcontentsline{toc}{section}{In progress / under review}
 
 \begin{itemize}
@@ -327,8 +324,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   + five papers are under review.
 \end{itemize}
 
-\hypertarget{refereed-journal-papers}{%
-\section*{Refereed journal papers}\label{refereed-journal-papers}}
+\section*{Refereed journal papers}\label{refereed-journal-papers}
 \addcontentsline{toc}{section}{Refereed journal papers}
 
 \begin{enumerate}
@@ -517,8 +513,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   DOI: 10.1016/j.landurbplan.2016.02.008 {[}\href{http://www.sciencedirect.com/science/article/pii/S0169204616000232}{LINK}{]}
 \end{enumerate}
 
-\hypertarget{refereed-proceedings-papers}{%
-\section*{Refereed proceedings papers}\label{refereed-proceedings-papers}}
+\section*{Refereed proceedings papers}\label{refereed-proceedings-papers}
 \addcontentsline{toc}{section}{Refereed proceedings papers}
 
 \begin{enumerate}
@@ -939,8 +934,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \end{itemize}
 \end{enumerate}
 
-\hypertarget{book-chapters}{%
-\section*{Book chapters}\label{book-chapters}}
+\section*{Book chapters}\label{book-chapters}
 \addcontentsline{toc}{section}{Book chapters}
 
 \begin{enumerate}
@@ -961,7 +955,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \textbf{Kyojima smart community studio: Urban systems design.}
   In Thomas Fisher, Brian Orland, Carl Steinitz (eds.)
   \emph{The International Geodesign Collaboration: Changing Geography by Design}, 132--133, Esri Press.
-  {[}\href{https://esripress.esri.com/display/index.cfm?fuseaction=display\&websiteID=388\&moduleID=0}{LINK}{]}
+  {[}\href{https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=388&moduleID=0}{LINK}{]}
 \item
   Yoshiki Yamagata, Takahiro Yoshida, Perry P. J. Yang, Helen Chen, Daisuke Murakami, Leena Ilmola (2020)
   \textbf{Measuring quality of walkable urban environment through experiential modeling.}
@@ -1030,8 +1024,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   {[}in Japanese{]} {[}\href{http://www.coronasha.co.jp/doboku-hb.html}{LINK}{]}
 \end{enumerate}
 
-\hypertarget{book-translation}{%
-\section*{Book translation}\label{book-translation}}
+\section*{Book translation}\label{book-translation}
 \addcontentsline{toc}{section}{Book translation}
 
 \begin{enumerate}
@@ -1044,12 +1037,10 @@ Very welcome you who are interested in either. Very very welcome you who are int
   {[}in Japanese{]} {[}\href{http://www.keisoshobo.co.jp/book/b222571.html}{LINK}{]}
 \end{enumerate}
 
-\hypertarget{honors}{%
-\chapter*{Honors}\label{honors}}
+\chapter*{Honors}\label{honors}
 \addcontentsline{toc}{chapter}{Honors}
 
-\hypertarget{awards}{%
-\section*{Awards}\label{awards}}
+\section*{Awards}\label{awards}
 \addcontentsline{toc}{section}{Awards}
 
 \begin{itemize}
@@ -1095,16 +1086,24 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \textbf{Excellent Presentation Award}, GIS Association of Japan, November 2014.
 \end{itemize}
 
-\hypertarget{research-grants}{%
-\section*{Research grants}\label{research-grants}}
+\section*{Research grants}\label{research-grants}
 \addcontentsline{toc}{section}{Research grants}
 
-\hypertarget{principal-investigator}{%
-\subsection*{Principal Investigator}\label{principal-investigator}}
+\subsection*{Principal Investigator}\label{principal-investigator}
 \addcontentsline{toc}{subsection}{Principal Investigator}
 
 \begin{itemize}
 \tightlist
+\item
+  June 2024 -- present
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Collaboration Program at Joint Support-Center for Data Science Research,
+    Research Organization of Information and Systems.
+    Project Number: 055RP2024
+  \end{itemize}
 \item
   April 2021 -- present
 
@@ -1136,8 +1135,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \end{itemize}
 \end{itemize}
 
-\hypertarget{co-investigator}{%
-\subsection*{Co-Investigator}\label{co-investigator}}
+\subsection*{Co-Investigator}\label{co-investigator}
 \addcontentsline{toc}{subsection}{Co-Investigator}
 
 \begin{itemize}
@@ -1150,7 +1148,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \item
     Grant-in-Aid for Scientific Research (B) (PI: Ryo Inoue),
     Japan Society for the Promotion of Science.
-    Project Number: in press
+    Project Number: 24K00997
   \end{itemize}
 \item
   April 2024 -- present
@@ -1160,7 +1158,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \item
     Grant-in-Aid for Scientific Research (B) (PI: Wataru Nakanishi),
     Japan Society for the Promotion of Science.
-    Project Number: in press
+    Project Number: 24K01004
   \end{itemize}
 \item
   April 2024 -- present
@@ -1190,7 +1188,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \item
     Grant-in-Aid for Scientific Research (B) (PI: Akito Murayama),
     Japan Society for the Promotion of Science.
-    Project Number: 23H01578
+    Project Number: 23K26272 (23H01578)
   \end{itemize}
 \item
   April 2023 -- present
@@ -1200,7 +1198,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \item
     Grant-in-Aid for Scientific Research (B) (PI: Yujiro Hirano),
     Japan Society for the Promotion of Science.
-    Project Number: 23H01546
+    Project Number: 23K26240 (23H01546)
   \end{itemize}
 \item
   April 2023 -- present
@@ -1223,6 +1221,16 @@ Very welcome you who are interested in either. Very very welcome you who are int
     Project Number: JPMEERF23S21110
   \end{itemize}
 \item
+  June 2021 -- March 2024
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida),
+    Research Organization of Information and Systems.
+    Project Numbers: 005RP2021, 006RP2022, and 010RP2023
+  \end{itemize}
+\item
   April 2021 -- March 2023
 
   \begin{itemize}
@@ -1243,19 +1251,18 @@ Very welcome you who are interested in either. Very very welcome you who are int
     Project Number: 17K18554
   \end{itemize}
 \item
-  June 2018 -- March 2023
+  June 2018 -- March 2021
 
   \begin{itemize}
   \tightlist
   \item
     Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida),
     Research Organization of Information and Systems.
-    Project Numbers: 006RP2018, 004RP2019, 003RP2020, 005RP2021, and 006RP2022
+    Project Numbers: 006RP2018, 004RP2019, and 003RP2020
   \end{itemize}
 \end{itemize}
 
-\hypertarget{research-collaborator}{%
-\subsection*{Research Collaborator}\label{research-collaborator}}
+\subsection*{Research Collaborator}\label{research-collaborator}
 \addcontentsline{toc}{subsection}{Research Collaborator}
 
 \begin{itemize}
@@ -1302,8 +1309,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
   \end{itemize}
 \end{itemize}
 
-\hypertarget{notes-r-and-python}{%
-\chapter*{Notes: R and Python}\label{notes-r-and-python}}
+\chapter*{Notes: R and Python}\label{notes-r-and-python}
 \addcontentsline{toc}{chapter}{Notes: R and Python}
 
 \begin{itemize}
