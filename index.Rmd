@@ -116,6 +116,14 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 ## Refereed journal papers {-}
 
+1. Junya Yamasaki, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2024) <br>
+**Microclimate simulation for future urban district under SSP/RCP: Reflecting changes in building stocks and temperature rises.** <br>
+*Urban Climate*, 57, 102068. <br>
+DOI: 10.1016/j.uclim.2024.102068 [[LINK](https://www.sciencedirect.com/science/article/pii/S2212095524002645)]
+1. Luwen Tan, Yuxin Xie, Chaomin Chen, Hasi Bagan, Takahiro Yoshida (2024) <br>
+**Urbanization and land subsidence: Multi-decadal investigation combined SBAS-InSAR and Multi-factors in Shanghai, China.** <br>
+*Geocarto International*, 39 (1), 2391056. <br>
+DOI: 10.1080/10106049.2024.2391056 [[LINK](https://www.tandfonline.com/doi/full/10.1080/10106049.2024.2391056)]
 1. Yasuo Takahashi, Takahiro Yoshida, Sawako Shigeto, Hiroyuki Kubota, Brian Johnson, Yoshiki Yamagata (2024) <br>
 **Spatial exploration of rural capital contributing to quality of life and urban-to-rural migration decisions: a case study of Hokuto City, Japan.** <br>
 *Sustainability Science*, 19, 489–506. <br>
