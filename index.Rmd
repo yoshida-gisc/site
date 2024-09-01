@@ -115,7 +115,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 <hr>
 
 ## Refereed journal papers {-}
-
+1. Terigelehu Te, Chunling Bao, Hasi Bagan, Yuxin Xie, Meihui Che, Takahiro Yoshida, Bayarsaikhan Uudus (2024) <br> 
+**Mapping seamless monthly XCO2 in East Asia: Utilizing OCO-2 data and machine learning.** <br>
+*International Journal of Applied Earth Observation and Geoinformation*, 133, 104117. <br>
+DOI: 10.1016/j.jag.2024.104117 [[LINK](https://www.sciencedirect.com/science/article/pii/S1569843224004710)]
 1. Junya Yamasaki, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2024) <br>
 **Microclimate simulation for future urban district under SSP/RCP: Reflecting changes in building stocks and temperature rises.** <br>
 *Urban Climate*, 57, 102068. <br>
@@ -465,7 +468,6 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 <hr>
 
 ## Book chapters {-}
-
 1. Yoshiki Yamagata, Takahiro Yoshida (2021) <br>
 **Urban carbon mapping: Spatio-temporal detail visualization for CO2 emissions.**<br>
 In Takuro Kobashi (ed.) <br>
