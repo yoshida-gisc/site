@@ -278,12 +278,31 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed proceedings papers {-}
 
-
-1. Xi Chen, Hasi Bagan, Takahiro Yoshida (2023) <br>
-**Analysis of spatial variation factors of urban surface temperature combining remote sensing, GIS and population data in Tokyo.** <br>
-*Proceedings of the 2023 IEEE Geoscience and Remote Sensing Society Symposium,* accepted. <br>
-DOI: in press [LINK] <br>
-    - <font size="-1"><font color="gray">This paper will be presented at the 43th annual conference of the IEEE Geoscience and Remote Sensing Society (IGARSS2023), Pasadena, CA, USA, July 16–21, 2023).</font></font>
+1. Ryota Tsurumi, Takahiro Yoshida (2024) <br>
+**The impact of people flow on summer energy consumption in a Tokyo office building using a state space model.** <br>
+*Energy Proceedings*, accepted.  <br>
+DOI: issued soon. 
+    - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
+1. Adair Garrett, Katherine Ginensky, Xi Wang, Hina Ahmed, Jingyuan Shen, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2024) <br>
+**Leveraging digital twin interface for multimodal transportation resilience, connectivity, and equity: A case study of Toyosu, Tokyo.** <br>
+*Energy Proceedings*, accepted.  <br>
+DOI: issued soon. 
+    - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
+1. Jingyuan Shen, Xi Wang, Abdulrahman Alorabi, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2024) <br>
+Systems-level methodology for optimizing urban infrastructure energy resilience. <br>
+*Energy Proceedings*, accepted.  <br>
+DOI: issued soon. 
+    - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
+1. Yujiro Hirano, Takahiro Yoshida, Yoshiki Yamagata, Yukiko Yoshida (2024) <br>
+Energy management simulation for a local energy supply system. <br>
+*Energy Proceedings*, accepted.  <br>
+DOI: issued soon. 
+    - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
+1. Haya Helmy, Perry P.J. Yang, Takahiro Yoshida, Akito Murayama, Amal Bogoreh, Ishwar Ramnarine (2023) <br>
+**Carbon-neutrality Architecting and New-age Visions for Urban Areas using Systems design (CANVAS)? A case study of Tokyo Nihonbashi.** <br>
+*Energy Proceedings*, 45, 11107. <br>
+DOI: 10.46855/energy-proceedings-11107 [[LINK](https://www.energy-proceedings.org/carbon-neutrality-architecting-and-new-age-visions-for-urban-areas-using-systems-design-canvas-ae-a-case-study-of-tokyo-nihonbashi/)]
+    - <font size="-1"><font color="gray">This paper was presented at the 15th International Conference on Applied Energy (ICAE2023), Doha, Qatar, December 3–7, 2023.</font></font>
 1. Narumasa	Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris, Alexis Comber (2022) <br>
 **A comparison of geographically weighted principal components analysis methodologies.** <br> 
 *Proceedings of the 15th International Conference on Spatial Information Theory*, 21:1–21:6. <br> 
