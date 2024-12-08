@@ -278,30 +278,30 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed proceedings papers {-}
 
-1. Ryota Tsurumi, Takahiro Yoshida (2024) <br>
+1. Ryota Tsurumi, Takahiro Yoshida (2025) <br>
 **The impact of people flow on summer energy consumption in a Tokyo office building using a state space model.** <br>
-*Energy Proceedings*, accepted.  <br>
-DOI: issued soon. 
+*Energy Proceedings*, 51, 11464.  <br>
+DOI: 10.46855/energy-proceedings-11464 [[LINK](https://doi.org/10.46855/energy-proceedings-11464)] 
     - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
-1. Adair Garrett, Katherine Ginensky, Xi Wang, Hina Ahmed, Jingyuan Shen, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2024) <br>
+1. Adair Garrett, Katherine Ginensky, Xi Wang, Hina Ahmed, Jingyuan Shen, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2025) <br>
 **Leveraging digital twin interface for multimodal transportation resilience, connectivity, and equity: A case study of Toyosu, Tokyo.** <br>
-*Energy Proceedings*, accepted.  <br>
-DOI: issued soon. 
+*Energy Proceedings*, 51, 11460.  <br>
+DOI: 10.46855/energy-proceedings-11460 [[LINK](https://doi.org/10.46855/energy-proceedings-11460)] 
     - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
-1. Jingyuan Shen, Xi Wang, Abdulrahman Alorabi, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2024) <br>
-Systems-level methodology for optimizing urban infrastructure energy resilience. <br>
-*Energy Proceedings*, accepted.  <br>
-DOI: issued soon. 
+1. Jingyuan Shen, Xi Wang, Abdulrahman Alorabi, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2025) <br>
+**Systems-level methodology for optimizing urban infrastructure energy resilience.** <br>
+*Energy Proceedings*, 50, 11419.<br>
+DOI: 10.46855/energy-proceedings-11419 [[LINK](https://doi.org/10.46855/energy-proceedings-11419)]
     - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
-1. Yujiro Hirano, Takahiro Yoshida, Yoshiki Yamagata, Yukiko Yoshida (2024) <br>
-Energy management simulation for a local energy supply system. <br>
-*Energy Proceedings*, accepted.  <br>
-DOI: issued soon. 
+1. Yujiro Hirano, Takahiro Yoshida, Yoshiki Yamagata, Yukiko Yoshida (2025) <br>
+**Energy management simulation for a local energy supply system.** <br>
+*Energy Proceedings*, 53, 11512. <br>
+DOI: 10.46855/energy-proceedings-11512 [[LINK](https://doi.org/10.46855/energy-proceedings-11512)] 
     - <font size="-1"><font color="gray">This paper was presented at the 16th International Conference on Applied Energy (ICAE2024), Niigata, Japan, September 1–5, 2024.</font></font>
-1. Haya Helmy, Perry P.J. Yang, Takahiro Yoshida, Akito Murayama, Amal Bogoreh, Ishwar Ramnarine (2023) <br>
+1. Haya Helmy, Perry P.J. Yang, Takahiro Yoshida, Akito Murayama, Amal Bogoreh, Ishwar Ramnarine (2024) <br>
 **Carbon-neutrality Architecting and New-age Visions for Urban Areas using Systems design (CANVAS)? A case study of Tokyo Nihonbashi.** <br>
 *Energy Proceedings*, 45, 11107. <br>
-DOI: 10.46855/energy-proceedings-11107 [[LINK](https://www.energy-proceedings.org/carbon-neutrality-architecting-and-new-age-visions-for-urban-areas-using-systems-design-canvas-ae-a-case-study-of-tokyo-nihonbashi/)]
+DOI: 10.46855/energy-proceedings-11107 [[LINK](https://doi.org/10.46855/energy-proceedings-11107)]
     - <font size="-1"><font color="gray">This paper was presented at the 15th International Conference on Applied Energy (ICAE2023), Doha, Qatar, December 3–7, 2023.</font></font>
 1. Narumasa	Tsutsumida, Daisuke Murakami, Takahiro Yoshida, Tomoki Nakaya, Binbin Lu, Paul Harris, Alexis Comber (2022) <br>
 **A comparison of geographically weighted principal components analysis methodologies.** <br> 
@@ -487,6 +487,16 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 <hr>
 
 ## Book chapters {-}
+1. Takahiro Yoshida (202X) <br>
+**Quality of life.** <br>
+In: Peter Nijkamp, Karima Kourtit, Kingsley Haynes, Zeynep Elburz (eds.) <br>
+*The World of Regional Science: The Thematic Encyclopedia of Regional Science*, ---, Edward Elgar Publishing. <br>
+DOI: ---
+1. Yoshiki Yamagata, Daisuke Murakami, Hajime Seya, Takahiro Yoshida (2024) <br>
+**High-resolution remote sensing and visibility analysis method for smart environment design.** <br>
+In: Prasad S. Thenkabail (ed.) <br>
+*Remote Sensing Handbook, Volume VI: Droughts, Disaster, Pollution, and Urban Mapping (the 2nd edition)*, 362–378, CRC Press. <br>
+DOI: 10.1201/9781003541417-17 [[LINK](https://doi.org/10.1201/9781003541417-17)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2021) <br>
 **Urban carbon mapping: Spatio-temporal detail visualization for CO2 emissions.**<br>
 In Takuro Kobashi (ed.) <br>
