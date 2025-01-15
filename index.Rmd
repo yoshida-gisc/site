@@ -115,8 +115,12 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 <hr>
 
 ## Refereed journal papers {-}
+1. Ishwar D. Ramnarine, Tarek A. Sherif, Abdulrahman H. Alorabi, Haya Helmy, Takahiro Yoshida, Akito Murayama, Perry P. J. Yang (2025) <br>
+**Urban revitalization pathways toward zero carbon emissions through systems architecting of urban digital twins.** <br>
+*Environment and Planning B: Urban Analytics and City Science*, accepted. <br>
+DOI: ---
 1. Alexis Comber, Paul Harris, Daisuke Murakami, Tomoki Nakaya, Narumasa Tsutsumida, Takahiro Yoshida, Chris Brunsdon (2024) <br>
-**Encapsulating spatially varying relationships with a Generalized Additive Model.** <br>
+**Encapsulating spatially varying relationships with a generalized additive model.** <br>
 *ISPRS International Journal of Geo-Information*, 13 (12), 459. <br>
 DOI: 10.3390/ijgi13120459 [[LINK](https://doi.org/10.3390/ijgi13120459)]
 1. Terigelehu Te, Chunling Bao, Hasi Bagan, Yuxin Xie, Meihui Che, Takahiro Yoshida, Bayarsaikhan Uudus (2024) <br> 
