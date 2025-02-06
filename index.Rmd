@@ -109,7 +109,7 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 **On the relationships between amount of zero responses and goodness-of-fits of compositional models.**
 - Takahiro Yoshida, Morito Tsutsumi, Hozana Ishii <br>
 **Identification of regional difference of election voting trends: Functional compositional data clustering approach.** 
-- &#043; five papers are under review. 
+- &#043; four papers are under review. 
 
 
 <hr>
