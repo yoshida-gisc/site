@@ -115,6 +115,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 <hr>
 
 ## Refereed journal papers {-}
+1. Liang Zhang, Hasi Bagan, Chaomin Chen, Takahiro Yoshida (2025) <br>
+**Exploring the impact of urban morphology on river cooling effects: A case study of the Arakawa River in Tokyo.** <br>
+*Ecological Indicators*, accepted (February 25, 2025). <br>
+DOI: -- [LINK]
 1. Ishwar D. Ramnarine, Tarek A. Sherif, Abdulrahman H. Alorabi, Haya Helmy, Takahiro Yoshida, Akito Murayama, Perry P. J. Yang (2025) <br>
 **Urban revitalization pathways toward zero carbon emissions through systems architecting of urban digital twins.** <br>
 *Environment and Planning B: Urban Analytics and City Science*, fisrt published online (February 4, 2025). <br>
@@ -621,11 +625,15 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Principal Investigator {-}
 
-- June 2024 – present
+- April 2025 – March 2029
+    - Grant-in-Aid for Scientific Research (B), <br>
+    Japan Society for the Promotion of Science. <br>
+    Project Number: ---
+- June 2024 – March 2025
     - Collaboration Program at Joint Support-Center for Data Science Research, <br>
     Research Organization of Information and Systems. <br>
     Project Number: 055RP2024
-- April 2021 – present
+- April 2021 – March 2025
     - Grant-in-Aid for Early-Career Scientists, <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 21K13153
@@ -639,35 +647,35 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Co-Investigator {-}
 
-- April 2024 – present
+- April 2024 – March 2028
     - Grant-in-Aid for Scientific Research (B) (PI: Ryo Inoue), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 24K00997
-- April 2024 – present
+- April 2024 – March 2028
     - Grant-in-Aid for Scientific Research (B) (PI: Wataru Nakanishi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 24K01004
-- April 2024 – present
+- April 2024 – March 2027
     - Environment Research and Technology Development Fund (1RA-2402) (PI: Daisuke Murakami), <br>
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF20241RA2
-- July 2023 – present
+- July 2023 – March 2028
     - Cross-ministerial Strategic Innovation Promotion Program (SIP) (PI: Yumiko Iwafune), <br>
     Council for Science, Technology and Innovation of Cabinet Office. <br>
     Project Number: JPJ012207
-- April 2023 – present
+- April 2023 – March 2028
     - Grant-in-Aid for Scientific Research (B) (PI: Akito Murayama), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 23K26272 (23H01578)
-- April 2023 – present
+- April 2023 – March 2026
     - Grant-in-Aid for Scientific Research (B) (PI: Yujiro Hirano), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 23K26240 (23H01546)
-- April 2023 – present
+- April 2023 – March 2028
     - Environment Research and Technology Development Fund (S-21-5) (PI: Takehito Yoshida), <br>
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF23S12150
-- April 2023 – present
+- April 2023 – March 2026
     - Environment Research and Technology Development Fund (SII-11-1) (PI: Taikan Oki), <br>
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF23S21110
