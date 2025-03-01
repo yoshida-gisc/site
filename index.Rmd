@@ -117,8 +117,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 ## Refereed journal papers {-}
 1. Liang Zhang, Hasi Bagan, Chaomin Chen, Takahiro Yoshida (2025) <br>
 **Exploring the impact of urban morphology on river cooling effects: A case study of the Arakawa River in Tokyo.** <br>
-*Ecological Indicators*, accepted (February 25, 2025). <br>
-DOI: -- [LINK]
+*Ecological Indicators*, 172, 113288. <br>
+DOI: 10.1016/j.ecolind.2025.113288 [[LINK](https://doi.org/10.1016/j.ecolind.2025.113288)]
 1. Ishwar D. Ramnarine, Tarek A. Sherif, Abdulrahman H. Alorabi, Haya Helmy, Takahiro Yoshida, Akito Murayama, Perry P. J. Yang (2025) <br>
 **Urban revitalization pathways toward zero carbon emissions through systems architecting of urban digital twins.** <br>
 *Environment and Planning B: Urban Analytics and City Science*, fisrt published online (February 4, 2025). <br>
@@ -628,7 +628,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 - April 2025 – March 2029
     - Grant-in-Aid for Scientific Research (B), <br>
     Japan Society for the Promotion of Science. <br>
-    Project Number: ---
+    Project Number: XXX (will be issued soon)
 - June 2024 – March 2025
     - Collaboration Program at Joint Support-Center for Data Science Research, <br>
     Research Organization of Information and Systems. <br>
