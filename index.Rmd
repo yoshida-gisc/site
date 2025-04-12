@@ -132,7 +132,7 @@ DOI: 10.1177/23998083251318142 [[LINK](https://doi.org/10.1177/23998083251318142
 *ISPRS International Journal of Geo-Information*, 13 (12), 459. <br>
 DOI: 10.3390/ijgi13120459 [[LINK](https://doi.org/10.3390/ijgi13120459)]
 1. Terigelehu Te, Chunling Bao, Hasi Bagan, Yuxin Xie, Meihui Che, Takahiro Yoshida, Bayarsaikhan Uudus (2024) <br> 
-**Mapping seamless monthly XCO2 in East Asia: Utilizing OCO-2 data and machine learning.** <br>
+**Mapping seamless monthly XCO<sub>2</sub> in East Asia: Utilizing OCO-2 data and machine learning.** <br>
 *International Journal of Applied Earth Observation and Geoinformation*, 133, 104117. <br>
 DOI: 10.1016/j.jag.2024.104117 [[LINK](https://www.sciencedirect.com/science/article/pii/S1569843224004710)]
 1. Junya Yamasaki, Yasutaka Wakazuki, Satoru Iizuka, Takahiro Yoshida, Ryoichi Nitanai, Rikutaro Manabe, Akito Murayama (2024) <br>
@@ -345,7 +345,7 @@ DOI: 10.25436/E2G599 [[LINK](https://escholarship.org/uc/item/62s7n79k)]
 DOI: 10.25436/E2X59B [[LINK](https://escholarship.org/uc/item/8kg664zg)]
     - <font size="-1"><font color="gray">This paper was presented at the 11th International Conference on Geographic Information Science (GIScience2021), Online, September 27–30, 2021 (Originally planned: Poznan, Poland, September 15–18, 2020).</font></font>
 1. Takahiro Yoshida, Yoshiki Yamagata (2020) <br>
-**Change of CO2 emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
+**Change of CO<sub>2</sub> emissions in Tokyo under the COVID-19 situation: Urban carbon mapping approach.** <br>
 *Energy Proceedings*, 9, 0579. <br>
 DOI: 10.46855/energy-proceedings-7117 [[Link](https://doi.org/10.46855/energy-proceedings-7117)]
     - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Applied Energy (ICAE2020), Online, December 1–10, 2020 (Originally planned: Bangkok, Thailand, November 29 – December 2, 2020).</font></font>
@@ -507,14 +507,14 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 **Quality of life.** <br>
 In Peter Nijkamp, Karima Kourtit, Kingsley Haynes, Zeynep Elburz (eds.) <br>
 *The Thematic Encyclopedia of Regional Science*, ---, Edward Elgar Publishing. <br>
-DOI: ---
+DOI: --- [[LINK](https://www.e-elgar.com/shop/gbp/thematic-encyclopedia-of-regional-science-9781800379275.html?srsltid=AfmBOooptnm6phReAleadX5VhoN1UoLkXsyzJf9tqskct2fYabdl7h6L)]
 1. Yoshiki Yamagata, Daisuke Murakami, Hajime Seya, Takahiro Yoshida (2024) <br>
 **High-resolution remote sensing and visibility analysis method for smart environment design.** <br>
 In Prasad S. Thenkabail (ed.) <br>
 *Remote Sensing Handbook, Volume VI: Droughts, Disaster, Pollution, and Urban Mapping (the 2nd edition)*, 362–378, CRC Press. <br>
 DOI: 10.1201/9781003541417-17 [[LINK](https://doi.org/10.1201/9781003541417-17)]
 1. Yoshiki Yamagata, Takahiro Yoshida (2021) <br>
-**Urban carbon mapping: Spatio-temporal detail visualization for CO2 emissions.**<br>
+**Urban carbon mapping: Spatio-temporal detail visualization for CO<sub>2</sub> emissions.**<br>
 In Takuro Kobashi (ed.) <br>
 *Urban Decarbonization*, 65–72, TAIGA Publishing. <br> 
 [in Japanese] [[LINK](https://www.taigashuppan.co.jp/products/detail/552)]
