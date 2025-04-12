@@ -120,9 +120,9 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 *Ecological Indicators*, 172, 113288. <br>
 DOI: 10.1016/j.ecolind.2025.113288 [[LINK](https://doi.org/10.1016/j.ecolind.2025.113288)]
 1. Yujiro Hirano, Yukiko Yoshida, Takahiro Yoshida, Yoshiki Yamagata, Suguru Mizutani, Ji Xuan (2025) <br>
-**Evaluation of CO2 emission reduction in the residential sector through energy-saving scenarios based on large-scale survey data.** <br>
-*Energies*, accepted (March 15, 2025). <br>
-DOI: ---
+**Evaluation of CO<sub>2</sub> emissions reduction in the Japanese residential sector through energy-saving scenarios based on large-scale survey data.** <br>
+*Energies*, 18 (8), 1964. <br>
+DOI: 10.3390/en18081964 [[LINK](https://doi.org/10.3390/en18081964)]
 1. Ishwar D. Ramnarine, Tarek A. Sherif, Abdulrahman H. Alorabi, Haya Helmy, Takahiro Yoshida, Akito Murayama, Perry P. J. Yang (2025) <br>
 **Urban revitalization pathways toward zero carbon emissions through systems architecting of urban digital twins.** <br>
 *Environment and Planning B: Urban Analytics and City Science*, fisrt published online (February 4, 2025). <br>
