@@ -695,6 +695,9 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 17K18554
+- October 2018 – March 2022
+    - Topic-Setting Program to Advance Cutting-Edge Humanities and Social Sciences Research (Responding to Real Society) (PI: Yasuo Takahashi), <br>
+    Japan Society for the Promotion of Science.
 - June 2018 – March 2021
     - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
     Research Organization of Information and Systems. <br>
