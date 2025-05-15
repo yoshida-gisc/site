@@ -117,8 +117,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 ## Refereed journal papers {-}
 1.  Nguyen Thi Quynh Trang, Koharu Okada, Yusei Sugiyama, Takahiro Yoshida, Yujiro Hirano, Peraphan Jittrapirom, Tosiyuki Nakaegawa, Takuro Kobashi (2025)<br>
 **On the decarbonization potentials of rooftop PVs integrated with EVs as battery for all the municipalities of Japan.** <br>
-*Applied Energy*, accepted (May 4, 2025). <br>
-DOI:  [LINK]
+*Applied Energy*, 393, 126067. <br>
+DOI: 10.1016/j.apenergy.2025.126067 [[LINK](https://www.sciencedirect.com/science/article/pii/S0306261925007974)]
 1. Liang Zhang, Hasi Bagan, Chaomin Chen, Takahiro Yoshida (2025) <br>
 **Exploring the impact of urban morphology on river cooling effects: A case study of the Arakawa River in Tokyo.** <br>
 *Ecological Indicators*, 172, 113288. <br>
