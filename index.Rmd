@@ -658,25 +658,26 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 
 ### Principal Investigator {-}
 
+- June 2025 – March 2026
+    - [Electricity Data Utilization Support Project](https://www.teitanso.or.jp/smamedata/download/), <br>
+    Green Investment Promotion Organization. <br>
+    Project Number: S-010. Budget Amount: JPY 55,037,180.
 - April 2025 – March 2029
-    - Grant-in-Aid for Scientific Research (B), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K00624/), <br>
     Japan Society for the Promotion of Science. <br>
-    Project Number: 25K00624
+    Project Number: 25K00624. Budget Amount: JPY 18,460,000.
 - June 2024 – March 2025
-    - Collaboration Program at Joint Support-Center for Data Science Research, <br>
+    - [Collaboration Program at Joint Support-Center for Data Science Research]((https://ds.rois.ac.jp/article/2024_rois-ds-joint_result)), <br>
     Research Organization of Information and Systems. <br>
-    Project Number: 055RP2024
+    Project Number: 055RP2024. Budget Amount: JPY 712,000.
 - April 2021 – March 2025
-    - Grant-in-Aid for Early-Career Scientists, <br>
+    - [Grant-in-Aid for Early-Career Scientists](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21K13153/), <br>
     Japan Society for the Promotion of Science. <br>
-    Project Number: 21K13153
+    Project Number: 21K13153. Budget Amount: JPY 4,680,000.
 - April 2016 – March 2018
-    - Grant-in-Aid for JSPS Fellows, <br>
+    - [Grant-in-Aid for JSPS Fellows](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16J02219/), <br>
     Japan Society for the Promotion of Science. <br>
-    Project Number: 16J02219
-- October 2015 – March 2016
-    - Young Scientist Cultivation Program, <br>
-    Graduate School of Systems and Information Engineering, University of Tsukuba.
+    Project Number: 16J02219. Budget Amount: JPY 2,300,000.
 
 ### Co-Investigator {-}
 
