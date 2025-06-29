@@ -683,72 +683,68 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
 ### Co-Investigator {-}
 
 - April 2024 – March 2028
-    - Grant-in-Aid for Scientific Research (B) (PI: Ryo Inoue), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K00997/) (PI: Ryo Inoue), <br>
     Japan Society for the Promotion of Science. <br>
-    Project Number: 24K00997
+    Project Number: 24K00997.
 - April 2024 – March 2028
-    - Grant-in-Aid for Scientific Research (B) (PI: Wataru Nakanishi), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K01004/) (PI: Wataru Nakanishi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 24K01004
 - April 2024 – March 2027
-    - Environment Research and Technology Development Fund (1RA-2402) (PI: Daisuke Murakami), <br>
+    - [Environment Research and Technology Development Fund (1RA-2402)](https://www.erca.go.jp/suishinhi/index.html) (PI: Daisuke Murakami), <br>
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF20241RA2
 - July 2023 – March 2028
-    - Cross-ministerial Strategic Innovation Promotion Program (SIP) (PI: Yumiko Iwafune), <br>
+    - [Cross-ministerial Strategic Innovation Promotion Program (SIP)](https://www.jst.go.jp/sip/sems/index.html) (PI: Yumiko Iwafune), <br>
     Council for Science, Technology and Innovation of Cabinet Office. <br>
     Project Number: JPJ012207
 - April 2023 – March 2028
-    - Grant-in-Aid for Scientific Research (B) (PI: Akito Murayama), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K26272/) (PI: Akito Murayama), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 23K26272 (23H01578)
 - April 2023 – March 2026
-    - Grant-in-Aid for Scientific Research (B) (PI: Yujiro Hirano), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K26240/) (PI: Yujiro Hirano), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 23K26240 (23H01546)
 - April 2023 – March 2028
-    - Environment Research and Technology Development Fund (S-21-5) (PI: Takehito Yoshida), <br>
+    - [Environment Research and Technology Development Fund (S-21-5)](https://www.erca.go.jp/suishinhi/index.html) (PI: Takehito Yoshida), <br>
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF23S12150
 - April 2023 – March 2026
-    - Environment Research and Technology Development Fund (SII-11-1) (PI: Taikan Oki), <br>
+    - [Environment Research and Technology Development Fund (SII-11-1)](https://www.erca.go.jp/suishinhi/index.html) (PI: Taikan Oki), <br>
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF23S21110
 - June 2021 – March 2024
-    - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
+    - [Collaboration Program at Joint Support-Center for Data Science Research](https://ds.rois.ac.jp/en_crp/en_calling/) (PI: Narumasa Tsutsumida), <br>
     Research Organization of Information and Systems. <br>
     Project Numbers: 005RP2021, 006RP2022, and 010RP2023
 - April 2021 – March 2023
-    - Grant-in-Aid for Scientific Research (A) (PI: Morito Tsutsumi), <br>
+    - [Grant-in-Aid for Scientific Research (A)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-18H03628/) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 18H03628
 - April 2019 – March 2023
-    - Grant-in-Aid for Challenging Research (Exploratory) (PI: Morito Tsutsumi), <br>
+    - [Grant-in-Aid for Challenging Research (Exploratory)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17K18554/) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 17K18554
 - October 2018 – March 2022
-    - Topic-Setting Program to Advance Cutting-Edge Humanities and Social Sciences Research (Responding to Real Society) (PI: Yasuo Takahashi), <br>
+    - [Topic-Setting Program to Advance Cutting-Edge Humanities and Social Sciences Research (Responding to Real Society)](https://www.jsps.go.jp/english/e-kadai/jissyakai/index.html) (PI: Yasuo Takahashi), <br>
     Japan Society for the Promotion of Science.
 - June 2018 – March 2021
-    - Collaboration Program at Joint Support-Center for Data Science Research (PI: Narumasa Tsutsumida), <br>
+    - [Collaboration Program at Joint Support-Center for Data Science Research](https://ds.rois.ac.jp/en_crp/en_calling/) (PI: Narumasa Tsutsumida), <br>
     Research Organization of Information and Systems. <br>
     Project Numbers: 006RP2018, 004RP2019, and 003RP2020
 
 ### Research Collaborator {-}
 - November 2020 – March 2023
-    - JST-Mirai Program (PI: Norio Ohmagari), <br>
+    - [JST-Mirai Program](https://projectdb.jst.go.jp/grant/JST-PROJECT-20349885/) (PI: Norio Ohmagari), <br>
     Japan Science and Technology Agency. <br>
     Project Number: JPMJMI20B2
-- April 2017 – March 2020
-    - Grant-in-Aid for Scientific Research (B) (PI: Tomoko Matsui), <br>
-    Japan Society for the Promotion of Science. <br>
-    Project Number: 17H01705
 - April 2016 – March 2019
-    - Grant-in-Aid for Scientific Research (B) (PI: Yoshiki Yamagata), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H02910/) (PI: Yoshiki Yamagata), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 16H02910
 - April 2015 – March 2018
-    - Grant-in-Aid for Scientific Research (B) (PI: Morito Tsutsumi), <br>
+    - [Grant-in-Aid for Scientific Research (B)](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H04054/) (PI: Morito Tsutsumi), <br>
     Japan Society for the Promotion of Science. <br>
     Project Number: 15H04054
 
