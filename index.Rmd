@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "June, 2025"
+date: "August, 2025"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -26,8 +26,11 @@ Very welcome you who are interested in either. Very very welcome you who are int
 日本語のページ：[researchmap](https://researchmap.jp/yoshida.takahiro)
 
 ## Updates {-}
-
-- **July 18, 2025 [Conference]** accepted one lead authored and two co-authored papers in [Applied Energy Symposium and Forum: Low Carbon Cities and Urban Energy Systems (CUE2025)](https://applied-energy.org/cue2025/index)
+ 
+- **August 10, 2025 [Publication]** published a lead authored book-section in [“*Thematic Encyclopedia of Regional Science*”](https://www.amazon.co.jp/Thematic-Encyclopedia-Regional-Encyclopedias-Economics/dp/1800379277/)
+- **July 18, 2025 [Conference]** presented one lead authored and two co-authored papers in [the 11th Applied Energy Symposium and Forum: Low Carbon Cities and Urban Energy Systems (CUE2025)](https://applied-energy.org/cue2025/index)
+- **July 15, 2025 [Conference]** presented a co-authored poster in [the 7th Spatial Statistics Conference (SpatialStatistics2025)](https://www.elsevier.com/events/conferences/all/spatial-statistics)
+- **July 7, 2025 [Conference]** presented a co-authored paper in [the 12th International Conference on Urban Climate (ICUC12)](https://icuc12.eu/)
 - **June 27, 2025 [Grant]** accepted and started a government funding as PI [“Urban carbon mapping based on smart mater data”](https://www.teitanso.or.jp/smamedata/download/)
 - **June 23, 2025 [Conference]** presented a co-authored poster in [the 19th International Conference on Computational Urban Planning and Urban Management (CUMPUM2025)](https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025)
 - **June 18, 2025 [Event]** hosted [Cooperation Agreement Ceremony between CSIS, the University of Tokyo and School of City and Regional Planning, College of Design, Georgia Institute of Technology](https://www.csis.u-tokyo.ac.jp/news/georgia_tech_agreement_ceremony_202506/)
