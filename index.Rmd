@@ -130,6 +130,11 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 <hr>
 
 ## Refereed journal papers {-}
+
+1.  Ryuta Tsurumi, Takahiro Yoshida (2025) <br>
+**Impact of people flows on energy consumption in an office building in Tokyo using a state-space model.** <br>
+*Applied Energy*, accepted (Aurgust 30, 2025). <br>
+DOI: in press [LINK]
 1.  Nguyen Thi Quynh Trang, Koharu Okada, Yusei Sugiyama, Takahiro Yoshida, Yujiro Hirano, Peraphan Jittrapirom, Tosiyuki Nakaegawa, Takuro Kobashi (2025)<br>
 **On the decarbonization potentials of rooftop PVs integrated with EVs as battery for all the municipalities of Japan.** <br>
 *Applied Energy*, 393, 126067. <br>
