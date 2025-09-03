@@ -27,6 +27,8 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 ## Updates {-}
  
+- **September 2, 2025 [Conference]** presented one co-authored paper and one co-authored poster in [the 20th International 3D GeoInfo Conference and the 9th International Smart Data and Smart Cities Conference (3D GeoInfo & SDSC 2025)](https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html)
+- **August 30, 2025 [Publication]** accepted a co-authored paper in *Applied Energy*
 - **August 18, 2025 [Event]** conducted [the FY2026 Entrance Examination of Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences (August 18-23, 2025)](https://sbk.k.u-tokyo.ac.jp/admission_e.html)
 - **August 10, 2025 [Publication]** published a lead authored book-section in [*Thematic Encyclopedia of Regional Science*](https://www.e-elgar.com/shop/gbp/thematic-encyclopedia-of-regional-science-9781800379275.html)
 - **July 18, 2025 [Conference]** presented one lead authored and two co-authored papers in [the 11th Applied Energy Symposium and Forum: Low Carbon Cities and Urban Energy Systems (CUE2025)](https://applied-energy.org/cue2025/index)
@@ -541,12 +543,12 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 
 <hr>
 
-## Book chapters {-}
+## Book chapters / sections {-}
 1. Takahiro Yoshida (2025) <br>
 **Quality of life.** <br>
 In Peter Nijkamp, Karima Kourtit, Kingsley Haynes, Zeynep Elburz (eds.) <br>
-*The Thematic Encyclopedia of Regional Science*, ---, Edward Elgar Publishing. <br>
-DOI: --- [[LINK](https://www.e-elgar.com/shop/gbp/thematic-encyclopedia-of-regional-science-9781800379275.html?srsltid=AfmBOooptnm6phReAleadX5VhoN1UoLkXsyzJf9tqskct2fYabdl7h6L)]
+*The Thematic Encyclopedia of Regional Science*, 580–581, Edward Elgar Publishing. <br>
+DOI: 10.4337/9781800379282 [[LINK](https://www.e-elgar.com/shop/gbp/thematic-encyclopedia-of-regional-science-9781800379275.html?srsltid=AfmBOooptnm6phReAleadX5VhoN1UoLkXsyzJf9tqskct2fYabdl7h6L)]
 1. Yoshiki Yamagata, Daisuke Murakami, Hajime Seya, Takahiro Yoshida (2024) <br>
 **High-resolution remote sensing and visibility analysis method for smart environment design.** <br>
 In Prasad S. Thenkabail (ed.) <br>
