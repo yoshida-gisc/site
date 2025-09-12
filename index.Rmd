@@ -29,7 +29,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
  
 - **September 7, 2025 [Publication]** published a lead authored book section in [*Urban Planning Towards Carbon Neutrality*](https://book.gakugei-pub.co.jp/gakugei-book/9784761533144/) (in Japanese)
 - **September 2, 2025 [Conference]** presented one co-authored paper and one co-authored poster in [the 20th International 3D GeoInfo Conference and the 9th International Smart Data and Smart Cities Conference (3D GeoInfo & SDSC 2025)](https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html)
-- **August 30, 2025 [Publication]** accepted a co-authored paper in *Applied Energy*
+- **August 30, 2025 [Publication]** accepted a co-authored paper in [*Applied Energy*](https://doi.org/10.1016/j.apenergy.2025.126697)
 - **August 18, 2025 [Event]** conducted [the FY2026 Entrance Examination of Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences (August 18-23, 2025)](https://sbk.k.u-tokyo.ac.jp/admission_e.html)
 - **August 10, 2025 [Publication]** published a lead authored book-section in [*Thematic Encyclopedia of Regional Science*](https://www.e-elgar.com/shop/gbp/thematic-encyclopedia-of-regional-science-9781800379275.html)
 - **July 18, 2025 [Conference]** presented one lead authored and two co-authored papers in [the 11th Applied Energy Symposium and Forum: Low Carbon Cities and Urban Energy Systems (CUE2025)](https://applied-energy.org/cue2025/index)
@@ -136,8 +136,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 1.  Ryuta Tsurumi, Takahiro Yoshida (2025) <br>
 **Impact of people flows on energy consumption in an office building in Tokyo using a state-space model.** <br>
-*Applied Energy*, accepted (Aurgust 30, 2025). <br>
-DOI: in press [LINK]
+*Applied Energy*, 401, 126697. <br>
+DOI: 10.1016/j.apenergy.2025.126697 [[LINK](https://doi.org/10.1016/j.apenergy.2025.126697)]
 1.  Nguyen Thi Quynh Trang, Koharu Okada, Yusei Sugiyama, Takahiro Yoshida, Yujiro Hirano, Peraphan Jittrapirom, Tosiyuki Nakaegawa, Takuro Kobashi (2025)<br>
 **On the decarbonization potentials of rooftop PVs integrated with EVs as battery for all the municipalities of Japan.** <br>
 *Applied Energy*, 393, 126067. <br>
