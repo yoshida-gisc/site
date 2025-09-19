@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "August, 2025"
+date: "September, 2025"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -152,7 +152,7 @@ DOI: 10.1016/j.ecolind.2025.113288 [[LINK](https://doi.org/10.1016/j.ecolind.202
 DOI: 10.3390/en18081964 [[LINK](https://doi.org/10.3390/en18081964)]
 1. Ishwar D. Ramnarine, Tarek A. Sherif, Abdulrahman H. Alorabi, Haya Helmy, Takahiro Yoshida, Akito Murayama, Perry P. J. Yang (2025) <br>
 **Urban revitalization pathways toward zero carbon emissions through systems architecting of urban digital twins.** <br>
-*Environment and Planning B: Urban Analytics and City Science*, fisrt published online (February 4, 2025). <br>
+*Environment and Planning B: Urban Analytics and City Science*, first published online (February 4, 2025). <br>
 DOI: 10.1177/23998083251318142 [[LINK](https://doi.org/10.1177/23998083251318142)]
 1. Alexis Comber, Paul Harris, Daisuke Murakami, Tomoki Nakaya, Narumasa Tsutsumida, Takahiro Yoshida, Chris Brunsdon (2024) <br>
 **Encapsulating spatially varying relationships with a generalized additive model.** <br>
@@ -325,17 +325,17 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 **Clustering Japanese municipalities from a perspective of energy demand sectors using compositional data analysis with a total.** <br>
 *Energy Proceedings*, accepted. <br>
 DOI: in press. [LINK]
-    - <font size="-1"><font color="gray">This paper will be presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyusyu, Japan, July 18–22, 2025.</font></font>
+    - <font size="-1"><font color="gray">This paper will be presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyushu, Japan, July 18–22, 2025.</font></font>
 1. Daisuke Murakami, Takahiro Yoshida, Naoki Hiramoto (2025) <br>
 **Projecting building-level gross product under Shared Socioeconomic Pathways.** <br>
 *Energy Proceedings*, accepted. <br>
 DOI: in press. [LINK]
-    - <font size="-1"><font color="gray">This paper will be presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyusyu, Japan, July 18–22, 2025.</font></font>
+    - <font size="-1"><font color="gray">This paper will be presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyushu, Japan, July 18–22, 2025.</font></font>
 1. Yujiro Hirano, Tsuyoshi Yoshioka, Takahiro Yoshida, Yoshiki Yamagata, Kyoichiro Isozaki, Kenichi Adachi, Tomoki Ehara, Yukiko Yoshida (2025) <br>
 **Local energy planning and evaluation using actual power supply data from a local power producers and supplier: A case study of Nose and Toyono towns.** <br>
 *Energy Proceedings*, accepted. <br>
 DOI: in press. [LINK]
-    - <font size="-1"><font color="gray">This paper will be presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyusyu, Japan, July 18–22, 2025.</font></font>
+    - <font size="-1"><font color="gray">This paper will be presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyushu, Japan, July 18–22, 2025.</font></font>
 1. Ryota Tsurumi, Takahiro Yoshida (2025) <br>
 **The impact of people flow on summer energy consumption in a Tokyo office building using a state space model.** <br>
 *Energy Proceedings*, 51, 11464.  <br>
