@@ -52,6 +52,7 @@ Very welcome you who are interested in either. Very very welcome you who are int
 
 ## Academic experience {-}
 
+
 - April 2024 – present <br>
     - Assistant Professor (*Kōshi*), <br>
     Division of Spatial Information Analysis, Center for Spatial Information Science, the University of Tokyo, Japan.
@@ -152,7 +153,7 @@ DOI: 10.1016/j.ecolind.2025.113288 [[LINK](https://doi.org/10.1016/j.ecolind.202
 DOI: 10.3390/en18081964 [[LINK](https://doi.org/10.3390/en18081964)]
 1. Ishwar D. Ramnarine, Tarek A. Sherif, Abdulrahman H. Alorabi, Haya Helmy, Takahiro Yoshida, Akito Murayama, Perry P. J. Yang (2025) <br>
 **Urban revitalization pathways toward zero carbon emissions through systems architecting of urban digital twins.** <br>
-*Environment and Planning B: Urban Analytics and City Science*, first published online (February 4, 2025). <br>
+*Environment and Planning B: Urban Analytics and City Science*, 52 (8), 1920–1948. <br>
 DOI: 10.1177/23998083251318142 [[LINK](https://doi.org/10.1177/23998083251318142)]
 1. Alexis Comber, Paul Harris, Daisuke Murakami, Tomoki Nakaya, Narumasa Tsutsumida, Takahiro Yoshida, Chris Brunsdon (2024) <br>
 **Encapsulating spatially varying relationships with a generalized additive model.** <br>
