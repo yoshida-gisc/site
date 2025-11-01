@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "September, 2025"
+date: "November, 2025"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -26,7 +26,10 @@ Very welcome you who are interested in either. Very very welcome you who are int
 日本語のページ：[researchmap](https://researchmap.jp/yoshida.takahiro)
 
 ## Updates {-}
- 
+
+- **November 1, 2025 [Conference]** presented a leading poster and a co-authored poster, and joined a special session [The Future of Spatial Information Science: Discovered by Novel Spatial Data](https://www.csis.u-tokyo.ac.jp/news/gisa_special_session_2025/) in [the 34th annual meeting of the Geographic Information Systems Association](https://pub.confit.atlas.jp/en/event/gisa2025) 
+- **October 28, 2025 [Event]** presented at [Urban AI Symposium](https://engineering.nyu.edu/events/2025/10/28/urban-ai-symposium) with Center for Urban Science + Progress, Tandon School of Engineering, New York University
+- **October 27, 2025 [Publication]** accepted a co-authored paper in [*Journal of Transport & Health*](https://www.sciencedirect.com/science/article/pii/S2214140525002269)
 - **September 7, 2025 [Publication]** published a lead authored book section in [*Urban Planning Towards Carbon Neutrality*](https://book.gakugei-pub.co.jp/gakugei-book/9784761533144/) (in Japanese)
 - **September 2, 2025 [Conference]** presented one co-authored paper and one co-authored poster in [the 20th International 3D GeoInfo Conference and the 9th International Smart Data and Smart Cities Conference (3D GeoInfo & SDSC 2025)](https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html)
 - **August 30, 2025 [Publication]** accepted a co-authored paper in [*Applied Energy*](https://doi.org/10.1016/j.apenergy.2025.126697)
@@ -135,6 +138,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 ## Refereed journal papers {-}
 
+1. Kimihiro Hino, Ikuho Yamada, Takahiro Yoshida (2025) <br>
+**The impact of introducing new light rail on step counts: Threshold distance analysis in a Japanese regional city.** <br>
+*Journal of Transport & Health*, 45, 102206. <br>
+DOI: 10.1016/j.jth.2025.102206 [[LINK](https://doi.org/10.1016/j.jth.2025.102206)]
 1.  Ryuta Tsurumi, Takahiro Yoshida (2025) <br>
 **Impact of people flows on energy consumption in an office building in Tokyo using a state-space model.** <br>
 *Applied Energy*, 401, 126697. <br>
