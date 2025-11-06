@@ -331,18 +331,18 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 1. Takahiro Yoshida, Daisuke Murakami, Ryuta Tsurumi, Hiroaki Onodera, Yujiro Hirano (2025) <br>
 **Clustering Japanese municipalities from a perspective of energy demand sectors using compositional data analysis with a total.** <br>
-*Energy Proceedings*, accepted. <br>
-DOI: in press. [LINK]
+*Energy Proceedings*, 59, 11896. <br>
+DOI: 10.46855/energy-proceedings-11896 [[LINK](https://www.energy-proceedings.org/clustering-japanese-municipalities-from-a-perspective-of-energy-demand-sectors-using-compositional-data-analysis-with-a-total/)]
     - <font size="-1"><font color="gray">This paper was presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyushu, Japan, July 18–22, 2025.</font></font>
 1. Daisuke Murakami, Takahiro Yoshida, Naoki Hiramoto (2025) <br>
 **Projecting building-level gross product under Shared Socioeconomic Pathways.** <br>
-*Energy Proceedings*, accepted. <br>
-DOI: in press. [LINK]
+*Energy Proceedings*, 60, 11925. <br>
+DOI: 10.46855/energy-proceedings-11925 [[LINK](https://www.energy-proceedings.org/projecting-building-level-gross-product-under-shared-socioeconomic-pathways/)]
     - <font size="-1"><font color="gray">This paper was presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyushu, Japan, July 18–22, 2025.</font></font>
 1. Yujiro Hirano, Tsuyoshi Yoshioka, Takahiro Yoshida, Yoshiki Yamagata, Kyoichiro Isozaki, Kenichi Adachi, Tomoki Ehara, Yukiko Yoshida (2025) <br>
 **Local energy planning and evaluation using actual power supply data from a local power producers and supplier: A case study of Nose and Toyono towns.** <br>
-*Energy Proceedings*, accepted. <br>
-DOI: in press. [LINK]
+*Energy Proceedings*, 59, 11895. <br>
+DOI: 10.46855/energy-proceedings-11895 [[LINK](https://www.energy-proceedings.org/local-energy-planning-and-evaluation-using-actual-power-supply-data-from-a-local-power-producer-and-supplier%3A-a-case-study-of-nose-and-toyono-towns/)]
     - <font size="-1"><font color="gray">This paper was presented at the Applied Energy Symposium and Forum: Low carbon cities and urban energy systems (CUE2025), Kitakyushu, Japan, July 18–22, 2025.</font></font>
 1. Ryota Tsurumi, Takahiro Yoshida (2025) <br>
 **The impact of people flow on summer energy consumption in a Tokyo office building using a state space model.** <br>
