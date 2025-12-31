@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "November, 2025"
+date: "December, 2025"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -18,15 +18,16 @@ url: https://yoshida-gisc.github.io/site/
 
 <img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** (吉田 崇紘) is an Assistant Professor (*Kōshi*) at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/), the University of Tokyo, Japan. The foundation of all his research interests is the geographical information science. His more specific interests are: 
 
-(1) spatial data analysis based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis; and 
-(2) climate change mitigation and adaptation in urban areas with complex systems of building environments, transport networks, and human behaviors. 
+(1) **urban and regional analysis** based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis,
+(2) **climate change and cities** with complex systems of building environments, transport networks, and human behaviors. 
 
-Very welcome you who are interested in either. Very very welcome you who are interested in both. In most cases, it is either. Admission information can be found in a webpage of [Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences](https://sbk.k.u-tokyo.ac.jp/index_e.html).
+Admission information can be found in a webpage of [Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences](https://sbk.k.u-tokyo.ac.jp/index_e.html).
 
 日本語のページ：[researchmap](https://researchmap.jp/yoshida.takahiro)
 
 ## Updates {-}
 
+- **December 5, 2025 [Publication]** accepted a co-authored paper in [*Sustainability Science*](https://link.springer.com/article/10.1007/s11625-025-01788-3)
 - **November 2, 2025 [Conference]** presented a leading poster and a co-authored poster, and joined a special session [The Future of Spatial Information Science: Discovered by Novel Spatial Data](https://www.csis.u-tokyo.ac.jp/news/gisa_special_session_2025/) in [the 34th annual meeting of the Geographic Information Systems Association (GISA2025)](https://pub.confit.atlas.jp/en/event/gisa2025) 
 - **October 28, 2025 [Event]** presented at [Urban AI Symposium](https://engineering.nyu.edu/events/2025/10/28/urban-ai-symposium) with [Center for Urban Science + Progress, Tandon School of Engineering, New York University](https://engineering.nyu.edu/research/centers/cusp)
 - **October 27, 2025 [Publication]** accepted a co-authored paper in [*Journal of Transport & Health*](https://www.sciencedirect.com/science/article/pii/S2214140525002269)
@@ -138,6 +139,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 ## Refereed journal papers {-}
 
+1. Yasuo Takahashi, Takahiro Yoshida, Brian Alan Johnson, Sawako Shigeto, Yoshiki Yamagata (2025) <br>
+**Contribution of natural capital to quality of life of urban-to-rural migrants in Japan: structural equation modelling using nation-wide survey and public geospatial data.** <br>
+*Sustainability Science*, online first (published: December 29, 2025). <br>
+DOI: 10.1007/s11625-025-01788-3 [[LINK](https://doi.org/10.1007/s11625-025-01788-3)]
 1. Kimihiro Hino, Ikuho Yamada, Takahiro Yoshida (2025) <br>
 **The impact of introducing new light rail on step counts: Threshold distance analysis in a Japanese regional city.** <br>
 *Journal of Transport & Health*, 45, 102206. <br>
