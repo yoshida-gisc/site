@@ -18,7 +18,7 @@ url: https://yoshida-gisc.github.io/site/
 
 <img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** is an Assistant Professor (*Kōshi*) at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/), the University of Tokyo, Japan. The foundation of all his research interests is **Geographical Information Science**. His more specific interests are as follows: 
 
-(1) **Urban and Regional Analysis** based on spatial statistics, spatial econometrics, and remote sensing, and its combination with compositional data analysis,
+(1) **Urban and Regional Analysis** based on spatial statistics, spatial econometrics, remote sensing, and its combination with compositional data analysis,
 (2) **Climate Change and Cities** with complex systems of building environments, transport networks, and human behaviors. 
 
 Admission information can be found in a webpage of [Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences](https://sbk.k.u-tokyo.ac.jp/index_e.html).
