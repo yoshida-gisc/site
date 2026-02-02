@@ -16,7 +16,7 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** is an Assistant Professor (*Kōshi*) at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/), the University of Tokyo, Japan. The foundation of all his research interests is **Geographical Information Science**. His more specific interests are as follows: 
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** is an Assistant Professor (Lecturer) at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/), the University of Tokyo, Japan. The foundation of all his research interests is **Geographical Information Science**. His more specific interests are as follows: 
 
 (1) **Urban and Regional Analysis** based on spatial statistics, spatial econometrics, remote sensing, and its combination with compositional data analysis,
 (2) **Climate Change and Cities** with complex systems of building environments, transport networks, and human behaviors. 
@@ -28,7 +28,7 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 ## Updates {-}
 
 - **December 5, 2025 [Publication]** accepted a co-authored paper in [*Sustainability Science*](https://link.springer.com/article/10.1007/s11625-025-01788-3)
-- **November 2, 2025 [Conference]** presented a leading poster and a co-authored poster, and joined a special session [The Future of Spatial Information Science: Discovered by Novel Spatial Data](https://www.csis.u-tokyo.ac.jp/news/gisa_special_session_2025/) in [the 34th annual meeting of the Geographic Information Systems Association (GISA2025)](https://pub.confit.atlas.jp/en/event/gisa2025) 
+- **November 2, 2025 [Conference]** presented a leading poster and a co-authored poster, and co-hosted a special session [The Future of Spatial Information Science: Discovered by Novel Spatial Data](https://www.csis.u-tokyo.ac.jp/news/gisa_special_session_2025/) in [the 34th annual meeting of the Geographic Information Systems Association (GISA2025)](https://pub.confit.atlas.jp/en/event/gisa2025) 
 - **October 28, 2025 [Event]** presented at [Urban AI Symposium](https://engineering.nyu.edu/events/2025/10/28/urban-ai-symposium) with [Center for Urban Science + Progress, Tandon School of Engineering, New York University](https://engineering.nyu.edu/research/centers/cusp)
 - **October 27, 2025 [Publication]** accepted a co-authored paper in [*Journal of Transport & Health*](https://www.sciencedirect.com/science/article/pii/S2214140525002269)
 - **September 7, 2025 [Publication]** published a lead authored book section in [*Urban Planning Towards Carbon Neutrality*](https://book.gakugei-pub.co.jp/gakugei-book/9784761533144/) (in Japanese)
@@ -58,7 +58,7 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 
 
 - April 2024 – present <br>
-    - Assistant Professor (*Kōshi*), <br>
+    - Assistant Professor (Lecturer), <br>
     Division of Spatial Information Analysis, Center for Spatial Information Science, the University of Tokyo, Japan.
 - September 2022 – March 2024 <br>
     - Assistant Professor, <br>
@@ -557,7 +557,7 @@ DOI: 10.1016/j.egypro.2017.12.183 [[LINK](https://www.sciencedirect.com/science/
 ## Book chapters / sections {-}
 
 1. Takahiro Yoshida (2025) <br>
-**Urban Carbon Mapping: Visualization of CO<sub>2</sub> Emissions and How to Use It.** <br>
+**Urban Carbon Mapping.** <br>
 In Hideki Koizumi, Hikaru Kobayashi, Fumihiko Seta, Akito Murayama (eds.) <br>
 *Urban Planning Towards Carbon Neutrality*, 39–44, Gakugei Publishing. <br>
 [in Japanese] [[LINK](https://book.gakugei-pub.co.jp/gakugei-book/9784761533144/)]
