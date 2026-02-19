@@ -28,7 +28,7 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 ## Updates {-}
 
 - **February 11, 2026 [Publication]** accepted a co-authored paper in *Geographical Analysis*
-- **February 6, 2026 [Event]** Served as a guest lecturer and a Ph.D. defense committee member at [GeorgiaTech](https://planning.gatech.edu/)
+- **February 6, 2026 [Event]** served as a guest lecturer and a Ph.D. defense committee member at [GeorgiaTech](https://planning.gatech.edu/)
 - **December 5, 2025 [Publication]** accepted a co-authored paper in [*Sustainability Science*](https://link.springer.com/article/10.1007/s11625-025-01788-3)
 - **November 2, 2025 [Conference]** presented a leading poster and a co-authored poster, and co-hosted a special session [The Future of Spatial Information Science: Discovered by Novel Spatial Data](https://www.csis.u-tokyo.ac.jp/news/gisa_special_session_2025/) in [the 34th annual meeting of the Geographic Information Systems Association (GISA2025)](https://pub.confit.atlas.jp/en/event/gisa2025) 
 - **October 28, 2025 [Event]** presented at [Urban AI Symposium](https://engineering.nyu.edu/events/2025/10/28/urban-ai-symposium) with [Center for Urban Science + Progress, Tandon School of Engineering, New York University](https://engineering.nyu.edu/research/centers/cusp)
