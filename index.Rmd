@@ -136,7 +136,10 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 <hr>
 
 ## Refereed journal papers {-}
-
+1. Daisuke Murakami, Alexis Comber, Takahiro Yoshida, Narumasa Tsutsumida, Chris Brunsdon, Tomoki Nakaya (2026) <br>
+**Coarse-to-fine spatial modeling: A scalable, machine-learning-compatible framework.** <br>
+*Geographical Analysis*, in press (accepted: February 11, 2026). <br>
+DOI: in press [LINK]
 1. Yasuo Takahashi, Takahiro Yoshida, Brian Alan Johnson, Sawako Shigeto, Yoshiki Yamagata (2025) <br>
 **Contribution of natural capital to quality of life of urban-to-rural migrants in Japan: structural equation modelling using nation-wide survey and public geospatial data.** <br>
 *Sustainability Science*, online first (published: December 29, 2025). <br>
