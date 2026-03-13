@@ -336,6 +336,16 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed proceedings papers {-}
 
+1. Qinghao Zeng, Ryan T. Nation, Hina I. Ahmed, Hsu-Chieh Ma, Kaiyu Zhou, Jiaqi Gu, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2025) <br>
+**Enhancing Urban Heat Risk Resilience in Tokyo’s Nihonbashi through Urban Digital Twins of 4-Step Scenario Planning.** <br>
+*The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, XLVIII-4/W16-2025, 135–142. <br>
+DOI: 10.5194/isprs-archives-xlviii-4-w16-2025-135-2025 [[LINK](https://isprs-archives.copernicus.org/articles/XLVIII-4-W16-2025/135/2025/)]
+    - <font size="-1"><font color="gray">This paper was presented at the 20th International 3D GeoInfo Conference 2025 and the 9th International Smart Data and Smart Cities Conference (3DGeoInfo2025 and SDSC2025), Kashiwa, Japan, September 2–5, 2025.</font></font>
+1. Abdulrahman H. Alorabi, Jingyuan Shen, Jalisa M. Smith, Max Hawkins, Kamyar Fatemifar, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2025) <br>
+**A Data-driven Smart District Toward Net Zero Using Generative Design and Urban Digital Twins: A Use Case of Nihonbashi, Tokyo.** <br>
+*The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, XLVIII-4/W16-2025, 1–8. <br>
+DOI: 10.5194/isprs-archives-xlviii-4-w16-2025-1-2025 [[LINK](https://isprs-archives.copernicus.org/articles/XLVIII-4-W16-2025/1/2025/)]
+    - <font size="-1"><font color="gray">This paper was presented at the 20th International 3D GeoInfo Conference 2025 and the 9th International Smart Data and Smart Cities Conference (3DGeoInfo2025 and SDSC2025), Kashiwa, Japan, September 2–5, 2025.</font></font>
 1. Takahiro Yoshida, Daisuke Murakami, Ryuta Tsurumi, Hiroaki Onodera, Yujiro Hirano (2025) <br>
 **Clustering Japanese municipalities from a perspective of energy demand sectors using compositional data analysis with a total.** <br>
 *Energy Proceedings*, 59, 11896. <br>
