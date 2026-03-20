@@ -27,7 +27,7 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 
 ## Updates {-}
 
-- **February 11, 2026 [Publication]** accepted a co-authored paper in *Geographical Analysis*
+- **February 11, 2026 [Publication]** accepted a co-authored paper in [*Geographical Analysis*](https://onlinelibrary.wiley.com/doi/10.1111/gean.70034)
 - **February 6, 2026 [Event]** served as a guest lecturer and a Ph.D. defense committee member at [GeorgiaTech](https://planning.gatech.edu/)
 - **December 5, 2025 [Publication]** accepted a co-authored paper in [*Sustainability Science*](https://link.springer.com/article/10.1007/s11625-025-01788-3)
 - **November 2, 2025 [Conference]** presented a leading poster and a co-authored poster, and co-hosted a special session [The Future of Spatial Information Science: Discovered by Novel Spatial Data](https://www.csis.u-tokyo.ac.jp/news/gisa_special_session_2025/) in [the 34th annual meeting of the Geographic Information Systems Association (GISA2025)](https://pub.confit.atlas.jp/en/event/gisa2025) 
@@ -139,8 +139,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 ## Refereed journal papers {-}
 1. Daisuke Murakami, Alexis Comber, Takahiro Yoshida, Narumasa Tsutsumida, Chris Brunsdon, Tomoki Nakaya (2026) <br>
 **Coarse-to-fine spatial modeling: A scalable, machine-learning-compatible framework.** <br>
-*Geographical Analysis*, in press (accepted: February 11, 2026). <br>
-DOI: in press [LINK]
+*Geographical Analysis*, 58 (2), e70034. <br>
+DOI: 10.1111/gean.70034 [[LINK](https://onlinelibrary.wiley.com/doi/10.1111/gean.70034)]
 1. Yasuo Takahashi, Takahiro Yoshida, Brian Alan Johnson, Sawako Shigeto, Yoshiki Yamagata (2025) <br>
 **Contribution of natural capital to quality of life of urban-to-rural migrants in Japan: structural equation modelling using nation-wide survey and public geospatial data.** <br>
 *Sustainability Science*, online first (published: December 29, 2025). <br>
