@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "February, 2026"
+date: "April, 2026"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -16,7 +16,7 @@ url: https://yoshida-gisc.github.io/site/
 
 # Welcome! {-}
 
-<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** is an Assistant Professor (Lecturer) at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/), the University of Tokyo, Japan. The foundation of all his research interests is **Geographical Information Science**. His more specific interests are as follows: 
+<img src="Forest.png" width="23%" height=auto align="right" style="margin: 0 1em 0 1em" />**Takahiro Yoshida** is an Associate Professor at [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/), the University of Tokyo, Japan. The foundation of all his research interests is **Geographical Information Science**. His more specific interests are as follows: 
 
 (1) **Urban and Regional Analysis** based on spatial statistics, spatial econometrics, remote sensing, and its combination with compositional data analysis,
 (2) **Climate Change and Cities** with complex systems of building environments, transport networks, and human behaviors. 
@@ -27,6 +27,7 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 
 ## Updates {-}
 
+- **April 1, 2026 [Event]** Promoted to Associate Professor at CSIS
 - **February 11, 2026 [Publication]** accepted a co-authored paper in [*Geographical Analysis*](https://onlinelibrary.wiley.com/doi/10.1111/gean.70034)
 - **February 6, 2026 [Event]** served as a guest lecturer and a Ph.D. defense committee member at [GeorgiaTech](https://planning.gatech.edu/)
 - **December 5, 2025 [Publication]** accepted a co-authored paper in [*Sustainability Science*](https://link.springer.com/article/10.1007/s11625-025-01788-3)
@@ -58,8 +59,10 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 
 ## Academic experience {-}
 
-
-- April 2024 – present <br>
+- April 2026 – present <br>
+    - Associate Professor, <br>
+    Division of Spatial Information Analysis, Center for Spatial Information Science, the University of Tokyo, Japan.
+- April 2024 – March 2026 <br>
     - Assistant Professor (Lecturer), <br>
     Division of Spatial Information Analysis, Center for Spatial Information Science, the University of Tokyo, Japan.
 - September 2022 – March 2024 <br>
