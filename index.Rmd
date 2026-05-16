@@ -21,8 +21,6 @@ url: https://yoshida-gisc.github.io/site/
 (1) **Urban and Regional Analysis** based on spatial statistics, spatial econometrics, remote sensing, and its combination with compositional data analysis,
 (2) **Climate Change and Cities** with complex systems of building environments, transport networks, and human behaviors. 
 
-Admission information can be found in a webpage of [Department of Socio-Cultural Environmental Studies, Graduate School of Frontier Sciences](https://sbk.k.u-tokyo.ac.jp/index_e.html).
-
 日本語のページ（吉田 崇紘）：[researchmap](https://researchmap.jp/yoshida.takahiro)
 
 ## Updates {-}
@@ -117,6 +115,7 @@ Admission information can be found in a webpage of [Department of Socio-Cultural
 - Address: 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8568, JAPAN
 - Links: [Google Scholar](https://scholar.google.co.jp/citations?user=bYbQYeUAAAAJ&hl=ja); [Web of Science](https://www.webofscience.com/wos/author/record/847593); [ResearchGate](https://www.researchgate.net/profile/Takahiro_Yoshida5);  [researchmap](https://researchmap.jp/yoshida.takahiro); [ORCID](https://orcid.org/0000-0001-8741-5345)
 
+
 # Publications {-}
 
 ## In progress / under review {-}
@@ -148,9 +147,9 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 **Coarse-to-fine spatial modeling: A scalable, machine-learning-compatible framework.** <br>
 *Geographical Analysis*, 58 (2), e70034. <br>
 DOI: 10.1111/gean.70034 [[LINK](https://onlinelibrary.wiley.com/doi/10.1111/gean.70034)]
-1. Yasuo Takahashi, Takahiro Yoshida, Brian Alan Johnson, Sawako Shigeto, Yoshiki Yamagata (2025) <br>
+1. Yasuo Takahashi, Takahiro Yoshida, Brian Alan Johnson, Sawako Shigeto, Yoshiki Yamagata (2026) <br>
 **Contribution of natural capital to quality of life of urban-to-rural migrants in Japan: structural equation modelling using nation-wide survey and public geospatial data.** <br>
-*Sustainability Science*, online first (published: December 29, 2025). <br>
+*Sustainability Science*, 21, 1157–1176. <br>
 DOI: 10.1007/s11625-025-01788-3 [[LINK](https://doi.org/10.1007/s11625-025-01788-3)]
 1. Kimihiro Hino, Ikuho Yamada, Takahiro Yoshida (2025) <br>
 **The impact of introducing new light rail on step counts: Threshold distance analysis in a Japanese regional city.** <br>
@@ -747,7 +746,7 @@ Translated by: Morito Tsutsumi (supervision), Takahiro Yoshida, Kazuki Tamesue, 
     Environmental Restoration and Conservation Agency. <br>
     Project Number: JPMEERF20241RA2
 - July 2023 – March 2028
-    - [Cross-ministerial Strategic Innovation Promotion Program (SIP)](https://www.jst.go.jp/sip/sems/index.html) (PI: Yumiko Iwafune), <br>
+    - [Cross-ministerial Strategic Innovation Promotion Program (SIP)](https://www.jst.go.jp/sip/sems/index.html) (PIs: Yumiko Iwafune (July 2023 – March 2026) and Yoshiki Yamagata (April 2026 – March 2028)), <br>
     Council for Science, Technology and Innovation of Cabinet Office. <br>
     Project Number: JPJ012207
 - April 2023 – March 2028
