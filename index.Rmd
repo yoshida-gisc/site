@@ -143,6 +143,11 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 <hr>
 
 ## Refereed journal papers {-}
+
+1. Kazuaki Arai, Masamitsu Kamada, Takahiro Yoshida, Ikuho Yamada, Ding Ding, Kimihiro Hino (2026) <br>
+**Cross-level regional and socioeconomic inequalities in step counts: A descriptive epidemiological investigation of 1.5 million Japanese smartphone users.** <br>
+*The Lancet Regional Health - Western Pacific*, (Accepted on May 25, 2026). <br>
+DOI: --- [LINK]
 1. Daisuke Murakami, Alexis Comber, Takahiro Yoshida, Narumasa Tsutsumida, Chris Brunsdon, Tomoki Nakaya (2026) <br>
 **Coarse-to-fine spatial modeling: A scalable, machine-learning-compatible framework.** <br>
 *Geographical Analysis*, 58 (2), e70034. <br>
