@@ -1,7 +1,7 @@
 --- 
 title: "TAKAHIRO YOSHIDA's WEBSITE"
 author: ""
-date: "May, 2026"
+date: "June, 2026"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -25,7 +25,9 @@ url: https://yoshida-gisc.github.io/site/
 
 ## Updates {-}
 
-- **May 28, 2026 [Publication]** accepted a co-authored paper in *The Lancet Regional Health - Western Pacific*
+- **June 3, 2026 [Conference]** presented a leading co-authored paper in [the 11th International Workshop on Compositional Data Analysis (CoDaWork2026)](https://www.coda-association.org/en/codawork2026/)
+- **May 31, 2026 [Event]** visited [the Bartlett Centre for Advanced Spatial Analysis, University College London](https://www.ucl.ac.uk/bartlett/casa)
+- **May 25, 2026 [Publication]** accepted a co-authored paper in *The Lancet Regional Health - Western Pacific*
 - **May 19, 2026 [Conference]** presented a co-authored paper in [the 12th International Conference on Indoor Air Quality, Ventilation and Energy Conservation in Buildings (IAQVEC2026)](https://iaqvec2026.org/)
 - **April 1, 2026 [Event]** appointed as Visiting Associate Professor at [the Institute of Statistical Mathematics](https://www.ism.ac.jp/index_e.html)
 - **April 1, 2026 [Event]** promoted to Associate Professor at CSIS
