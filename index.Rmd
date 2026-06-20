@@ -25,9 +25,10 @@ url: https://yoshida-gisc.github.io/site/
 
 ## Updates {-}
 
+- **June 8, 2026 [Event]** hosted International workshop on Urban Analytics with Georgia Institute of Technology (June 8–20, 2026)
 - **June 3, 2026 [Conference]** presented a leading co-authored paper in [the 11th International Workshop on Compositional Data Analysis (CoDaWork2026)](https://www.coda-association.org/en/codawork2026/)
 - **May 31, 2026 [Event]** visited [the Bartlett Centre for Advanced Spatial Analysis, University College London](https://www.ucl.ac.uk/bartlett/casa)
-- **May 25, 2026 [Publication]** accepted a co-authored paper in *The Lancet Regional Health - Western Pacific*
+- **May 25, 2026 [Publication]** accepted a co-authored paper in [*The Lancet Regional Health - Western Pacific*](https://www.sciencedirect.com/science/article/pii/S2666606526001057)
 - **May 19, 2026 [Conference]** presented a co-authored paper in [the 12th International Conference on Indoor Air Quality, Ventilation and Energy Conservation in Buildings (IAQVEC2026)](https://iaqvec2026.org/)
 - **April 1, 2026 [Event]** appointed as Visiting Associate Professor at [the Institute of Statistical Mathematics](https://www.ism.ac.jp/index_e.html)
 - **April 1, 2026 [Event]** promoted to Associate Professor at CSIS
@@ -146,8 +147,8 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 
 1. Kazuaki Arai, Masamitsu Kamada, Takahiro Yoshida, Ikuho Yamada, Ding Ding, Kimihiro Hino (2026) <br>
 **Cross-level regional and socioeconomic inequalities in step counts: A descriptive epidemiological investigation of 1.5 million Japanese smartphone users.** <br>
-*The Lancet Regional Health - Western Pacific*, (Accepted on May 25, 2026). <br>
-DOI: --- [LINK]
+*The Lancet Regional Health - Western Pacific*, (published online first; accepted on May 24, 2026). <br>
+DOI: 10.1016/j.lanwpc.2026.101901 [[LINK](https://www.sciencedirect.com/science/article/pii/S2666606526001057)]
 1. Daisuke Murakami, Alexis Comber, Takahiro Yoshida, Narumasa Tsutsumida, Chris Brunsdon, Tomoki Nakaya (2026) <br>
 **Coarse-to-fine spatial modeling: A scalable, machine-learning-compatible framework.** <br>
 *Geographical Analysis*, 58 (2), e70034. <br>
