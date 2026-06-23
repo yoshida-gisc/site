@@ -148,7 +148,7 @@ arXiv: 1710.08558 [[LINK](https://arxiv.org/abs/1710.08558)]
 1. Kazuaki Arai, Masamitsu Kamada, Takahiro Yoshida, Ikuho Yamada, Ding Ding, Kimihiro Hino (2026) <br>
 **Cross-level regional and socioeconomic inequalities in step counts: A descriptive epidemiological investigation of 1.5 million Japanese smartphone users.** <br>
 *The Lancet Regional Health - Western Pacific*, (published online first; accepted on May 24, 2026). <br>
-DOI: 10.1016/j.lanwpc.2026.101901 [[LINK](https://www.sciencedirect.com/science/article/pii/S2666606526001057)]
+DOI: 10.1016/j.lanwpc.2026.101901 [[LINK](https://www.sciencedirect.com/science/article/pii/S2666606526001057)] [[PRESS RELEASE](https://www.t.u-tokyo.ac.jp/hubfs/press-release/2026/0620/001/text.pdf)]
 1. Daisuke Murakami, Alexis Comber, Takahiro Yoshida, Narumasa Tsutsumida, Chris Brunsdon, Tomoki Nakaya (2026) <br>
 **Coarse-to-fine spatial modeling: A scalable, machine-learning-compatible framework.** <br>
 *Geographical Analysis*, 58 (2), e70034. <br>
@@ -348,6 +348,11 @@ DOI: 10.1016/j.landurbplan.2016.02.008 [[LINK](http://www.sciencedirect.com/scie
 
 ## Refereed proceedings papers {-}
 
+1. Ryuta Tsurumi, Takahiro Yoshida (2026) <br>
+**Spatiotemporal analysis of major CO2 emission sources in the Japanese building sector.** <br>
+E3S Web of Conferences, 716, 10013. <br>
+DOI: 10.1051/e3sconf/202671610013 [[LINK](https://doi.org/10.1051/e3sconf/202671610013)]
+    - <font size="-1"><font color="gray">This paper was presented at the 12th International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings (IAQVEC 2026), Los Angeles, USA, May 18–22, 2026.</font></font>
 1. Qinghao Zeng, Ryan T. Nation, Hina I. Ahmed, Hsu-Chieh Ma, Kaiyu Zhou, Jiaqi Gu, Takahiro Yoshida, Akito Murayama, Perry Pei-Ju Yang (2025) <br>
 **Enhancing Urban Heat Risk Resilience in Tokyo’s Nihonbashi through Urban Digital Twins of 4-Step Scenario Planning.** <br>
 *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, XLVIII-4/W16-2025, 135–142. <br>
