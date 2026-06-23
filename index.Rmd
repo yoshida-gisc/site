@@ -25,7 +25,7 @@ url: https://yoshida-gisc.github.io/site/
 
 ## Updates {-}
 
-- **June 8, 2026 [Event]** hosted International workshop on Urban Analytics with Georgia Institute of Technology (June 8–20, 2026)
+- **June 8, 2026 [Event]** hosted [International workshop on Urban Analytics with Georgia Institute of Technology (June 8–20, 2026)](https://www.csis.u-tokyo.ac.jp/news/urban_analytics_workshop_202606/)
 - **June 3, 2026 [Conference]** presented a leading co-authored paper in [the 11th International Workshop on Compositional Data Analysis (CoDaWork2026)](https://www.coda-association.org/en/codawork2026/)
 - **May 31, 2026 [Event]** visited [the Bartlett Centre for Advanced Spatial Analysis, University College London](https://www.ucl.ac.uk/bartlett/casa)
 - **May 25, 2026 [Publication]** accepted a co-authored paper in [*The Lancet Regional Health - Western Pacific*](https://www.sciencedirect.com/science/article/pii/S2666606526001057)
