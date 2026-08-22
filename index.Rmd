@@ -25,7 +25,7 @@ url: https://yoshida-gisc.github.io/site/
 
 ## Updates {-}
 
-- **August 14, 2026 [Event]** hosted [CSIS International Seminar inviting Prof. Matthias Templ (August 14, 2026)](https://www.csis.u-tokyo.ac.jp/event/csis_international_seminar_aug14_202608/)
+- **August 14, 2026 [Event]** hosted [CSIS International Seminar inviting Prof. Matthias Templ](https://www.csis.u-tokyo.ac.jp/event/csis_international_seminar_aug14_202608/)
 - **June 8, 2026 [Event]** hosted [International Workshop on Urban Analytics 2026 with Georgia Institute of Technology (June 8–20, 2026)](https://www.csis.u-tokyo.ac.jp/news/urban_analytics_workshop_202606/)
 - **June 3, 2026 [Conference]** presented a leading co-authored paper in [the 11th International Workshop on Compositional Data Analysis (CoDaWork2026)](https://www.coda-association.org/en/codawork2026/)
 - **May 31, 2026 [Event]** visited [the Bartlett Centre for Advanced Spatial Analysis, University College London](https://www.ucl.ac.uk/bartlett/casa)
